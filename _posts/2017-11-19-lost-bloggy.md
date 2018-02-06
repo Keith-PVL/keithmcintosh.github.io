@@ -1,4 +1,9 @@
-﻿                
+﻿---
+layout: post
+title: "Lost Bloggy"
+date: 2017-11-19
+---
+
 # Lost Bloggy
 
 ## 19th November 2017
