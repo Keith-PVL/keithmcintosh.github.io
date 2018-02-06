@@ -1,10 +1,20 @@
 <!DOCTYPE html>
 	<html>
 		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/styles/styles2.css">
+			<title>{{ page.title }}</title>			
+			<link rel="stylesheet" type="text/css" href="/styles/styles2.css">  <!--Link to style sheet-->
+            <link rel="shortcut icon" href="mogantosh.ico">                     <!--icon-->
+
+            <!-- Global Site Tag (gtag.js) - Google Analytics -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-39440447-1"></script>
+            <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments)};
+                gtag('js', new Date());
+                gtag('config', 'UA-39440447-1');
+            </script>
 		</head>
+
 		<body>
 			<nav>
 	    		<ul>
@@ -19,11 +29,5 @@
 			{{ content }}
 			
 			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
-	        		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
-				</ul>
-			</footer>
 		</body>
 	</html>
