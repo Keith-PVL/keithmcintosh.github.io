@@ -15,19 +15,33 @@
             </script>
 		</head>
 
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/cv">CV</a></li>
-	        		<li><a href="/blog">Blog</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
-		</body>
+    <body>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/about">About</a></li>
+                <li><a href="/cv">CV</a></li>
+                <li><a href="/blog">Blog</a></li>
+            </ul>
+        </nav>
+        <div class="topbar"><div><a href="http://eepurl.com/deGKaH" title="Click here to subscribe to the Mogantosh mailing list.">Subscribe to Mogantosh</a></div></div>
+        <div class="midbar"></div>
+        <div class="content">
+            <div class="sidebar">
+                <img src="images/sidebar/mogantosh.png" />
+                <img src="images/sidebar/rach.png" />
+            </div>
+            <div class="mainbar">
+                <div class="post">
+
+                    <div class="container">
+                        {{ content }}
+                    </div><!-- /.container -->
+                    
+                </div>
+            </div>
+        </div>
+                    
+                    
+    </body>
 	</html>
