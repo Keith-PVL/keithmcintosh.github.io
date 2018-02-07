@@ -133,13 +133,17 @@ h2 {
     color: rgb(60,60,200);
 }
 
-p, li, ul {
+p, li {
     color: rgb(4,10,67);
     text-align: justify;
     font-family: Arvin, Times, serif;
     margin: 12px 0 0 0;
     line-height: 140%;
     vertical-align: baseline /*baseline is the css default anyway;  see td for more on options.*/
+}
+
+ul {
+    margin: 12px 0 0 0;
 }
 
 a {
@@ -152,6 +156,12 @@ a:hover {
     text-decoration:underline;
 }
 
+blockquote {
+    width: 90%;
+    margin: 0 auto;
+    color: rgb(100,120,200);
+}
+
 span {
     white-space: nowrap
 } 
@@ -162,10 +172,3 @@ img {
     display:block;
 }
 
-div blockquote {
-    width:90%;
-    margin:0 auto;
-}
-div blockquote p {
-    color: rgb(100,120,200);
-}
