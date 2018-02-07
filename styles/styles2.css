@@ -83,8 +83,8 @@ div.sidebar {
     vertical-align:top;
 }
 
-div.sidebar img {
-    
+div.sidebar a {
+    display: inline-block;
 }
 
 div.mainbar {
@@ -137,7 +137,7 @@ h2 {
     color: rgb(60,60,200);
 }
 
-p {
+p, li {
     color: rgb(4,10,67);
     text-align: justify;
     font-family: Arvin, Times, serif;
