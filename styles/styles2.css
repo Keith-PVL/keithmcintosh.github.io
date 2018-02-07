@@ -48,7 +48,7 @@ div.content{
     div.sidebar img {width: 65%; margin-bottom: 30px;}
     div.mainbar {width: 70%;}
     h1{font-size:18px}
-    p, h2 {font-size: 16px;}
+    p, h2, li {font-size: 16px;}
 }
 
 /*Small screens*/
@@ -58,7 +58,7 @@ div.content{
     div.sidebar img {width: 120px; margin-bottom: 15px;}
     div.sidebar img:last-child {display:none;}
     div.mainbar {width: 98%;}
-    h1, p, h2{font-size:32px}
+    h1, p, h2, li{font-size:32px}
     div.topbar div{display:none}    /*subscribe button is too small to show*/
 }
 
@@ -100,26 +100,22 @@ div.post {
     border-radius: 6px;
     margin-bottom: 5px;
 }
+
 div.extra {
     border: none;
     background-color:transparent;
     padding: 0 3% 40px 3%;
 }
-    div.extra p {
-        font-family: Arvin;
-        font-size: 16px;
-        line-height: 120%;
-        font-style: italic;
-        color: rgb(150,150,150);
-    }
-
-div.post img.photo-vert {
-        width: 100%;
+div.extra p {
+    font-family: Arvin;
+    font-size: 16px;
+    line-height: 120%;
+    font-style: italic;
+    color: rgb(150,150,150);
 }
 
-div.post img.photo-horiz {
-        width: 100%;
-    }
+div.post img.photo-vert {width: 100%;}
+div.post img.photo-horiz {width: 100%;}
 div.post iframe {
     width:336px;
     height:189px;
@@ -137,7 +133,7 @@ h2 {
     color: rgb(60,60,200);
 }
 
-p, li {
+p, li, ul {
     color: rgb(4,10,67);
     text-align: justify;
     font-family: Arvin, Times, serif;
@@ -151,10 +147,10 @@ a {
     font-weight: bold;
     color:inherit;
 }
-    a:hover {
-        color: rgb(100,105,230);
-        text-decoration:underline;
-    }
+a:hover {
+    color: rgb(100,105,230);
+    text-decoration:underline;
+}
 
 span {
     white-space: nowrap
@@ -166,10 +162,10 @@ img {
     display:block;
 }
 
-div.published {
+div blockquote {
     width:90%;
     margin:0 auto;
 }
-div.published p {
+div blockquote p {
     color: rgb(100,120,200);
 }
