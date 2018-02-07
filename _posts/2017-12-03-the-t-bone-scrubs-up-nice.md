@@ -3,7 +3,7 @@
 
 ## 3rd December 2017
 
-<img src="http://mogantosh.com/images/20171203/pic1.jpg" class="photo-horiz" />
+<img src="/images/20171203/pic1.jpg" class="photo-horiz" />
 
 I had to drag young T-Bone into the land of respectability this week. It was a full-service job. He was a disgrace from nose to tail. T has always been a pants-optional sort of person, and clothes are an issue for us here, especially as the weather gets colder.
 

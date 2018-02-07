@@ -3,7 +3,7 @@
 
 ## 17th December 2017
 
-<img src="http://mogantosh.com/images/20171217/pic1.jpg" class="photo-horiz" />
+<img src="/images/20171217/pic1.jpg" class="photo-horiz" />
 
 Comrades, we’re in the last week of the school term here, preparing to go away this weekend for Christmas, and recovering from a big party we threw on the weekend.
 

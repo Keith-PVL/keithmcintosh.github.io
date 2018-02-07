@@ -7,7 +7,7 @@ After Christmas we went on a rollicking adventure through Northern France, visit
 
 I also arrived home with head lice (French women might not get fat but the head lice are fucking massive) and a raging sinus infection. This left me with no sense of smell (blessing in disguise; see above re car-farting)but it was harder to see the sunny side of the constant face-headache.
 
-<img src="http://mogantosh.com/images/20180125/pic2.jpg" class="photo-horiz" />
+<img src="/images/20180125/pic2.jpg" class="photo-horiz" />
 
 We got back just in time for la rentrée, the start of the new school term. A storm was raging on that first morning, and the flood warnings for our riverside town were high. We ran through rain, thunder and lightning, and I slipped over twice on the cobblestones, painfully. When a child whinged that their trousers were wet I demanded ‘Where’s your backbone?’ It was all a little gothic.
 
@@ -57,7 +57,7 @@ There is an intercom, but no message has come through it. There is a window abov
 
 Stern-Mummy France has let me know my place and yes, it worked - I will make sure I am never late again, but also, I was sorely tempted to let the teacher know that in the vernacular of my old country she should eat a large salty bag of dicks.
 
-<img src="http://mogantosh.com/images/20180125/fawlty.gif" class="photo-horiz" />
+<img src="/images/20180125/fawlty.gif" class="photo-horiz" />
 
 It was annoying but not problematic for me to take the kids home again. But what if I had to go to a workplace? A trip away? An unchangeable appointment? What if we were late due to am asthma attack, a nosebleed, a car breakdown, rather than just a small child’s wardrobe malfunction? It’s the fact that nobody opened that window and spoke to us that hurt the most. I felt very, very far from Australia.
 
@@ -91,9 +91,9 @@ I put all our socks in a bag and then I threw out the bag. Don’t ask how. Beca
 
 All the children actually coped with la rentrée amazingly well. Much, much better than me. To reward them for doing a great job with their first week back at school, on Friday afternoon I made them the meal they have all been asking for: Doctor Who’s favourite snack, fish fingers and custard. They deserved it, even thought I couldn’t look, and then they watched Doctor Who while cuddling under the fluffy leopard-skin blanket we call Big Bertha.
 
-<img src="http://mogantosh.com/images/20180125/pic1.jpg" class="photo-horiz" />
+<img src="/images/20180125/pic1.jpg" class="photo-horiz" />
 
 That was the week that was, but it’s over now. My sinus infection is on the improve - finally - and I am not so fragile. I can handle being the village idiot again. My mistakes are funny. A man – middle-aged, stocky, fag tucked in the side of his mouth - walked past me wearing a t-shirt that read ‘Man I Feel like a Woman’. Maybe he was a Shania Twain fan. Maybe he was an ironic hipster. Maybe he was the Casanova of Sommieres, advertising his availability to the lucky ladies he passed. But I choose to believe that he had no idea what his shirt read and that makes me happy. The rain has stopped, the sun has come out, and I like France again.
 
-<img src="http://mogantosh.com/images/20180125/nice-frenchies.gif" class="photo-horiz" />
+<img src="/images/20180125/nice-frenchies.gif" class="photo-horiz" />
 

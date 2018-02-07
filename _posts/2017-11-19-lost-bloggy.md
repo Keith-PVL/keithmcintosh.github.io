@@ -20,11 +20,11 @@ Wish me luck dealing with this bastard malware.
 
 This is to the donkey shaggers who infected my blog:
 
-![DonkeyShaggers](http://mogantosh.com/images/20171119/bean-finger.gif)
+![DonkeyShaggers](/images/20171119/bean-finger.gif)
 
 And this is for the rest of you:
 
-![Fortherest](http://mogantosh.com/images/20171119/bean-wave.gif)
+![Fortherest](/images/20171119/bean-wave.gif)
 
 I’ll be back, sooner rather than later, I hope.
 

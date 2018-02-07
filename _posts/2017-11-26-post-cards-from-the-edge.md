@@ -9,7 +9,7 @@ That two weeks break restored us all. We had a fabulous few days in Barcelona �
 
 But oh my hat, the house: so good. Such beautiful madness. So inspiring.
 
-<img src="http://mogantosh.com/images/20171126/pic1.png" class="photo-vert" />
+<img src="/images/20171126/pic1.png" class="photo-vert" />
 
 Home for ‘la rentree’: back to school. The kids trotted off with smiles, which made us so proud and so relieved. They are making friends and stepping up to the challenge, and the child I was most worried about is doing great, which is heartwarming.
 
@@ -21,7 +21,7 @@ Toujours le clown. To crack a joke in French is my dream, but that chicken is ab
 
 It is, in fact, an amazing experience,to be made mute like this,  and while I always thought that this aspect of France life would be character-building for the children, I didn’t realise it would be the same for me. It’s hard, and some days I really wish I didn't have to work so hard to speak to anybody. But it is wonderful.
 
-<img src="http://mogantosh.com/images/20171126/pic4.jpg" class="photo-horiz" />
+<img src="/images/20171126/pic4.jpg" class="photo-horiz" />
 
 There are technical issues. Most upsettingly, my blog has been infected with a horrible virus and I’ve had to shut the whole shitshow down. I have a lot of faith in Keith’s skills, but it’s a long-term fix trying to retrieve and scrub all my content, and rebuild a new and better website. The dishwasher isn’t worker, the electricity keeps shorting out, and now the washing machine has thrown in the (wet and stinky) towel. I actually fell off the French ‘detachable’ toilet seat, in a sophisticated display of poise and grace. And once down the stairs too, which hurt more, but at least I had pants on.
 
@@ -31,7 +31,7 @@ We’re busy. Keith is up at 5am to talk to Australia, and in bed at nine, absol
 
 Autumn arrived abruptly – one day we were in t-shirts, the next in puffy jackets and mittens. But ‘it’s not cold yet’ we’re told. I’m worried: how many more layers can we add? I have to remember to pack tissues for the constant streaming noses and now to ‘where are your shoes’ I must add ‘and your hats, beanies, gloves...’ The Mistral, a fierce wind that famously drives folk crazy, blows like the dickens. It nearly blew me off the bridge last week as I crossed it towing my Nana-trolley on the way to the Intermarche (which is either quite a French image or just a portrait of a dickhead. Wherever you go: there you are.)
 
-<img src="http://mogantosh.com/images/20171126/pic2.png" class="photo-vert" />
+<img src="/images/20171126/pic2.png" class="photo-vert" />
 
 I’m loving the Croix Rouge (Red Cross) shop, Katia’s almond croissants and a little bar called the Bar du Nord where old men play cards and drink wine first thing in the morning. In fact I am loving everything about Sommieres. We have been taken to the hearts of some beautiful people. They have embraced us and our children, invited us to their homes, delivered goods to the doorsteps and showed such kindness. Even though we are the Stupid Family, they love us anyway.
 
@@ -41,4 +41,4 @@ I feel far from home, I wish the washing machine would work, and I miss my Mum a
 
 Love to you all. X
 
-<img src="http://mogantosh.com/images/20171126/pic3.png" class="photo-vert" />
+<img src="/images/20171126/pic3.png" class="photo-vert" />
