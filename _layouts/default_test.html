@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+	<html>
+		<head>
+            <meta charset="utf-8">
+			<title>{{ page.title }}</title>			
+			<link rel="stylesheet" type="text/css" href="/styles/styles2.css">  <!--Link to style sheet-->
+            <link rel="shortcut icon" href="/images/mogantosh.ico">                     <!--icon-->
+
+            <!-- Global Site Tag (gtag.js) - Google Analytics -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-39440447-1"></script>
+            <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments)};
+                gtag('js', new Date());
+                gtag('config', 'UA-39440447-1');
+            </script>
+		</head>
+
+    <body>
+        <div class="topbar"><div><a href="http://eepurl.com/deGKaH" title="Click here to subscribe to the Mogantosh mailing list.">Subscribe to Mogantosh</a></div></div>
+        <div class="midbar"></div>
+        <div class="content">
+            <div class="sidebar">
+                <img src="/images/sidebar/mogantosh.png" />
+                <img src="/images/sidebar/rach.png" />
+                <p><b>Posts:</b></p>
+                {% for post in site.posts %}
+                <p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>
+                {% endfor %}
+                <p><i>And many more to be recovered...</i></p>
+            </div>
+            <div class="mainbar">
+                <div class="post">
+                    {{ content }}                    
+                </div>
+                <div class="post extra">
+                    <p>No comments possible on this new blog yet, but visit me at <a href="https://www.instagram.com/mogantosh/">Instagram</a> or <a href="https://www.facebook.com/mogantosh/">Facebook</a> if you want to send a message.</p>
+                </div>
+            </div>
+        </div>                                       
+    </body>
+	</html>
