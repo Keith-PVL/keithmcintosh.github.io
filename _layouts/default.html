@@ -24,12 +24,10 @@
                 <img src="/images/sidebar/mogantosh.png" />
                 <img src="/images/sidebar/rach.png" />
                 <p><b>Posts:</b></p>
-                <p><a href="/2018/01/25/bad-france">Bad France</a></p>
-                <p><a href="/2017/12/17/post-party">Post party</a></p>
-                <p><a href="/2017/12/03/the-t-bone-scrubs-up-nice">The T-bone scrubs up nice</a></p>
-                <p><a href="/2017/11/26/post-cards-from-the-edge">Post cards from the edge</a></p>
-                <p><a href="/2017/11/19/lost-bloggy">Lost bloggy</a></p>
-                <p><i>And many many old ones that will soon be recovered...</i></p>
+                {% for post in site.posts %}
+                <p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>
+                {% endfor %}
+                <p><i>And many more to be recovered...</i></p>
             </div>
             <div class="mainbar">
                 <div class="post">
@@ -37,21 +35,6 @@
                 </div>
                 <div class="post extra">
                     <p>No comments possible on this new blog yet, but visit me at <a href="https://www.instagram.com/mogantosh/">Instagram</a> or <a href="https://www.facebook.com/mogantosh/">Facebook</a> if you want to send a message.</p>
-                </div>
-                <div>
-                    <p><b>Available posts:</b></p>
-                    <ul>
-                        {% for post in site.posts %}
-                        <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-                        {% endfor %}
-                    </ul>
-
-                    <p><a href="/2018/01/25/bad-france">Bad France</a></p>
-                    <p><a href="/2017/12/17/post-party">Post party</a></p>
-                    <p><a href="/2017/12/03/the-t-bone-scrubs-up-nice">The T-bone scrubs up nice</a></p>
-                    <p><a href="/2017/11/26/post-cards-from-the-edge">Post cards from the edge</a></p>
-                    <p><a href="/2017/11/19/lost-bloggy">Lost bloggy</a></p>
-                    <p><i>And many many old ones that will soon be recovered...</i></p>
                 </div>
             </div>
         </div>                                       
