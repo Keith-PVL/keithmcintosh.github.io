@@ -169,6 +169,13 @@ a:hover {
     color: rgb(100,105,230);
     text-decoration:underline;
 }
+a.imageAnchor {
+    text-decoration: none;
+    margin:0;
+    padding:0;
+    width:100%;
+    display:inline-block;
+}
 
 blockquote {
     width: 90%;
