@@ -60,7 +60,6 @@ div.content{
     div.content {padding:0px 20px;}
     div.sidebar{width:100%}
     div.sidebar img {width: 120px; margin-bottom: 15px;}
-    div.sidebar img:nth-child(2) {display:none;}
     div.mainbar {width: 98%;}
     h1, p, h2, li{font-size:32px}
     div.topbar div{display:none}    /*subscribe button is too small to show*/
