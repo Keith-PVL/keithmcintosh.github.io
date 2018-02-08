@@ -118,12 +118,12 @@ div.previousnext{
     width:100%;
     font-size:0;
 }
-div.previousnext a{
+div.previousnext p{
     width:50%;
     display:inline-block;
 }
-div.previousnext a:first-child {text-align: left;}
-div.previousnext a:last-child {text-align: right;}
+div.previousnext p:first-child {text-align: left;}
+div.previousnext p:last-child {text-align: right;}
 
 div.extra {
     border: none;
