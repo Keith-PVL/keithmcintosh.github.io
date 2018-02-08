@@ -23,6 +23,8 @@
             <a href="/" title="Mogantosh homepage" class="imageAnchor"><img src="/images/sidebar/mogantosh.png" /></a>
             <img class="bigscreens" src="/images/sidebar/rach.png" />
             <div class="postlist bigscreens">
+                <p><a href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a></p>
+                <p><a href="{{page.next.url}}">&laquo; {{page.next.title}}</a></p>
                 <p><b>Posts:</b></p>
                 {% for post in site.posts %}
                 <p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>
