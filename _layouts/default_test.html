@@ -22,12 +22,14 @@
         <div class="content">
             <div class="sidebar">
                 <img src="/images/sidebar/mogantosh.png" />
-                <img src="/images/sidebar/rach.png" />
-                <p><b>Posts:</b></p>
-                {% for post in site.posts %}
-                <p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>
-                {% endfor %}
-                <p><i>And many more to be recovered...</i></p>
+                <img class="bigscreens" src="/images/sidebar/rach.png" />
+                <div class="postlist bigscreens">
+                    <p><b>Posts:</b></p>
+                    {% for post in site.posts %}
+                    <p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>
+                    {% endfor %}
+                    <p><i>And many more to be recovered...</i></p>
+                </div>
             </div>
             <div class="mainbar">
                 <div class="post">
@@ -35,6 +37,13 @@
                 </div>
                 <div class="post extra">
                     <p>No comments possible on this new blog yet, but visit me at <a href="https://www.instagram.com/mogantosh/">Instagram</a> or <a href="https://www.facebook.com/mogantosh/">Facebook</a> if you want to send a message.</p>
+                </div>
+                <div class="postlist smallscreens">
+                    <p><b>Posts:</b></p>
+                    {% for post in site.posts %}
+                    <p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>
+                    {% endfor %}
+                    <p><i>And many more to be recovered...</i></p>
                 </div>
             </div>
         </div>                                       

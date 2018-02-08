@@ -41,6 +41,8 @@ div.content{
 
 /*Big screens*/
 @media (min-device-width: 600px) {
+    .bigscreens{display:normal;}
+    .smallscreens{display:none;}
     div.topbar {position: fixed; top: 0}
     div.midbar {position: fixed; top: 40px}
     div.content {padding:75px 20px;}
@@ -53,6 +55,8 @@ div.content{
 
 /*Small screens*/
 @media (max-device-width: 600px) {
+    .bigscreens {display: none;}
+    .smallscreens{display: normal;}
     div.content {padding:0px 20px;}
     div.sidebar{width:100%}
     div.sidebar img {width: 120px; margin-bottom: 15px;}
@@ -100,6 +104,16 @@ div.post {
     border-radius: 6px;
     margin-bottom: 5px;
 }
+div.postlist {
+    padding: 10px;
+    background: transparent;
+    margin-bottom: 5px;
+}
+div.postlist p {
+    margin: 8px 0 0 0;
+    line-height: 120%;
+}
+
 
 div.extra {
     border: none;
