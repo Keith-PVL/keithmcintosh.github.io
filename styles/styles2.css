@@ -114,6 +114,17 @@ div.postlist p {
     text-align:left;
 }
 
+div.previousnext{
+    width:100%;
+    font-size:0;
+}
+div.previousnext {
+    width:50%;
+}
+div.previousnext a:first-child {text-align: left;}
+div.previousnext a:last-child {text-align: right;}
+
+
 
 div.extra {
     border: none;
