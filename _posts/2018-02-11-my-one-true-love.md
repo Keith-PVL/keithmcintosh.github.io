@@ -5,7 +5,7 @@
 
 <img src="/images/20180211/pic1.JPG" class="photo-horiz" />
 
-*This piece recently ran recently in the Sunday Life magazine in Australia. I am getting ever-so-slightly better with my French every week, even though my mistakes are constant. Also constant: my love of the markets.*
+*This piece recently ran recently in the Sunday Life magazine in Australia. I am getting ever-so-slightly better with my French every week, even though my mistakes are constant. (Last week, for instance, I said 'à putain!' to a school mum instead of 'à bientôt!') But also constant: my love of the markets.*
 
 I am living in the south of France for a year with my husband Keith and three small children, and I feel like a fish out of water everywhere but one place: the Saturday street market.
 
