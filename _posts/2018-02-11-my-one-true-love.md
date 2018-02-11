@@ -3,7 +3,7 @@
 
 ## 11th February 2018
 
-<img src="/images/20180211/pic1.jpg" class="photo-horiz" />
+<img src="/images/20180211/pic1.JPG" class="photo-horiz" />
 
 *This piece recently ran recently in the Sunday Life magazine in Australia. I am getting ever-so-slightly better with my French every week, even though my mistakes are constant. Also constant: my love of the markets.*
 
@@ -13,7 +13,7 @@ This market has been operating in our small medieval town of Sommieres since the
 
 From Monday from Friday, life is all about the kids.  But on Saturday, the market is for me. I trundle my Nana-trolley (a purchase that represents the greatest investment in my quality-of-life since the elasticated waist) down the cobblestones of my quiet street to reach the buzzing town square. The knife-sharpening man is there, operating a machine that looks like it dates from the Industrial Revolution. There are buskers with clarinets and piano-accordions, the cobblestones are slippery, and everywhere, one must be careful not to trip over the cats.
 
-<img src="/images/20180211/pic2.jpg" class="photo-horiz" />
+<img src="/images/20180211/pic2.JPG" class="photo-horiz" />
 
 The food, of course, is sublime. The Middle-Eastern olive stall offers ‘le gouter’, a taste, and each tapenade and olive marinade is more delicious than the one before. The cheese man offers ‘le gouter’ too. He cannot speak, just points and cuts, offering a piece from the tip of his knife. The paella lady constantly stirs her huge aromatic platters with enormous spatulas, and several charcuterie stalls sell songlier, the sausage made from giant wild Provencal boars. Line snake out the door for the hearty ‘cereale’ baguettes at the hole-in-the-wall woodfired bakery L’Armandine. Organic vegetables, herbs, baguettes and pastries are a feast for the eyes first, then tipped into the Nana-trolley to be enjoyed a second time for lunch. Market-goers luxuriate in the sunshine over wine, freshly-shucked oysters and cigarettes in front of the Rue Mazelle.
 
@@ -29,4 +29,4 @@ But at the markets, I’m just another customer, another lady with a trolley sme
 
 My Saturday experiences allow me to hope that, in some distant future, I might feel ‘market confident’ in my everyday life. How amazing that would be! Until then, Saturdays sustain and bolster me for the week ahead of school runs and Google Translate-fails and eating my emotions with delicious, delicious pastry.
 
-<img src="/images/20180211/pic3.jpg" class="photo-horiz" />
+<img src="/images/20180211/pic3.JPG" class="photo-horiz" />
