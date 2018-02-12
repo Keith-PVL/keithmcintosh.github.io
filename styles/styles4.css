@@ -1,0 +1,209 @@
+﻿@font-face {
+    font-family: Arvin;
+    src: url('Arvin.ttf');
+    font-weight: bold;
+}
+@font-face {
+    font-family: Budhayanti;
+    src: url('Budhayanti script.ttf');
+}
+@font-face {
+    font-family: Architex;
+    src: url('Architex.ttf');
+    font-weight:bold;
+}
+
+body {
+    background-color: rgb(252,255,249);
+    margin: 0;
+    padding: 0;
+    background-image: url("./background.png");
+    background-repeat: repeat;
+}
+
+div.topbar {
+    width: 100%;
+    background-color: rgb(4,10,67);
+    height: 40px;
+}
+div.midbar {
+    width: 100%;
+    background-color: rgb(197,209,178);
+    height: 12px;
+    margin-bottom:20px;
+}
+
+div.content{
+    margin:0 auto;
+    max-width:800px;
+    font-size:0;
+}
+
+/*Big screens*/
+@media (min-device-width: 600px) {
+    .bigscreens{display:normal;}
+    .smallscreens{display:none;}
+    div.topbar {position: fixed; top: 0}
+    div.midbar {position: fixed; top: 40px}
+    div.content {padding:75px 20px;}
+    div.sidebar{width:29%;}
+    div.sidebar img {width: 65%; margin-bottom: 30px;}
+    div.mainbar {width: 70%;}
+    h1{font-size:18px}
+    p, h2, li {font-size: 16px;}
+}
+
+/*Small screens*/
+@media (max-device-width: 600px) {
+    .bigscreens {display: none;}
+    .smallscreens{display: normal;}
+    div.content {padding:0px 20px;}
+    div.sidebar{width:100%}
+    div.sidebar img {width: 120px; margin-bottom: 15px;}
+    div.mainbar {width: 98%;}
+    h1, p, h2, li{font-size:32px}
+    div.topbar div{display:none}    /*subscribe button is too small to show*/
+}
+
+div.topbar div {
+    margin: 0 auto;
+    max-width: 800px;
+    text-align: right;
+}
+div.topbar div a {
+    display: block;
+    color: rgb(197,209,178);
+    font-family: Arvin, Times, serif;
+    text-decoration: none;
+    margin: 9px 25px;
+    font-size: 16px;
+}
+div.topbar div a:hover {color: white;}
+
+
+div.sidebar {
+    display: inline-block;
+    vertical-align:top;
+}
+
+div.sidebar a {
+    display: inline-block;
+}
+
+div.mainbar {
+    display: inline-block;
+}
+
+div.post {
+    padding: 10px 3% 20px 3%;
+    border: 1px solid rgb(100,105,230);
+    outline: 1px solid white;
+    background: white;
+    vertical-align: top;
+    border-radius: 6px;
+    margin-bottom: 5px;
+    overflow:hidden;
+}
+div.postlist {
+    padding: 10px;
+    background: transparent;
+    margin-bottom: 5px;
+}
+div.postlist p {
+    margin: 8px 0 0 0;
+    line-height: 120%;
+    text-align:left;
+}
+
+div.previousnext{
+    width:100%;
+    font-size:0;
+}
+div.previousnext p{
+    min-width:50%;
+    display:inline-block;
+    margin-top:6px;
+}
+div.previousnext p:first-child {text-align: left;}
+div.previousnext p:last-child {text-align: right;}
+
+div.extra {
+    border: none;
+    background-color:transparent;
+    padding: 0 3% 40px 3%;
+}
+div.extra p {
+    font-family: Arvin;
+    font-size: 16px;
+    line-height: 120%;
+    font-style: italic;
+    color: rgb(150,150,150);
+}
+
+div.post img.photo-vert {width: 100%;}
+div.post img.photo-horiz {width: 100%;}
+div.post iframe {
+    width:336px;
+    height:189px;
+    display:block;
+    margin:10px auto 0 auto;
+}
+
+h1 {
+    font-family: Budhayanti, Times, serif;
+    color: rgb(60,60,200);
+}
+
+h2 {
+    font-family: Arvin, Times, serif;
+    color: rgb(60,60,200);
+}
+
+p, li {
+    color: rgb(4,10,67);
+    text-align: justify;
+    font-family: Arvin, Times, serif;
+    margin: 12px 0 0 0;
+    line-height: 140%;
+    vertical-align: baseline /*baseline is the css default anyway;  see td for more on options.*/
+}
+
+ul {
+    margin: 12px 0 0 0;
+}
+
+a {
+    text-decoration: underline;
+    font-weight: bold;
+    color:inherit;
+}
+a:hover {
+    color: rgb(100,105,230);
+    text-decoration:underline;
+}
+a.imageAnchor {
+    text-decoration: none;
+    margin:0;
+    padding:0;
+    width:100%;
+    display:inline-block;
+}
+
+blockquote {
+    width: 90%;
+    margin: 0 auto;
+}
+blockquote p {
+    color: rgb(100,120,200);
+}
+
+span {
+    white-space: nowrap
+} 
+
+img {
+    border: none;
+    margin:0 auto;
+    display:block;
+}
+
