@@ -1,5 +1,5 @@
 ﻿
-# 100 days in France
+# One hundred days in France
 
 ## 19th February 2018
 
