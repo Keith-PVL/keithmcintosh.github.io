@@ -2,6 +2,7 @@
 layout: post
 title: "Lost Bloggy"
 date: 2017-11-19
+categories: France
 ---
 
 # Lost Bloggy
