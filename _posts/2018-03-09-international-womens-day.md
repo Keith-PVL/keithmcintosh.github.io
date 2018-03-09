@@ -54,4 +54,4 @@ I wrote this piece about sexual politics some weeks ago, in the heat of the Aziz
 
 > Who knows where the moment will lead, or how long it will last? The backlash will surely be ugly. But the reckoning is here, and we are gathering our data.
 
-ps - Also, because I love women so much I made a couple of my very own, here's a link to my one my favourite pieces ever, a story about my beloved girlfriends that features an accidental topless selfie and a kitchen implement: http://www.dailylife.com.au/life-and-love/your-girlfriends-will-always-be-there-in-good-and-bad-underwear-20160614-gpj7v2.html
+ps - Also, because I love women so much I made a couple of my very own, here's a [link](http://www.dailylife.com.au/life-and-love/your-girlfriends-will-always-be-there-in-good-and-bad-underwear-20160614-gpj7v2.html) to my one my favourite pieces ever, a story about my beloved girlfriends that features an accidental topless selfie and a kitchen implement.
