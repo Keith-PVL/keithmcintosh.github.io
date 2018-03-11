@@ -14,9 +14,9 @@ Long battle, long fought.
 
 <img src="/images/20180309/pic2.png" class="photo-horiz" />
 
-I wrote this piece about sexual politics some weeks ago, in the heat of the Aziz Ansari debacle. In honour of IWD, in recognition of Charlie and all the women who fought for the rights we have now, and because there is still a long , long way to go, I repost it here.
+I wrote this piece about sexual politics some weeks ago, in the heat of the Aziz Ansari debacle. In honour of IWD, in recognition of Charlie and all the women who fought for the rights we have now, and because there is still a long, long way to go, I repost it here.
 
-> ‘Speak! It’s a revolution for women to have voices, ’ show-runner Jill Soloway said once. Well, the women are speaking now. The words are tumbling out in a rush, in a flooding torrent, and the stories are not pretty.
+> ‘Speak! It’s a revolution for women to have voices,’ show-runner Jill Soloway said once. Well, the women are speaking now. The words are tumbling out in a rush, in a flooding torrent, and the stories are not pretty.
 
 > If you missed it (how’s that rock? comfy?) the latest target in the #metoo wars was award-winning comedian and ‘woke bae’, 34 year old Aziz Ansari, of Parks and Rec and Master of None fame. Last week, a 22 year old photographer using the pseudonym ‘Grace’, outlined in the website Babe (in excruciating detail), an evening she spent with Ansari last year.
 
