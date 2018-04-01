@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 'Honest School Notes #11'
 date: 03-Oct-2017
@@ -36,27 +36,3 @@ Yours sincerely,
 Ms. McIntosh.
 
 Ps – I am hoping that in a couple of months, when the children can communicate a little, that they will stay at school for the 3 course lunch. Also, is this available for mothers? I will pay anything you ask.
-
-<a href="http://mogantosh.com/honest-school-notes-1/">Honest School Notes #1</a>
-
-<a href="http://mogantosh.com/honest-school-notes-2/">Honest School Notes #2</a>
-
-<a href="http://mogantosh.com/honest-school-notes-3/">Honest School Notes #3</a>
-
-<a href="http://mogantosh.com/honest-school-notes-4/"> Honest School Notes #4</a>
-
-<a href="http://mogantosh.com/honest-school-notes-5/">Honest School Notes #5</a>
-
-<a href="http://mogantosh.com/honest-school-notes-6/">Honest School Notes #6</a>
-
-<a href="http://mogantosh.com/honest-school-notes-8/">Honest School Notes #7</a>
-
-<a href="http://mogantosh.com/honest-school-notes-8-2/">Honest School Notes #8</a>
-
-<a href="http://mogantosh.com/honest-school-notes-9-3/">Honest School Notes #</a>9
-
-<a href="http://mogantosh.com/honest-school-notes-10/">Honest School Notes #10</a>
-
- 
-
-x
