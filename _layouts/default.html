@@ -24,7 +24,7 @@
             <img class="bigscreens" src="/images/sidebar/rach.png" />
             <div class="postlist bigscreens">
                 <p><b>Posts:</b></p>
-                {% for post in site.posts %}
+                {% for post in site.posts limit:6 %}
                 <p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>
                 {% endfor %}
                 <p><i>And many more to be recovered from the old blog...</i></p>
