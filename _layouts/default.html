@@ -23,11 +23,11 @@
             <a href="/" title="Mogantosh homepage" class="imageAnchor"><img src="/images/sidebar/mogantosh.png" /></a>
             <img class="bigscreens" src="/images/sidebar/rach.png" />
             <div class="postlist bigscreens">
-                <p><b>Posts:</b></p>
+                <p><b>10 recent posts:</b></p>
                 {% for post in site.posts limit:10 %}
                 <p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>
                 {% endfor %}
-                <p><i>And many more to be recovered from the old blog...</i></p>
+                <p><a href="posts-by-year.html">Earlier posts</a></p>
             </div>
         </div>
         <div class="mainbar">
