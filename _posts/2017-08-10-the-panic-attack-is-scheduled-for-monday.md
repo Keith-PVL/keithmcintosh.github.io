@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 'The Panic Attack Is Scheduled For Monday'
 date: 10-Aug-2017
@@ -8,10 +8,6 @@ categories: tbd
 # The Panic Attack Is Scheduled For Monday
 
 ## 10th August 2017
-
-<h6><img class="photo-horiz" src="http://images.complex.com/complex/image/upload/c_limit,  w_680/fl_lossy,pg_1,q_auto/ylthkedslhkincfylgcc.jpg" />                           Parisian street in 1936 by Maynard Owen Williams for National Geographic</h6>
-
- 
 
 Less than two weeks until we blow this joint...  and we still have no visas. Dealing with the French Embassy has been both comedic and tragic. Ha ha! See the lady smile! See smile not reach the lady’s eyes! See the lady cry and smile! See the French man laugh! See him throw his baguette in the air!
 

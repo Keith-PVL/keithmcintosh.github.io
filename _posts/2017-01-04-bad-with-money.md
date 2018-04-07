@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 'Bad With Money'
 date: 04-Jan-2017
@@ -9,7 +9,7 @@ categories: tbd
 
 ## 4th January 2017
 
-<img src="https://retroloves.files.wordpress.com/2013/04/edwardian-money-bags.jpg?w=625&amp;h=843" />
+<img src="https://retroloves.files.wordpress.com/2013/04/edwardian-money-bags.jpg"  class="photo-vert" />
 
 Happy new year,   comrades!
 
@@ -27,11 +27,11 @@ This is shameful and humiliating, and I have always been like this.
 
 I sabotage myself constantly. I am frugal - I menu plan, I shop at the op-shop, I don't buy much 'stuff'. But the part of me that is thoughtful and careful with money is constantly undermined by the other part of my brain that is weird and anxious about it and so avoids thinking about it as much as possible. Which makes me on the one hand careful, and on the other hand, utterly unaware of where the money is going.
 
-As in; I make careful lists and then buy the sparkly things as they appear before me, like a child.
+As in, I make careful lists and then buy the sparkly things as they appear before me, like a child.
 
-As in; I think about and plan my shopping and then never check my change or keep track of things in process.
+As in, I think about and plan my shopping and then never check my change or keep track of things in process.
 
-As in: my action**s** make my plans a waste of time and energy.
+As in, my actions make my plans a waste of time and energy.
 
 Self-sabotage! What fun!
 
@@ -51,7 +51,7 @@ As you can imagine, I am not at all frustrating to be married to. Over the years
 
 The good thing is that I am not extravagant. Just a fucking idiot. So there is hope.
 
-I've been looking for some advice around the place. I really like the podcast <a href="https://itunes.apple.com/au/podcast/bad-with-money-with-gaby-dunn/id1144712710?mt=2">Bad With Money, by Gaby Dunn. </a>and I tried listening to a couple of others but they are either all about investing or leap unexpectedly into bible verse, which is disconcerting. I tried watching a couple of budgeting YouTubers but they put me to sleep and have crazy eyes. Lots of people seem to be reading The Barefoot Investor. Yay or nay?
+I've been looking for some advice around the place. I really like the podcast <a href="https://itunes.apple.com/au/podcast/bad-with-money-with-gaby-dunn/id1144712710?mt=2">Bad With Money, by Gaby Dunn.</a> and I tried listening to a couple of others but they are either all about investing or leap unexpectedly into bible verse, which is disconcerting. I tried watching a couple of budgeting YouTubers but they put me to sleep and have crazy eyes. Lots of people seem to be reading The Barefoot Investor. Yay or nay?
 
 That's me for 2017. Bad with money. Hoping to get better.
 
