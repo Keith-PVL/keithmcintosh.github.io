@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: 'Jo'''s Zealot Podcast Goes Mental'
+title: 'Jos Zealot Podcast Goes Mental'
 date: 28-Sep-2017
 categories: tbd
 ---
