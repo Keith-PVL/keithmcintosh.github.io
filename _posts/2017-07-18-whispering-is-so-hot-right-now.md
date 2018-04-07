@@ -13,7 +13,7 @@ categories: tbd
 
 Whispering is so hot right now. Even Freelee the Banana Girl,   notorious Australian rage-vegan YouTuber, has replaced her ‘meat is murder’ videos with ones where she talks softly about perms while brushing her hair.
 
-<iframe src="https://www.youtube.com/watch?v=HOBGazBqXlk&amp;t=115s" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/HOBGazBqXlk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 It’s called ASMR, or Autonomic Sensory Meridian Response, and it’s one of the fastest growing trends on the internet.  Sometimes called ‘brain massage’, ASMR is the term coined in 2010 for the tingling, pleasurable sensation that ASMR practitioners or ‘ASMRtists’ can induce in a listeners body through such ‘sound triggers’ as whispering, tapping, and brushing.  ASMR is also induced with scenarios of nurturing, non-sexual ‘personal care’, so the ASMRTist may talk directly to camera in role-plays of haircuts and doctor visits. Narration is whispered, paper is scrunched, water is poured and microphones are brushed and tapped with different objects. Meanwhile, devotees (sometimes called ‘tingleheads’) slump smiling in their headphones, bones turned to jelly, and ASMRtists rake in the big bucks.
 
@@ -21,7 +21,7 @@ Truly, it sounds nuttier than a box of Magnums. But there is an undeniable physi
 
 ASMR is thought to be related to synaesthesia (which can cause people to experience otherwise unrelated secondary sensations to sensory stimuli) and to ’chills’, or ‘frisson’, the name given to the physical sensation sometimes experienced when listening to music. A great example: Lady Gaga’s rendition of the Us National Anthem at the 2016 Superbowl.
 
-<iframe src="https://www.youtube.com/watch?v=zv2f5r5O0-c" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/zv2f5r5O0-c" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 The popularity of ASMR is undeniable. There are 127, 000 subscribers to the ASMR sub-Reddit, 19 million results on a Google search and more than 7 million results on YouTube. Many people use the videos to sleep, with most searches occurring at about 10.30pm, across different time zones, according to Google Trends, and ASMRtists like Heather Feather and ASMR Darling (who called herself an ‘internet brain masseuse’ have huge follower numbers. 28 year old ‘Maria’, who runs ‘Gentle Whispering’ – the biggest ASMR channel on YouTube – has nearly 1 million subscribers.
 
