@@ -27,7 +27,8 @@
                 {% for post in site.posts limit:10 %}
                 <p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>
                 {% endfor %}
-                <p><a href="posts-by-year.html">Earlier posts</a></p>
+                <br />
+                <p><a href="/posts-by-year.html">Earlier posts</a></p>
             </div>
         </div>
         <div class="mainbar">
@@ -42,11 +43,12 @@
                 <p>No comments possible on this new blog yet, but visit me at <a href="https://www.instagram.com/mogantosh/">Instagram</a> or <a href="https://www.facebook.com/mogantosh/">Facebook</a> if you want to send a message.</p>
             </div>
             <div class="postlist smallscreens">
-                <p><b>Other posts:</b></p>
-                {% for post in site.posts %}
+                <p><b>10 recent posts:</b></p>
+                {% for post in site.posts limit:10 %}
                 <p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>
                 {% endfor %}
-                <p><i>And many more to be recovered...</i></p>
+                <br />
+                <p><a href="/posts-by-year.html">Earlier posts</a></p>
             </div>
         </div>
     </div>
