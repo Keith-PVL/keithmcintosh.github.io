@@ -1,15 +1,18 @@
 ﻿---
 layout: post
 title: 'Riding In Trucks With Kids'
-date: 27-Sep-2017
+date: 26-Apr-2018
 categories: tbd
 ---
 
 # Riding In Trucks With Kids
 
-## 27th September 2017
+## 26th April 2018
 
-**Throwback  Thursday!  It's been a year since our trip to Vanuatu,   which I wrote about <a href="http://www.smh.com.au/lifestyle/life-and-relationships/parenting/homeschooling-my-children-in-vanuatu-was-a-learning-experience-in-every-way-20170420-gvokls.html">here </a>and <a href="http://mogantosh.com/south-pacific-postcard-1/">here</a>.  I found this piece of writing,   never published,   about our 2 weeks travelling the islands of Malekula, Santo and Tanna. That adventure feels like a dream, and  at the same time, like it happened  five minutes ago . **
+Throwback  Thursday!  It's been more than a year since we spent time in Vanuatu,   which I wrote about <a href="http://www.smh.com.au/lifestyle/life-and-relationships/parenting/homeschooling-my-children-in-vanuatu-was-a-learning-experience-in-every-way-20170420-gvokls.html">here </a>and <a href="http://mogantosh.com/south-pacific-postcard-1/">here</a>.  I never published this piece about about 2 weeks we spent travelling the islands of Malekula, Santo and Tanna. That adventure feels like a dream, and  at the same time, like it happened  five minutes ago.
+
+I'm sure our year in France will feel the same way, when it's over. 
+
 
 <img src="/images/2017/09/testpiccy.png" class="photo-horiz" />
 
