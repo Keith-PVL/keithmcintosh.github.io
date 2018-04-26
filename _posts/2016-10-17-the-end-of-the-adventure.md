@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 'The End of The Adventure'
 date: 17-Oct-2016
@@ -9,11 +9,11 @@ categories: tbd
 
 ## 17th October 2016
 
-Home from our travels,   where the T-Bone,   like a cat,   immediately re-accqainted himself with his favourite spot: in a patch of sunshine in Mum and Dads bed. I didn't have to put butter on his paws or anything.
+Home from our travels, where the T-Bone, like a cat, immediately re-accqainted himself with his favourite spot: in a patch of sunshine in Mum and Dads bed. I didn't have to put butter on his paws or anything.
 
-<img src="/images/2016/10/DSC_5829-1024x685.jpg" />
+<img src="/images/2016/10/DSC_5829-1024x685.jpg" class="photo-horiz" />
 
-As for me, I immediately re-acquainted myself with the normal run of Sunday: 4 loads of washing, purchasing half the supermarket, producing meals every ten minutes, washing the school clothes and searching for the hats (unsuccessfully.)
+As for me, I immediately re-acquainted myself with the normal run of Sunday: 4 loads of washing, purchasing half the supermarket, producing meals every ten minutes, washing the school clothes and searching for the hats (unsuccessfully).
 
 That right, I remembered. In real life I am Cinderella.
 

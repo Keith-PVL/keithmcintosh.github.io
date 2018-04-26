@@ -7,7 +7,7 @@ categories: tbd
 
 # Stay At Home Mum Feminism
 
-## 2nd Whoops 2016
+## 2nd November 2016
 
 Realising how much I comlain about the housework.
 

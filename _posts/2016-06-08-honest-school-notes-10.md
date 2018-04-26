@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 'Honest School Notes #10'
 date: 08-Jun-2016
@@ -35,22 +35,3 @@ My apologies, again.
 
 Ms. McIntosh
 
-<a href="http://mogantosh.com/honest-school-notes-1/">Honest School Notes #1</a>
-
-<a href="http://mogantosh.com/honest-school-notes-2/">Honest School Notes #2</a>
-
-<a href="http://mogantosh.com/honest-school-notes-3/">Honest School Notes #3</a>
-
-<a href="http://mogantosh.com/honest-school-notes-4/"> Honest School Notes #4</a>
-
-<a href="http://mogantosh.com/honest-school-notes-5/">Honest School Notes #5</a>
-
-<a href="http://mogantosh.com/honest-school-notes-6/">Honest School Notes #6</a>
-
-<a href="http://mogantosh.com/honest-school-notes-8/">Honest School Notes #7</a>
-
-<a href="http://mogantosh.com/honest-school-notes-8-2/">Honest School Notes #8</a>
-
-<a href="http://mogantosh.com/honest-school-notes-9-3/">Honest School Notes #</a>9
-
- 

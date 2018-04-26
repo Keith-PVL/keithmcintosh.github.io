@@ -7,7 +7,7 @@ categories: tbd
 
 # Feminist Housewife Blues
 
-## 3rd Whoops 2016
+## 3rd November 2016
 
 Realising how much I comlain about the housework. Draft this for book as well as for blog.
 
