@@ -45,7 +45,7 @@ Malekula is a quiet and rugged island, home to more than seventy language groups
 
 We tour a Small Nambas village where we watch traditional dancing and learn how to weave with coconut palm, make lap-lap, and draw sand hieroglyphs. One day, we visit the postcard-perfect marine reserve at Uri Island. We lie around this sandy paradise in threadbare hammocks playing cards before local bungalow-owner Lines makes octopus and salad for lunch and tells stories of growing up on Malekula. ‘I was scared of the Big Nambas as a child,’ she tells us. ‘I thought they would take me from my bed and eat me, but times have changed now.’
 
-<img class="photo-horiz" src="/images/2017/09/Untitled.png" /> <img class="photo-horiz" src="/images/2017/09/malekula.png" />
+<img class="photo-horiz" src="/images/2017/09/malekula.png" />
 
 Lines’ husband Jake takes us out in the tinny for a snorkel. The water is crystal clear as I swim hand-in-hand with my small daughter. Jake points into the depths, and we see that we are surrounded by giant turtles. These endangered creatures are graceful, slow and beautiful. My little girl and I squeal and squeeze fingers in glee, and I am all warmth – the water, my heart.
 
