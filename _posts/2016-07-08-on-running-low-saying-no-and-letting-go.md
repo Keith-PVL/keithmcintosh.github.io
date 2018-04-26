@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 'On Running Low, Saying No and Letting Go'
 date: 08-Jul-2016
@@ -21,16 +21,9 @@ Sometimes it's impossible to manage more.
 
 In the meantime, Raised by Wolves, written by my spirit animal Caitlin Moran and her sister,  is bringing me many,  many laughs. (Free on SBS right now - is anybody watching it? It is hilarious), and it was my birthday this week (forty-five!)  Keith and I  went for a lovely quiet date last night. We saw Tarzan - my advice is to suspend the critical eye and enjoy the scenery - i.e Alexander Skarsgard (happy phwooarsdday night!)
 
-<img src="http://img.wennermedia.com/620-width/alexander-skarsgard-abs-tarzan-2-2a444f8b-7e39-438a-aaf2-a99c7cf1501a.jpg" />
+<img  class="photo-horiz" src="http://img.wennermedia.com/620-width/alexander-skarsgard-abs-tarzan-2-2a444f8b-7e39-438a-aaf2-a99c7cf1501a.jpg" />
 
 Afterwards we ate bresaola, drank Prosecco and talked travel. Home by ten. It was lovely. Quiet. Perfect.
 
 All the best out there, my friends.
-
- 
-
- 
-
- 
-
  

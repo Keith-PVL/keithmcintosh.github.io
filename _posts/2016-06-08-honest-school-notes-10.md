@@ -15,7 +15,7 @@ Dear Office,
 
 I’m sorry the children were late this morning and wearing the wrong clothes.
 
-I lost my Sunday,   you see.
+I lost my Sunday, you see.
 
 There is so much organisation involved in getting three kids clothed and prepared for a school week that I tend to use Sunday to get on top of that stuff. I bake muffins and bread. I freeze sandwiches and squeezy yogurts and make sure there are lots of apples and carrots in the fridge. I do my best to tackle and conquer the washing pile so that there are pants, undies, socks and hoodies ready for the week ahead. This make me happy. I feel I am ready to take on the world.
 

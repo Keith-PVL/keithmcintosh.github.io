@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 'Postcards From A Temporary Single Mother'
 date: 15-Aug-2016
@@ -15,9 +15,7 @@ It's been a season of illness, stress, worry and sadness, and we are now prepari
 
 We will miss him very much.
 
-<img src="https://fbcdn-photos-b-a.akamaihd.net/hphotos-ak-xla1/v/t1.0-0/p235x350/12391846_10153903239076869_2014076754078475000_n.jpg?oh=b53241f221f9f954b8a07f044a181c40&amp;oe=5853D989&amp;__gda__=1478399228_9e773ba3165e129184922843aff7f495" />
-
-**For Practical Parenting, July 2016**
+*For Practical Parenting, July 2016*
 
 Lately, all three of my children have been sleeping in my bed, which is both lovely and terrible. It’s lovely, because their arms and legs are strong and small and cling so tight; and I know that the pure, fierce affection of childhood will shift and change into something else someday, and I will miss it. But it’s terrible, because the children squeeze up so tight to me that I can’t breathe, and feel that I am in some sort of medieval dungeon-prison with no room for all the occupants, where we must turn over in unison on a given signal. Also: wee.
 

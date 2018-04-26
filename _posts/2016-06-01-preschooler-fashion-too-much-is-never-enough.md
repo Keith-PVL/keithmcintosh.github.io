@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 'Preschooler Fashion: Too Much Is Never Enough'
 date: 01-Jun-2016
@@ -9,13 +9,13 @@ categories: tbd
 
 ## 1st June 2016
 
-<p **This post was first published in Practical Parenting Magazine,   June 2016**</p>
+This post was first published in Practical Parenting Magazine, June 2016
 
-<p **Dedicated to Nanna!**</p>
+Dedicated to Nanna!
 
 <img class="photo-horiz" src="http://world4.eu/wp-content/uploads/2013/05/child-fashion-004.jpg" />
 
-<h6 Nothing new under the sun,   German postcard, 1910</h6>
+*Nothing new under the sun, German postcard, 1910.*
 
 I’m thinking I might start a fashion line called ‘Four Year Old’. Every garment in my first collection (I shall call it More Is More) will be sparkly, glittering or bejewelled. It will be spectacular, and also, utterly mad.
 
@@ -32,7 +32,5 @@ When my son T-Bone was four, he insisted that his outfits be ‘like a fruit sal
 Of course, now that Peanut and T-Bone are nine and seven, their fashion choices take different forms. Peanut wears two different shoes to school every day, and chooses her outfits on how well they facilitate handstands. T-Bone barely notices whether he has shoes on or not.
 
 It’s my third child, Pudding, who is deep in the pre-school fashion zone now. Bedazzled and glorious, she embodies the opposite of Coco Chanels famous advice: ‘get dressed, and then take one thing off’. For Pudding and her peers, enough is never enough. In fact, the pre-school playground should sport a warning sign: ‘Beware: Intensive Glitter Zone.  7% Chance Of Mild Epileptic Fit.  85% Chance Of Headache. Do Not Look Directly At Children As Costumes May Blind’.
-
- 
 
 This third time round, I surrender. I empty my drawers of all the neutrals, the camel, tan and cream, the darling brown Mary-Janes and the vintage coats. Off they go to the op-shop, for other hopeful mothers of size 3-4 youngsters.  I retain the synthetic fibres, the unnatural colours and anything Frozen. Also, I’ll take notes for the fashion line. And I’ll dedicate the first collection to Nanna, because she knew all along, of course, that this sweet and hilarious time won’t last and the best idea of all is to just enjoy it, in all its sparkly madness.
