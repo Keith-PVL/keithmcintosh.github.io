@@ -1,7 +1,7 @@
----
+﻿---
 layout: post
 title: 'Post-Fact Universe'
-date: 23-Wha-2016
+date: 23-Nov-2016
 categories: tbd
 ---
 

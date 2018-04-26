@@ -1,7 +1,7 @@
----
+﻿---
 layout: post
 title: 'Feminist Housewife Blues'
-date: 03-Wha-2016
+date: 03-Nov-2016
 categories: tbd
 ---
 
