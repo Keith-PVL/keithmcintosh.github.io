@@ -373,12 +373,12 @@ The Australian Science Media Centre (AusSMC) is an independent, not-for-profit s
 
  
 
-<div>
+
 
 Disclaimer: Please note that any views expressed are the personal opinions of the experts named. They do not represent the views of the AusSMC or any other organisation unless specifically stated. The AusSMC attempts to provide a range of views from the scientific community.
 
  
 
-</div>
+
 
 The AusSMC can help journalists find an expert on a topical area of science. If you do not wish to receive further emails from the AusSMC, please reply with “Unsubscribe” in the Subject.

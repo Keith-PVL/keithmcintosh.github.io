@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'The Lifetime Wee (Or: The Myth of The Mummy Wars)'
-date: 12-Wha-2014
+date: 12-Nov-2014
 categories: tbd
 ---
 
 # The Lifetime Wee (Or: The Myth of The Mummy Wars)
 
-## 12th Whoops 2014
+## 12th November 2014
 
 <img class="photo-horiz" src="http://3.bp.blogspot.com/-x9guZVRfEB8/T2PNz0UoGkI/AAAAAAAAijg/hiqfQzn1M2M/s1600/Seeberger+brothers.+5761760692_d4a39ea0f7_b.jpeg" />
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'I've Heard Of 'Hair Pie' But This Is Ridiculous'
-date: 21-Wha-2013
+date: 21-Nov-2013
 categories: tbd
 ---
 
 # I've Heard Of 'Hair Pie' But This Is Ridiculous
 
-## 21st Whoops 2013
+## 21st November 2013
 
 The notion of 'food groups' has pretty well penetrated most of the developed world by now.
 

@@ -9,7 +9,7 @@ categories: tbd
 
 ## 23rd February 2015
 
-<img src="http://41.media.tumblr.com/07e677c8698726ccee1d019c997085d1/tumblr_njvze7Gaxm1rffxsno1_1280.jpg" />
+<img class="photo-horiz" src="http://41.media.tumblr.com/07e677c8698726ccee1d019c997085d1/tumblr_njvze7Gaxm1rffxsno1_1280.jpg" />
 
 <h6 <a href="http://mimbeau.tumblr.com/tagged/vintage">Fred Van Schagen,   Paris, 1954</a></h6>
 

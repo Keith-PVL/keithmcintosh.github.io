@@ -53,4 +53,4 @@ I think I relate most to Edgar Allen Poe who said '"I am excessively slothful, a
 
 Also, <a href="http://www.theatlantic.com/entertainment/archive/2013/07/why-stephen-king-spends-months-and-even-years-writing-opening-sentences/278043/">Stephen King on crafting opening sentences.</a>
 
-<a href="http://www.facebook.com/sharer.php?u=&amp;linkname="><img src="http://shongjog.files.wordpress.com/2008/04/share-on-facebook.gif?" />
+<a href="http://www.facebook.com/sharer.php?u=&amp;linkname="><img class="photo-horiz" src="http://shongjog.files.wordpress.com/2008/04/share-on-facebook.gif?" />

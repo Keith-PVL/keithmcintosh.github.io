@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'One Chicken, Two Lovely Dinners'
-date: 26-Wha-2013
+date: 26-Nov-2013
 categories: tbd
 ---
 
 # One Chicken, Two Lovely Dinners
 
-## 26th Whoops 2013
+## 26th November 2013
 
 <p>Heres the first recipe and the chicken. Note all the mess. It's 4.30.</p>
 

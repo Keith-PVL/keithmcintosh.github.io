@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Bookshelf - narural pasnreting and on consciously planning a  life'
-date: 19-Wha-2013
+date: 19-Nov-2013
 categories: tbd
 ---
 
 # Bookshelf - narural pasnreting and on consciously planning a  life
 
-## 19th Whoops 2013
+## 19th November 2013
 
 The other day the otherniht,   keith and i in conversation about where we are, what we're doing, hwo we're living.
 

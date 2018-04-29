@@ -41,7 +41,7 @@ But, prego, allora,   if you have a busy week ahead, here are some brilliant wa
 
 <p The Yardwork Position</p>
 
-<p <img src="http://media1.break.com/dnet/media/555/611/2611555/a4ac5f12-03c7-4f53-8bf0-cff3c8db67d1.jpg" /></p>
+<p <img class="photo-horiz" src="http://media1.break.com/dnet/media/555/611/2611555/a4ac5f12-03c7-4f53-8bf0-cff3c8db67d1.jpg" /></p>
 
 http://media1.break.com/dnet/media/555/611/2611555/a4ac5f12-03c7-4f53-8bf0-cff3c8db67d1.jpg
 

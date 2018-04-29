@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Watching, Reading, Listening #4'
-date: 22-Wha-2015
+date: 22-Nov-2015
 categories: tbd
 ---
 
 # Watching, Reading, Listening #4
 
-## 22nd Whoops 2015
+## 22nd November 2015
 
 What's up. homies?
 
@@ -25,15 +25,15 @@ The other thing I watched and loved lately was the BBC Adaptation of Wolf Hall -
 
 Speaking of banging, Rob Delaney from Catastrophe is my new favourite TV-totty. If you follow him on Twitter he says things like this:
 
-<div>
 
-<div>
 
-<div data-user-id="22084427" data-screen-name="robdelaney" data-name="rob delaney" data-protected="false"><a href="https://twitter.com/robdelaney" data-user-id="22084427"><strong data-aria-label-part="">rob dlaneyVerified account**?@robdelaney</a></div>
 
-</div>
 
-</div>
+<div data-user-id="22084427" data-screen-name="robdelaney" data-name="rob delaney" data-protected="false"><a href="https://twitter.com/robdelaney" data-user-id="22084427"><strong data-aria-label-part="">rob dlaneyVerified account**?@robdelaney</a>
+
+
+
+
 
 <p lang="en" data-aria-label-part="0">Hey <a dir="ltr" href="https://twitter.com/hashtag/Teens?src=hash" data-query-source="hashtag_click">#Teens</a>: would it be cool if I put a <a dir="ltr" href="https://twitter.com/hashtag/saddle?src=hash" data-query-source="hashtag_click">#saddle</a> on my <a dir="ltr" href="https://twitter.com/hashtag/toilet?src=hash" data-query-source="hashtag_click">#toilet</a>?</p>
 

@@ -11,7 +11,7 @@ categories: tbd
 
 <p **This post was first published in Practical Parenting Magazine,   April 2015**</p>
 
-<p <img src="http://www.teamjimmyjoe.com/wp-content/uploads/2012/12/Bad-Family-Photos-Hair.jpg" /></p>
+<p <img class="photo-horiz" src="http://www.teamjimmyjoe.com/wp-content/uploads/2012/12/Bad-Family-Photos-Hair.jpg" /></p>
 
 <h6 <a href="http://awkwardfamilyphotos.com/">(image source)</a></h6>
 

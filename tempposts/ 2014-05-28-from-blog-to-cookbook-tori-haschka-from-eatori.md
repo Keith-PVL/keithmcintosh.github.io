@@ -9,39 +9,39 @@ categories: tbd
 
 ## 28th May 2014
 
-<div>Tori Haschka is the author of two cookbooks:  **A Suitcase and A Spatula**,   which follows her food adventures around the world (armchair travelers take note) and more recently,   **Cut The Carbs**. Tori's writing is thoughtful,   witty and lyrical and her cooking is intelligent and sophisticated. Somehow, Tori manages to be both glamorous and earthy - a lot like me really. (*accidentally sneeze-farts*)
+Tori Haschka is the author of two cookbooks:  **A Suitcase and A Spatula**,   which follows her food adventures around the world (armchair travelers take note) and more recently,   **Cut The Carbs**. Tori's writing is thoughtful,   witty and lyrical and her cooking is intelligent and sophisticated. Somehow, Tori manages to be both glamorous and earthy - a lot like me really. (*accidentally sneeze-farts*)
 
-Tori blogs at <a href="http://www.eatori.com/">Eatori</a>, and today, she's here to talk about her career progression from food blogger to cookbook author.</div>
-
- 
-
-<div></div>
-
-<div>I've known Tori since we worked together many years ago at the Family Planning organisation, where, memorably, we once brainstormed a 'sex dictionary' project. I'd go so far as to say that meeting was about the most fun you could have at a 9am on a Thursday.</div>
-
-<div></div>
+Tori blogs at <a href="http://www.eatori.com/">Eatori</a>, and today, she's here to talk about her career progression from food blogger to cookbook author.
 
  
 
-<div>Here's Tori.</div>
+
+
+I've known Tori since we worked together many years ago at the Family Planning organisation, where, memorably, we once brainstormed a 'sex dictionary' project. I'd go so far as to say that meeting was about the most fun you could have at a 9am on a Thursday.
+
+
 
  
 
-<div><img class="photo-horiz" src="/images/2014/05/420343_10151251777210384_273748339_n.jpg" /></div>
-
-<div></div>
+Here's Tori.
 
  
 
-<div>**Were you a foodie as a child? A teenager that created in the kitchen after school?  When did your connection to food begin?**</div>
+<img class="photo-horiz" src="/images/2014/05/420343_10151251777210384_273748339_n.jpg" />
+
+
 
  
 
-<div>I was a terrible eater as a child. Until I was 11 I would only eat things that were white. Rice. Bread. Potatoes. But most of all; noodles.  A little lick of butter, cheese or plain chicken was all the flavour I needed. I ate greens under duress. To this day I haven’t apologised enough to my mother for the battleground that I made our table (sorry Mum).</div>
+**Were you a foodie as a child? A teenager that created in the kitchen after school?  When did your connection to food begin?**
+
+ 
+
+I was a terrible eater as a child. Until I was 11 I would only eat things that were white. Rice. Bread. Potatoes. But most of all; noodles.  A little lick of butter, cheese or plain chicken was all the flavour I needed. I ate greens under duress. To this day I haven’t apologised enough to my mother for the battleground that I made our table (sorry Mum).
 
 By the time I reached high school my tastes had broadened somewhat. With step parents now part of the family there weren’t the ready strings of genetics to bind a group at a table. Food became more important. The plain rice puddings of yore were replaced with bright risottos and paellas; bland noodles with rich arrabiatas. By the time I was 17 I had honed my day time diet to a constellation of apples and bread. It was only after some serious health wobbles in my early twenties that I realised that I needed to broaden what I ate beyond the white stuff. And it was only when I met Andrew (aka The Hungry One) that a true love of food was born. His appetite - both for food and for life - was infectious. And for a girl who loved strident political theatre and a martial arts devoted Bondi life saver, there wasn't much else that we had in common. Food became our bond- and our happiest times have come from sitting at a shared table.
 
-<div>**What inspired you to start blogging?**</div>
+**What inspired you to start blogging?**
 
 In 2007/2007 I was working in jobs that were interesting (PR and communications for Family Planning- where I met some truly wonderful women ;)  and then later for the Arts Council), but weren't necessarily creative.  I needed a spot to pootle about. I'd been reading quite a bit of Ruth Reichl (her early memoir Comfort me with Apples remains one of my favourite books) and I was inspired to try and view important events in my life through the lens of what was on a plate. The blog started as a place to share stories about food- and later when things got a bit prickly after The Hungry One's mother very suddenly died in some pretty wretched circumstances we started the quest for the best (a madcap endeavor over four years to try and eat at the ten best restaurants in the world), and it became more of a dossier of a life well lived.
 

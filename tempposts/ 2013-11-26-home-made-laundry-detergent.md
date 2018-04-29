@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Home-Made Laundry Detergent'
-date: 26-Wha-2013
+date: 26-Nov-2013
 categories: tbd
 ---
 
 # Home-Made Laundry Detergent
 
-## 26th Whoops 2013
+## 26th November 2013
 
 <p <img class="photo-horiz" src="/images/2013/11/IMG_0213-1024x1024.jpg" /></p>
 

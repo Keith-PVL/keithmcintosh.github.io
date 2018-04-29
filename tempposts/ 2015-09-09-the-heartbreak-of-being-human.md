@@ -43,7 +43,7 @@ you only run for the border
 
 when you see the whole city running as well
 
-<div>
+
 
 your neighbors running faster than you
 
@@ -229,4 +229,4 @@ is safer than here"
 
 We are warm and safe in our beds by accident of birth. Sheer,  dumb, incredible luck. May we never forget that.
 
-</div>
+

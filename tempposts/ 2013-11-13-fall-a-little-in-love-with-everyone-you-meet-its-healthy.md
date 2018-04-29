@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Fall A Little In Love With Everyone You Meet It's Healthy!'
-date: 13-Wha-2013
+date: 13-Nov-2013
 categories: tbd
 ---
 
 # Fall A Little In Love With Everyone You Meet It's Healthy!
 
-## 13th Whoops 2013
+## 13th November 2013
 
 <img class="photo-horiz" src="/images/2013/11/11848u_0.jpg" />
 

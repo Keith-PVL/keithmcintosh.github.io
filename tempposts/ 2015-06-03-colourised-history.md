@@ -13,26 +13,26 @@ hjhjhj
 
  
 
-gh<img src="http://i.imgur.com/RUp3Rge.jpg" />gggggg
+gh<img class="photo-horiz" src="http://i.imgur.com/RUp3Rge.jpg" />gggggg
 
-<img src="https://farm9.staticflickr.com/8767/17063913385_506a6fe27a_k.jpg" />
+<img class="photo-horiz" src="https://farm9.staticflickr.com/8767/17063913385_506a6fe27a_k.jpg" />
 
 tyty
 
-<img src="http://i.imgur.com/y81CRaG.jpg" />
+<img class="photo-horiz" src="http://i.imgur.com/y81CRaG.jpg" />
 
  
 
 tytyutyu
 
-<img src="http://i3.minus.com/jEhtV17ThRXRT.jpg" />
+<img class="photo-horiz" src="http://i3.minus.com/jEhtV17ThRXRT.jpg" />
 
 ghghj
 
-<img src="http://i.imgur.com/Rnbp7zc.jpg" />
+<img class="photo-horiz" src="http://i.imgur.com/Rnbp7zc.jpg" />
 
 hjkhjk
 
-<img src="http://i.imgur.com/Yf9KD1H.jpg" />
+<img class="photo-horiz" src="http://i.imgur.com/Yf9KD1H.jpg" />
 
 all images from this Reddit subgroup.

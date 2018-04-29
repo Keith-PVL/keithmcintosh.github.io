@@ -9,7 +9,7 @@ categories: tbd
 
 ## 11th September 2015
 
-<img src="http://joancrawfordma.tripod.com/sitebuildercontent/sitebuilderpictures/crawfordshildrenmain.jpg" />
+<img class="photo-horiz" src="http://joancrawfordma.tripod.com/sitebuildercontent/sitebuilderpictures/crawfordshildrenmain.jpg" />
 
 <h6 "I was a strict disciplinarian,   perhaps too strict at times, but my God, without discipline what is life?" - Joan Crawford.  Making normal parents look awesome for the last seventy years.  Cheers Joan!</h6>
 

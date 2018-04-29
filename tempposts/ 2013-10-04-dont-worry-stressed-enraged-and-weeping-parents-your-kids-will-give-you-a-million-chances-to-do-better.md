@@ -33,4 +33,4 @@ Good advice.
 
 ps - Payne Bryson also advocates  talking  to your kids about why you are using certain disciplinary techniques. Her argument is that educating kids about their own brains and responses can lead them to greater understanding and mastery over themselves. (This makes me feel better about my six year-old <a href="http://mogantosh.com/?p=269">reading parenting books</a>.)
 
-<a href="http://www.facebook.com/sharer.php?u=&amp;linkname=Don%27t%20Worry%2C%20Stressed%2C%20Enraged%20and%20Weeping%20Parents!%20Your%20Kids%20Will%20Give%20You%20A%20Million%20Chances%20To%20Do%20Better.%20"><img src="http://shongjog.files.wordpress.com/2008/04/share-on-facebook.gif?" />
+<a href="http://www.facebook.com/sharer.php?u=&amp;linkname=Don%27t%20Worry%2C%20Stressed%2C%20Enraged%20and%20Weeping%20Parents!%20Your%20Kids%20Will%20Give%20You%20A%20Million%20Chances%20To%20Do%20Better.%20"><img class="photo-horiz" src="http://shongjog.files.wordpress.com/2008/04/share-on-facebook.gif?" />

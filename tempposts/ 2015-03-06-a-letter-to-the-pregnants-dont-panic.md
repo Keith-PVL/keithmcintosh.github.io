@@ -9,7 +9,7 @@ categories: tbd
 
 ## 6th March 2015
 
-<img src="https://s-media-cache-ak0.pinimg.com/736x/90/0c/1b/900c1b17503909442d7cb8d896e0a97c.jpg" />
+<img class="photo-horiz" src="https://s-media-cache-ak0.pinimg.com/736x/90/0c/1b/900c1b17503909442d7cb8d896e0a97c.jpg" />
 
 <p Johnsons Baby Oil Powder ad,   1947</p>
 

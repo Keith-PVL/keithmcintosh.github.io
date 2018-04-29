@@ -19,71 +19,71 @@ Kellie from <a href="http://dear-olive.blogspot.com.au/">Dear Olive</a> reminded
 
 <blockquote>Peanut has been upping the ante on bedtime shenanigans lately. The last three nights she has found reason after reason to emerge from her room and beg for time off her sleeping sentence. There's been a lot of 'I'm hot', some 'I'm hungry' and one heartfelt 'you need to understand, I'm just not up for it.'
 
-<div></div>
 
-<div>Two nights she has pulled 'My eardrum hurts.' Now, Peanut is a seasoned theatrical actress. It's not her first time around the boards. She's been honing her craft since her early pre-verbal head-banging performances. By age five, she has developed a subtle style. Both Keith and I have fallen for the sickness at dinner-time ploy (and once memorably, refused to be fooled. 'Nope!' I insisted one night. 'Your tummy does not hurt! You will sit there until you finish your vegetables!' Sit there she did. Until she vomited with the beginnings of a gastro bug.)</div>
 
-<div></div>
+Two nights she has pulled 'My eardrum hurts.' Now, Peanut is a seasoned theatrical actress. It's not her first time around the boards. She's been honing her craft since her early pre-verbal head-banging performances. By age five, she has developed a subtle style. Both Keith and I have fallen for the sickness at dinner-time ploy (and once memorably, refused to be fooled. 'Nope!' I insisted one night. 'Your tummy does not hurt! You will sit there until you finish your vegetables!' Sit there she did. Until she vomited with the beginnings of a gastro bug.)
 
- 
 
-<div>You cannot sneakily pass a quick hand over Peanut's forehead to check for fever. She clocks it. And she knows, then, that she has found a chink in your armour. I went along with possible-ear-infection for a while but I knew Peanut was acting when she forgot which ear was hurting. 'Wasn't it the other ear before?' I asked as she held a cold washer to her face. 'It's....moving!' she said quickly. 'I think it's moving around.'</div>
 
  
 
-<div></div>
-
-<div>T-Bone had been quietly watching this medical drama unfold. 'My regg!' he suddenly wailed. 'My regg is hurting!' Peanut looked at him with horror and then back at me. 'That's not real!' she shouted. 'It's not even real!' Ah yes, I thought. The day has come for the student to betray the teacher.</div>
+You cannot sneakily pass a quick hand over Peanut's forehead to check for fever. She clocks it. And she knows, then, that she has found a chink in your armour. I went along with possible-ear-infection for a while but I knew Peanut was acting when she forgot which ear was hurting. 'Wasn't it the other ear before?' I asked as she held a cold washer to her face. 'It's....moving!' she said quickly. 'I think it's moving around.'
 
  
 
-<div></div>
 
-<div>'My regg!' T-Bone moaned, waving both legs in the air.</div>
 
- 
-
-<div></div>
-
-<div>'That's it from both of you,' I said. 'No more banana work. Go to sleep.'</div>
+T-Bone had been quietly watching this medical drama unfold. 'My regg!' he suddenly wailed. 'My regg is hurting!' Peanut looked at him with horror and then back at me. 'That's not real!' she shouted. 'It's not even real!' Ah yes, I thought. The day has come for the student to betray the teacher.
 
  
 
-<div></div>
 
-<div>Last night, Peanut didn't go near the ears. Instead, she complained about the smell in her room. I went in to check. 'Oh, it's fine', I told her. But it did actually stink. 'Go to sleep.'</div>
 
- 
-
-<div></div>
-
-<div>I went out to ask Keith if he'd noticed a smell in the kids room.</div>
+'My regg!' T-Bone moaned, waving both legs in the air.
 
  
 
-<div></div>
 
-<div>'What does it smell like?' he asked. I thought about it. 'Sort of like a cross between Dencorub and shit,' I said. 'Well, I did put Dencorub on Peanut's foot earlier...' he said. 'So it's just shit then,' we agreed. And we laughed. Like the evil parents we are.</div>
 
- 
-
-<div></div>
-
-<div>The crying continued. 'It really stinks!' Peanut sobbed. ' I can't sleep in this smell!' Both Keith and I went in and turned the light on. We inspected the room but there was no obvious stains. We questioned T-Bone but he denied poo crime.</div>
+'That's it from both of you,' I said. 'No more banana work. Go to sleep.'
 
  
 
-<div></div>
 
-<div>'I think it's my foot,' she whimpered. Keith smelt her feet. 'Well, Peanut,' he said - always the meticulous scientist - 'you seem to have a small amount of foot odour but that's not the big stink.' I laughed. I couldn't help it. Poor Peanut was infuriated. Eventually she went off to sleep. This morning Keith found a rotting lizard in a bucket outside her bedroom window.</div>
+
+Last night, Peanut didn't go near the ears. Instead, she complained about the smell in her room. I went in to check. 'Oh, it's fine', I told her. But it did actually stink. 'Go to sleep.'
 
  
 
-<div></div>
 
-<div>Ms McIntosh, this is your fifteen year call. Ms McIntosh, the Oscars stage in fifteen years.</div></blockquote>
 
-</div>
+I went out to ask Keith if he'd noticed a smell in the kids room.
+
+ 
+
+
+
+'What does it smell like?' he asked. I thought about it. 'Sort of like a cross between Dencorub and shit,' I said. 'Well, I did put Dencorub on Peanut's foot earlier...' he said. 'So it's just shit then,' we agreed. And we laughed. Like the evil parents we are.
+
+ 
+
+
+
+The crying continued. 'It really stinks!' Peanut sobbed. ' I can't sleep in this smell!' Both Keith and I went in and turned the light on. We inspected the room but there was no obvious stains. We questioned T-Bone but he denied poo crime.
+
+ 
+
+
+
+'I think it's my foot,' she whimpered. Keith smelt her feet. 'Well, Peanut,' he said - always the meticulous scientist - 'you seem to have a small amount of foot odour but that's not the big stink.' I laughed. I couldn't help it. Poor Peanut was infuriated. Eventually she went off to sleep. This morning Keith found a rotting lizard in a bucket outside her bedroom window.
+
+ 
+
+
+
+Ms McIntosh, this is your fifteen year call. Ms McIntosh, the Oscars stage in fifteen years.</blockquote>
+
+
 
 Life, it delights me. It's ridiculous.
 

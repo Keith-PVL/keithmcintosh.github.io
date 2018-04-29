@@ -11,7 +11,7 @@ categories: tbd
 
 Home from our travels,   where the T-Bone,   like a cat,   immediately re-accqainted himself with his favourite spot: in a patch of sunshine in Mum and Dads bed. I didn't have to put butter on his paws or anything.
 
-<img src="/images/2016/10/DSC_5829-1024x685.jpg" />
+<img class="photo-horiz" src="/images/2016/10/DSC_5829-1024x685.jpg" />
 
 As for me, I immediately re-acquainted myself with the normal run of Sunday: 4 loads of washing, purchasing half the supermarket, producing meals every ten minutes, washing the school clothes and searching for the hats (unsuccessfully.)
 

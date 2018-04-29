@@ -29,4 +29,4 @@ A screen-free break gave us a chance to stop and be still together as a family, 
 
 (And on a side note, if you;re interested in the topic, I loved the book <a href="http://www.amazon.com/The-Winter-Our-Disconnect-Technology/dp/1585428558">The Winter of Our Disconnect</a>, by Susan Maushart; the funny and thought-provoking journey of  a fully-wired family pulling the plug on all technology for three months.)
 
-<a href="http://www.facebook.com/sharer.php?u=&amp;linkname=Screen%20Free%20Week"><img src="http://shongjog.files.wordpress.com/2008/04/share-on-facebook.gif?" />
+<a href="http://www.facebook.com/sharer.php?u=&amp;linkname=Screen%20Free%20Week"><img class="photo-horiz" src="http://shongjog.files.wordpress.com/2008/04/share-on-facebook.gif?" />

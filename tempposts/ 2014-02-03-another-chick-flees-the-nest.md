@@ -9,45 +9,45 @@ categories: tbd
 
 ## 3rd February 2014
 
-<div><img class="photo-horiz" src="/images/2014/02/p4664-0026.jpg" /></div>
+<img class="photo-horiz" src="/images/2014/02/p4664-0026.jpg" />
 
-<div></div>
 
-<div>Look at this beautiful 2007 photograph of Hazara schoolboys in Afghanistan by <a href="http://uk.phaidon.com/agenda/photography/picture-galleries/2011/february/16/steve-mcurry-the-unguarded-moment/">Steve McCurry</a>. Those bright eyes. Where are those boys now,   I wonder?</div>
 
-<div></div>
+Look at this beautiful 2007 photograph of Hazara schoolboys in Afghanistan by <a href="http://uk.phaidon.com/agenda/photography/picture-galleries/2011/february/16/steve-mcurry-the-unguarded-moment/">Steve McCurry</a>. Those bright eyes. Where are those boys now,   I wonder?
 
- 
 
-<div>All over the world, little ones like these are starting school this year. Today,  it was my small T-Bone's turn.</div>
 
  
 
-<div></div>
-
-<div>Off he trotted, his hat falling over his eyes, his bag packed with spare undies. I was teary and  anxious as I gave him up, even though I have been counting down the minutes until school started. This boy is so ready for school. I'm so ready for a break. But it still pangs, hurts a little, to put my small one into somebody else's hands.</div>
+All over the world, little ones like these are starting school this year. Today,  it was my small T-Bone's turn.
 
  
 
-<div></div>
 
-<div> After I left T at school, I kept thinking about all the time I have spent recently being frustrated and snapping his name.  'T-Bone!' 'T-Bone!' 'T-Bone!' It comes out in a particular sharp cadence (a two-note phrase that that he may in fact he able to mimic perfectly to some future psychologist helping him to process his mother issues) several times a day as he flings things across the room or jumps off the couch onto the baby, or doesn't hear me ask him to do something, as he stares into space and thinks about maths and cake.</div>
 
-<div></div>
+Off he trotted, his hat falling over his eyes, his bag packed with spare undies. I was teary and  anxious as I gave him up, even though I have been counting down the minutes until school started. This boy is so ready for school. I'm so ready for a break. But it still pangs, hurts a little, to put my small one into somebody else's hands.
 
  
 
-<div>T-Bone was sick this weekend. It was beautiful timing actually. Just before stepping up to the challenges of big school, he had a couple of days where he really needed his mum. He's been appearing in our bed in the early hours of every morning for about six months now, but this weekend, hot with fever and slightly delirious, he woke up every hour or two to nestle in and say 'I love my Mummy.' It was so nice to hold him close and baby him a bit, knowing that in just days, 'baby stuff' would become a thing.</div>
+
+
+ After I left T at school, I kept thinking about all the time I have spent recently being frustrated and snapping his name.  'T-Bone!' 'T-Bone!' 'T-Bone!' It comes out in a particular sharp cadence (a two-note phrase that that he may in fact he able to mimic perfectly to some future psychologist helping him to process his mother issues) several times a day as he flings things across the room or jumps off the couch onto the baby, or doesn't hear me ask him to do something, as he stares into space and thinks about maths and cake.
+
+
 
  
 
-<div></div>
-
-<div>I found this piece I wrote a couple of years ago when Peanut started school.</div>
+T-Bone was sick this weekend. It was beautiful timing actually. Just before stepping up to the challenges of big school, he had a couple of days where he really needed his mum. He's been appearing in our bed in the early hours of every morning for about six months now, but this weekend, hot with fever and slightly delirious, he woke up every hour or two to nestle in and say 'I love my Mummy.' It was so nice to hold him close and baby him a bit, knowing that in just days, 'baby stuff' would become a thing.
 
  
 
-<div>
+
+
+I found this piece I wrote a couple of years ago when Peanut started school.
+
+ 
+
+
 
 <blockquote>
 
@@ -55,7 +55,7 @@ categories: tbd
 
 </blockquote>
 
-</div>
+
 
 <blockquote>These last few weeks, we’ve been living the final moments of the intimate bubble in which I've spent the last five years. A private little domestic world of babies and breastfeeding, toddlers and tantrums and toilet-training. Of wearing a track between the stove and the washing machine. Long days of baby illnesses and endless nights of broken sleep. My time spent almost entirely within these walls. This warm and wonderful and infuriating and precious place.
 

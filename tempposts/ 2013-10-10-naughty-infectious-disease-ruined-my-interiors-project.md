@@ -149,28 +149,28 @@ Peanut has a nightmare and wakes up shouting. T-Bone wakes up too and I pull the
 
 Pudding wakes. Hungry. I can barely see her through my bleary eyes but I feed her, then tuck her between Peanut and I. She's awake for the day, and happy as a clam. She kicks me with joyful abandon until I am driven out of bed to start the breakfast and school run. Peanut is fine. T-Bone is as mellow as ever. Me, I am Haggis McBaggis.</blockquote>
 
-<div>
+
 
  
 
-</div>
 
-<div>
 
-<div></div>
 
-<div>We're in isolation. I need to wait for a call tomorrow from the GOVERNMENT to tell me what our next steps need to be,. for big kids and small. Along with all my whingy, big-baby feelings of loneliness and frustration and exhaustion, I am sad that I can't go out and buy hot pink and orange paint to repaint the shaggy old bathroom cupboards tomorrow. I've come over all painty. I can't stop.</div>
 
-<div></div>
 
-<div><img class="photo-horiz" src="/images/2013/10/aIMG_1590-e1381403906148-225x300.jpg" /></div>
 
-<div></div>
+We're in isolation. I need to wait for a call tomorrow from the GOVERNMENT to tell me what our next steps need to be,. for big kids and small. Along with all my whingy, big-baby feelings of loneliness and frustration and exhaustion, I am sad that I can't go out and buy hot pink and orange paint to repaint the shaggy old bathroom cupboards tomorrow. I've come over all painty. I can't stop.
 
-<div>Could this infectious disease be the universe staging some kind of style-intervention? A forced cooling-off period over my Monsoon-Wedding colour scheme fantasies?</div>
 
-<div></div>
 
-<div>Wah wah wah.</div>
+<img class="photo-horiz" src="/images/2013/10/aIMG_1590-e1381403906148-225x300.jpg" />
 
-</div>
+
+
+Could this infectious disease be the universe staging some kind of style-intervention? A forced cooling-off period over my Monsoon-Wedding colour scheme fantasies?
+
+
+
+Wah wah wah.
+
+

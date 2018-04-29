@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Lady Mayor of Crazytown'
-date: 04-Wha-2013
+date: 04-Nov-2013
 categories: tbd
 ---
 
 # Lady Mayor of Crazytown
 
-## 4th Whoops 2013
+## 4th November 2013
 
 **This post was originally published in Practical Parenting Magazine,   September 2013. This morning it is brought to you by the letters OMG and the colour green (with accents of carrot.) Last night the whole family (except me) spent the night throwing up. I had made a huge pot of vegetable soup for dinner,   with blueberries for dessert, so the puke was unspeakable. K started throwing up at 3am, and continued until 7.  The kids are pale and grumpy, K looks half-dead, and I'm a wreck, wrapped in a shambles, on a bed of pathos. The school receptionist says a vile new bug is sweeping the school. I'm ready to wrap our place in a giant Hazmat suit and call in the exorcists. **
 

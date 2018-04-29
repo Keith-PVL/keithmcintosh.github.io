@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'I'm Not Up To Dick Today'
-date: 09-Wha-2013
+date: 09-Nov-2013
 categories: tbd
 ---
 
 # I'm Not Up To Dick Today
 
-## 9th Whoops 2013
+## 9th November 2013
 
 <img class="photo-horiz" src="/images/2013/11/tumblr_monor9QgIq1qkgs51o1_1280-1024x780.jpg" />
 

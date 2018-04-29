@@ -23,4 +23,4 @@ The podcast finished though with a final piece of advice that brought me back to
 
 (By the way, K-Dogs office was designed and built by the brilliant <a href="http://www.barnaclestudio.com.au/COWSHED-1">Barnacle Studios</a>. )
 
-<a href="http://www.facebook.com/sharer.php?u=&amp;linkname=On%20Social%20Class%20And%20Sharing%20The%20Bathwater"><img src="http://shongjog.files.wordpress.com/2008/04/share-on-facebook.gif?" />
+<a href="http://www.facebook.com/sharer.php?u=&amp;linkname=On%20Social%20Class%20And%20Sharing%20The%20Bathwater"><img class="photo-horiz" src="http://shongjog.files.wordpress.com/2008/04/share-on-facebook.gif?" />

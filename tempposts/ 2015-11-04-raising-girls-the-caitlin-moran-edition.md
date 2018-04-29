@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Raising Girls: The Caitlin Moran Edition'
-date: 04-Wha-2015
+date: 04-Nov-2015
 categories: tbd
 ---
 
 # Raising Girls: The Caitlin Moran Edition
 
-## 4th Whoops 2015
+## 4th November 2015
 
 <p <img class="photo-horiz" src="http://www.hercampus.com/sites/default/files/2015/10/03/caitlin.jpg" /></p>
 

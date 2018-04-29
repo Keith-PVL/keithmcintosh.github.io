@@ -29,27 +29,27 @@ What to do with this useless rage?
 
 <h3>Educated women are healthier.</h3>
 
-<img src="http://www.roomtoread.org/view.image?Id=3116" />An extra year of girls’ education can reduce infant mortality by 5–10% and can reduce the spread of HIV/AIDS and other preventable disease.
+<img class="photo-horiz" src="http://www.roomtoread.org/view.image?Id=3116" />An extra year of girls’ education can reduce infant mortality by 5–10% and can reduce the spread of HIV/AIDS and other preventable disease.
 
-</div>
+
 
 <div id="twoTwo">
 
 <h3>Educated women earn more.</h3>
 
-<img src="http://www.roomtoread.org/view.image?Id=3117" />Providing a girl with one extra year of education beyond the average boosts her future wages by 20%.
+<img class="photo-horiz" src="http://www.roomtoread.org/view.image?Id=3117" />Providing a girl with one extra year of education beyond the average boosts her future wages by 20%.
 
-</div>
+
 
 <div id="twoThree">
 
 <h3>Significant inequalities still exist</h3>
 
-<img src="http://www.roomtoread.org/view.image?Id=3118" />Of the 793 million illiterate people in the world, two-thirds are female.
+<img class="photo-horiz" src="http://www.roomtoread.org/view.image?Id=3118" />Of the 793 million illiterate people in the world, two-thirds are female.
 
 With each week that passes, the future of the missing Nigerian schoolgirls looks bleaker. Here are their names:
 
-</div>
+
 
 <img class="photo-horiz" src="/images/2014/05/Bm1qeNkCEAMG55Z-307x1024.jpg" />
 

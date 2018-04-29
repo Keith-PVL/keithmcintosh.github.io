@@ -9,7 +9,7 @@ categories: tbd
 
 ## 16th August 2015
 
-<img src="http://ak-hdl.buzzfed.com/static/2015-08/14/16/enhanced/webdr14/enhanced-buzz-wide-5427-1439584230-7.jpg" />
+<img class="photo-horiz" src="http://ak-hdl.buzzfed.com/static/2015-08/14/16/enhanced/webdr14/enhanced-buzz-wide-5427-1439584230-7.jpg" />
 
 <h6 <a href="http://www.buzzfeed.com/gabrielsanchez/pictures-that-show-just-how-crazy-woodstock-really-was#.ggbYEDwQy">Woodstock,   1969, photo via Buzzfeed</a></h6>
 

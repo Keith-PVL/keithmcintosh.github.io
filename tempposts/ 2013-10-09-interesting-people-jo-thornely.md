@@ -9,7 +9,7 @@ categories: tbd
 
 ## 9th October 2013
 
-<div>
+
 
 Jo Thornely has always been ahead of her time. Twenty years ago we worked together in a record shop by day and played pool by night. We were arts students,   constantly cracking jokes, but Jo was always the sharpest (matched only by her twin Shelley). She even kept a notebook in which she'd write down good gags, which is both fabulous and really nerdy.
 
@@ -31,7 +31,7 @@ You're welcome. Do you feel that your quips, your epigrams or your bon mots are 
 
 **
 
-</div>
+
 
 **Boob Boob Titty Boob**
 

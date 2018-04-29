@@ -11,7 +11,7 @@ categories: tbd
 
  
 
-<img src="https://s-media-cache-ak0.pinimg.com/736x/1f/ad/8e/1fad8e3bd4bd2704180b77bb4bb7eff3.jpg" />
+<img class="photo-horiz" src="https://s-media-cache-ak0.pinimg.com/736x/1f/ad/8e/1fad8e3bd4bd2704180b77bb4bb7eff3.jpg" />
 
 Great vintage pic,   women at work in america
 

@@ -37,31 +37,31 @@ On my Wednesday writing days (all three kids in various institutions), I vary my
 
 <blockquote>
 
-<div></div>
 
-<div>2. Stupid hipster barista gives me a dirty look when I asked him for more coffee in my coffee. A cup of foamy milk is not a latte, dude. I am not the twit here. You are the twit! You are the twit! Say clever and cutting things to him inside my head. Actually not very clever. More like 'You think you're good. But you're not.'</div>
 
-<br />
-
-<div></div>
-
-<div>3.  Accidentally pour hot coffee on self and shriek 'Fucky fuck! Fuck!' Quietly accept dirty looks from amorous seniors. Bad library behaviour. I am the twit.</div>
-
-<div></div>
+2. Stupid hipster barista gives me a dirty look when I asked him for more coffee in my coffee. A cup of foamy milk is not a latte, dude. I am not the twit here. You are the twit! You are the twit! Say clever and cutting things to him inside my head. Actually not very clever. More like 'You think you're good. But you're not.'
 
 <br />
 
-<div>4. Apply Pomodoro Technique to writing work and struggle to focus for twenty minutes. Sadly realise have the attention span of an adolescent chimpanzee. Unfortunately have more responsibilities.</div>
 
-<div></div>
+
+3.  Accidentally pour hot coffee on self and shriek 'Fucky fuck! Fuck!' Quietly accept dirty looks from amorous seniors. Bad library behaviour. I am the twit.
+
+
 
 <br />
 
-<div>5. Check time for optometrist appointment and think about frames for reading glasses. Realise that while mocking seniors next door, I am in fact, tripping, metaphorically, on the heels of their orthopaedic sandals.</div>
+4. Apply Pomodoro Technique to writing work and struggle to focus for twenty minutes. Sadly realise have the attention span of an adolescent chimpanzee. Unfortunately have more responsibilities.
 
-<div></div>
 
-<div>
+
+<br />
+
+5. Check time for optometrist appointment and think about frames for reading glasses. Realise that while mocking seniors next door, I am in fact, tripping, metaphorically, on the heels of their orthopaedic sandals.
+
+
+
+
 
 6. Mmmmmm. Orthopaedic sandals.
 
@@ -83,15 +83,15 @@ On my Wednesday writing days (all three kids in various institutions), I vary my
 
 <br />
 
-11. Totes! Awks! Male Senior just turned and stared intently at me for an uncomfortable moment. Was he thinking about his 'personal project' and forgot to turn off his staring gaze? Have I been mumbling out loud again? Or, sick of talking about Esperanto, is he turning his Casanova stylings to the coffee-stained, muttering woman to the left in the 'outfit'?</div>
+11. Totes! Awks! Male Senior just turned and stared intently at me for an uncomfortable moment. Was he thinking about his 'personal project' and forgot to turn off his staring gaze? Have I been mumbling out loud again? Or, sick of talking about Esperanto, is he turning his Casanova stylings to the coffee-stained, muttering woman to the left in the 'outfit'?
 
-<div>9. Realise that while I have been gently mocking seniors in my head, they have spent all morning engaged in light erotic banter and unpressured research. Meanwhile I have a busy afternoon in front of me full of cooking, cleaning, chaffeuring and refereeing who 'started it'. I am the twit. I am the twit.
+9. Realise that while I have been gently mocking seniors in my head, they have spent all morning engaged in light erotic banter and unpressured research. Meanwhile I have a busy afternoon in front of me full of cooking, cleaning, chaffeuring and refereeing who 'started it'. I am the twit. I am the twit.
 
 <br />
 
-10. Mmm. Retirement.</div></blockquote>
+10. Mmm. Retirement.</blockquote>
 
-</div>
+
 
 <br />
 

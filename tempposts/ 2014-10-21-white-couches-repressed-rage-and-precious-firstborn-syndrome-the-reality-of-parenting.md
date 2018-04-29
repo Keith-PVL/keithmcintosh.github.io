@@ -37,7 +37,7 @@ The Tumblr 'It's Like They Know Us' is the funniest thing on raising kids I've s
 
 <p </p>
 
-<p <img src="http://33.media.tumblr.com/29d76c7467affad19534edb1b075eda3/tumblr_ncn4tdr8MV1tm081co1_500.jpg" />
+<p <img class="photo-horiz" src="http://33.media.tumblr.com/29d76c7467affad19534edb1b075eda3/tumblr_ncn4tdr8MV1tm081co1_500.jpg" />
 
 <p "And in this one, you were juuuust crowning."</p>
 

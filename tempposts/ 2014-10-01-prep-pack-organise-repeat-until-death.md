@@ -39,33 +39,33 @@ categories: tbd
 
  
 
-<div></div>
 
-<div>And here I am now, the custodian of three small children. Suddenly I have to keep track of the most enormous amount of administration. There are school reading diaries and fundraising documents and fees. There are permission slips and vaccination schedules and sports registrations. It is like a tsunami of paperwork and it all makes me want to shout ‘Excuse me! I think there has been a terrible mistake! You have mistaken me for another kind of mother!’</div>
 
-<div></div>
+And here I am now, the custodian of three small children. Suddenly I have to keep track of the most enormous amount of administration. There are school reading diaries and fundraising documents and fees. There are permission slips and vaccination schedules and sports registrations. It is like a tsunami of paperwork and it all makes me want to shout ‘Excuse me! I think there has been a terrible mistake! You have mistaken me for another kind of mother!’
 
- 
 
-<div>I do occasionally (okay, frequently) forget the school lunch and/or the school hat and/or the lunch-order, but I have never forgotten to pick the actual child up from school yet. I think that’s pretty good. But where are the prizes for that, I wonder?  Who raised the bar so bloody high that it became expected for school mums to all be super-organised PA’s for our demanding child- bosses? Was it always this way? Did my lengthy, indulgent, enjoyable pre-parenthood years just give me a false picture about what being a proper adult really entailed?</div>
-
-<div></div>
 
  
 
-<div>In lots of ways, motherhood has asked me to step up and be better. More patient. More compassionate. Less uptight about defecating in front of an audience. Able to juggle hot-button questions like ‘Is God real, Mum? Like Santa?’ even before I have had my pint of morning coffee. And as I enter the kids-at-school years, motherhood is asking me to get my act together and stop behaving like a secretary on my final warning.  Motherhood is requesting, in fact, that I become a grown-up.</div>
+I do occasionally (okay, frequently) forget the school lunch and/or the school hat and/or the lunch-order, but I have never forgotten to pick the actual child up from school yet. I think that’s pretty good. But where are the prizes for that, I wonder?  Who raised the bar so bloody high that it became expected for school mums to all be super-organised PA’s for our demanding child- bosses? Was it always this way? Did my lengthy, indulgent, enjoyable pre-parenthood years just give me a false picture about what being a proper adult really entailed?
 
-<div></div>
 
- 
-
-<div>There is a theory that I like that says that bad habits can’t be ‘undone’; just over-ridden and replaced by good ones. The brain sets in place the neural pathway of any habitual behaviour, and each time you do the naughty thing, you reinforce and strengthen it. The only way to build new habits is to practice and practice until you create an alternative, equally strong neural pathway. I have spent my adult life reacting to paperwork by putting my fingers in my ears and saying ‘lalalalala!’ and my brain has become very used to that strategy.  But now it’s time to stop.  And once I get started, there are other bad behaviours to address.</div>
 
  
 
-<div></div>
+In lots of ways, motherhood has asked me to step up and be better. More patient. More compassionate. Less uptight about defecating in front of an audience. Able to juggle hot-button questions like ‘Is God real, Mum? Like Santa?’ even before I have had my pint of morning coffee. And as I enter the kids-at-school years, motherhood is asking me to get my act together and stop behaving like a secretary on my final warning.  Motherhood is requesting, in fact, that I become a grown-up.
 
-<div>I will replace my takeaway-latte addiction with organic green tea. I will replace fruit-and-nut chocolate with kale smoothies. I will stop averting my eyes from the kitchen floor and wash the kitchen floor. I will catch up on my yoga exercises instead of the Real Housewives of Beverly Hills. First things first: the administration.  Step One: stop putting school paperwork on the floor of the car to gently compost with the takeaway coffee cups and lonely sultanas.  Step Two: Create a new system. This will need equipment!  Step 3: Buy highlighters, notebooks and post-it notes. Step 4: Definitely stick to system this time. Definitely.</div>
+
+
+ 
+
+There is a theory that I like that says that bad habits can’t be ‘undone’; just over-ridden and replaced by good ones. The brain sets in place the neural pathway of any habitual behaviour, and each time you do the naughty thing, you reinforce and strengthen it. The only way to build new habits is to practice and practice until you create an alternative, equally strong neural pathway. I have spent my adult life reacting to paperwork by putting my fingers in my ears and saying ‘lalalalala!’ and my brain has become very used to that strategy.  But now it’s time to stop.  And once I get started, there are other bad behaviours to address.
+
+ 
+
+
+
+I will replace my takeaway-latte addiction with organic green tea. I will replace fruit-and-nut chocolate with kale smoothies. I will stop averting my eyes from the kitchen floor and wash the kitchen floor. I will catch up on my yoga exercises instead of the Real Housewives of Beverly Hills. First things first: the administration.  Step One: stop putting school paperwork on the floor of the car to gently compost with the takeaway coffee cups and lonely sultanas.  Step Two: Create a new system. This will need equipment!  Step 3: Buy highlighters, notebooks and post-it notes. Step 4: Definitely stick to system this time. Definitely.
 
  
 

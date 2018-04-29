@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Bottom-Of-The-Fridge Vegetable Soup'
-date: 18-Wha-2013
+date: 18-Nov-2013
 categories: tbd
 ---
 
 # Bottom-Of-The-Fridge Vegetable Soup
 
-## 18th Whoops 2013
+## 18th November 2013
 
 
 

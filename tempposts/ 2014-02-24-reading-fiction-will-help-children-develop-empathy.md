@@ -23,13 +23,13 @@ I explored the power of reading once before, when writing about what it meant to
 
 <blockquote>
 
-<div>I am told that the day will come when my barnacle boy will no longer beg me for cuddles (cue the sound of my breaking heart).  Apparently when boys reach a certain age they lose the ability to speak, and you are forced to interpret grunts and facial twitches in lieu of actual conversation.  For years now, I have been building a massive weaponry against this adolescent wall o’silence. It’s called the bookshelf. My teenager's collection, which grows with every school fete and Salvos visit, covers the spectrum from Judy Blume to Puberty Blues to The Outsiders to Bukowski to Nick Hornby.</div>
+I am told that the day will come when my barnacle boy will no longer beg me for cuddles (cue the sound of my breaking heart).  Apparently when boys reach a certain age they lose the ability to speak, and you are forced to interpret grunts and facial twitches in lieu of actual conversation.  For years now, I have been building a massive weaponry against this adolescent wall o’silence. It’s called the bookshelf. My teenager's collection, which grows with every school fete and Salvos visit, covers the spectrum from Judy Blume to Puberty Blues to The Outsiders to Bukowski to Nick Hornby.
 
 <br>
 
-<div></div>
 
-<div>I hope that opening up many worlds to my boy will help him to understand the lives of others, and to give flight to his dreams. I hope that in tough times, when he feels he cannot share his worries with anybody, that books will help him to feel less alone. I also hope that the wide sea of relationships he can explore in books will give him a more realistic picture of sex than the images he is likely - heartbreakingly likely -  to see on the internet.
+
+I hope that opening up many worlds to my boy will help him to understand the lives of others, and to give flight to his dreams. I hope that in tough times, when he feels he cannot share his worries with anybody, that books will help him to feel less alone. I also hope that the wide sea of relationships he can explore in books will give him a more realistic picture of sex than the images he is likely - heartbreakingly likely -  to see on the internet.
 
 <br>
 
@@ -39,7 +39,7 @@ I take the job of supplying this alternative narrative of sex and relationships 
 
 Of course, I hope T-Bones’s instinct will not be to eschew reading altogether. I imagine, in fact, that this might be a pretty sweet rebellion against his nerdily eager, bookish mother. (Note to self: be cool. Be cool!)
 
-</div></blockquote>
+</blockquote>
 
 I want my kids to explore many ways to live, to think, to have fun,  to make sense of their lives.  I especially want them to be compassionate and kind people, and expanding their internal universes to encompass as many stories as possible seems a good way to start. (Plus  they can stay nice and safe on the couch with a cardigan on as they roam wide and wild. Win win!)
 

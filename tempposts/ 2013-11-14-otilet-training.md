@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'otilet training'
-date: 14-Wha-2013
+date: 14-Nov-2013
 categories: tbd
 ---
 
 # otilet training
 
-## 14th Whoops 2013
+## 14th November 2013
 
 at the butcher. mummy did poo in toryet. we try to sheid that fact from our daily activities.
 

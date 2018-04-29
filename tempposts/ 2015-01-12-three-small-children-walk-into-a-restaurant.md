@@ -33,6 +33,6 @@ Back at the table, the tired and sensitive seven year old was trying to force gr
 
 It cost us fifty bucks and ten minutes down the road the whinging began from the back seat. ‘I’m hungry Mama. What’s for dinner?’ Oh, man. Mamma Mia.
 
-<img src="http://s3-ec.buzzfed.com/static/2014-02/enhanced/webdr05/11/6/anigif_enhanced-4576-1392116711-5.gif" />
+<img class="photo-horiz" src="http://s3-ec.buzzfed.com/static/2014-02/enhanced/webdr05/11/6/anigif_enhanced-4576-1392116711-5.gif" />
 
 <h5><a href="http://www.buzzfeed.com/kimberleydadds/amazingly-cute-gifs-of-shirley-temple-as-a-child?sub=2995553_2427381#.kflLbMrzl">Shirley Temple gif from Buzzfeed</a>.</h5>

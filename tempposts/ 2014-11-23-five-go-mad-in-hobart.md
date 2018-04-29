@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Five Go Mad In Hobart'
-date: 23-Wha-2014
+date: 23-Nov-2014
 categories: tbd
 ---
 
 # Five Go Mad In Hobart
 
-## 23rd Whoops 2014
+## 23rd November 2014
 
 <img class="photo-horiz" src="/images/2014/11/1779247_10152972471551869_4635779487351581011_n1.jpg" />
 

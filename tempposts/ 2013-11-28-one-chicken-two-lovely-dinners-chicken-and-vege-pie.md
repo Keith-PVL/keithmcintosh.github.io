@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'One Chicken, Two Lovely Dinners: Chicken and Vege Pie'
-date: 28-Wha-2013
+date: 28-Nov-2013
 categories: tbd
 ---
 
 # One Chicken, Two Lovely Dinners: Chicken and Vege Pie
 
-## 28th Whoops 2013
+## 28th November 2013
 
 Hello again,   my carnivore friends.
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Moody and The Priest'
-date: 16-Wha-2015
+date: 16-Nov-2015
 categories: tbd
 ---
 
 # Moody and The Priest
 
-## 16th Whoops 2015
+## 16th November 2015
 
 9 y/old and her friend are organising a re-telling of beuatry and the beast foir teh school talent show.
 

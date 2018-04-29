@@ -11,7 +11,7 @@ categories: tbd
 
 <p This post was first published in Practical Parenting Magazine,   June 2016 (but the children were playing Forceful Club only yesterday. The battle over kissing the dead-bee continues.They are SUCH WEIRDOS.  I blame their father)</p>
 
-<img src="http://i.dailymail.co.uk/i/pix/2013/08/27/article-2402398-1B78EA4B000005DC-912_634x456.jpg" />
+<img class="photo-horiz" src="http://i.dailymail.co.uk/i/pix/2013/08/27/article-2402398-1B78EA4B000005DC-912_634x456.jpg" />
 
 My four year old daughter walked into preschool recently singing a charming song her big brother and sister had made up. It was called ‘Killer Vaginas from Outer Space’,   and although I got out of there very fast, I  expected a stern email all day, because I knew Pudding would perform all the verses.  There's a bit about Venus, something terrible happens to a penis, and basically, the whole thing is a job for Dr Freud.
 

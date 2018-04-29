@@ -9,4 +9,4 @@ categories: tbd
 
 ## 26th May 2015
 
-<img src="http://images.dangerousminds.net/uploads/images/Fridas9ldmglsdml.jpg" />
+<img class="photo-horiz" src="http://images.dangerousminds.net/uploads/images/Fridas9ldmglsdml.jpg" />

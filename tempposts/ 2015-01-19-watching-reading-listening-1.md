@@ -29,7 +29,7 @@ Knowing where to start is always incredibly tricky. Should I plunge straight int
 
 **Watching:** I am thrilled to have discovered the latest season of the Real Housewives of Beverley Hills on iTunes. Much fine and witty  snark to be had from my favourite Housewife Lisa Vanderpump.
 
-<img src="http://www.ryanseacrest.com/wp-content/uploads/2014/11/LisA-VANDERpump-1200-800.jpg" />
+<img class="photo-horiz" src="http://www.ryanseacrest.com/wp-content/uploads/2014/11/LisA-VANDERpump-1200-800.jpg" />
 
 Lastly, Keith and I have just watched out way right through all seven seasons of Peep Show - very British, very hilarious and very silly. I think the hand signal for 'Wank Bullet' will be part of our language for many years. PLEASE tell me if you are a Peep Show fan. I am laughing thinking about it. On my own, late at night in bed with my sore back while Keith works on his algorithms, I absolutely loved the Maggie Gyllenhaal drama The Honourable Woman. With the kids, we're starting to really get into the Gilmore Girls - I think it will become a favourite family show.
 

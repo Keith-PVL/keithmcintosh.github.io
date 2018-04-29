@@ -9,4 +9,4 @@ categories: tbd
 
 ## 20th June 2015
 
-<img src="http://www.apisanet.com/nnh-content/uploads/an/anxiety-girl-funny-quotes.jpg" />
+<img class="photo-horiz" src="http://www.apisanet.com/nnh-content/uploads/an/anxiety-girl-funny-quotes.jpg" />

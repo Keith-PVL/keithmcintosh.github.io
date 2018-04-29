@@ -9,60 +9,60 @@ categories: tbd
 
 ## 10th February 2014
 
-<div></div>
 
-<div <img class="photo-horiz" src="/images/2014/02/8c098e4d2d72d02ed9f1f4561494572c.jpg" /></div>
 
-<div <a href="http://distinguishedcompany.tumblr.com/post/25534326793">(image source)</a></div>
+<div <img class="photo-horiz" src="/images/2014/02/8c098e4d2d72d02ed9f1f4561494572c.jpg" />
 
-<div </div>
+<div <a href="http://distinguishedcompany.tumblr.com/post/25534326793">(image source)</a>
 
-<div i carry your heart with me (i carry it in</div>
+<div 
 
-<div>my heart) i am never without it (anywhere</div>
+<div i carry your heart with me (i carry it in
 
-<div>i go you go,  my dear; and whatever is done</div>
+my heart) i am never without it (anywhere
 
-<div>by only me is your doing,   my darling)</div>
+i go you go,  my dear; and whatever is done
 
-<div>                                                      i fear</div>
+by only me is your doing,   my darling)
 
-<div></div>
+                                                      i fear
 
-<div>no fate (for you are my fate,  my sweet) i want</div>
 
-<div>no world (for beautiful you are my world,my true)</div>
 
-<div>and it’s you are whatever a moon has always meant</div>
+no fate (for you are my fate,  my sweet) i want
 
-<div>and whatever a sun will always sing is you</div>
+no world (for beautiful you are my world,my true)
 
-<div></div>
+and it’s you are whatever a moon has always meant
 
-<div>here is the deepest secret nobody knows</div>
+and whatever a sun will always sing is you
 
-<div>(here is the root of the root and the bud of the bud</div>
 
-<div>and the sky of the sky of a tree called life; which grows</div>
 
-<div>higher than soul can hope or mind can hide)</div>
+here is the deepest secret nobody knows
 
-<div>and this is the wonder that's keeping the stars apart</div>
+(here is the root of the root and the bud of the bud
 
-<div></div>
+and the sky of the sky of a tree called life; which grows
 
-<div>i carry your heart(i carry it in my heart)</div>
+higher than soul can hope or mind can hide)
 
-<div></div>
+and this is the wonder that's keeping the stars apart
 
-<div>e e cummings</div>
 
-<div></div>
 
-<div>May you fall in love today.</div>
+i carry your heart(i carry it in my heart)
 
-<div></div>
 
-<div>Happy Monday!</div>
 
-<div>x</div>
+e e cummings
+
+
+
+May you fall in love today.
+
+
+
+Happy Monday!
+
+x

@@ -13,7 +13,7 @@ categories: tbd
 
 **Forgive the awful formatting of these photos. Wordpress is beyond my skillset!
 
-<img src="/images/2017/09/testpiccy.png" class="photo-horiz" />
+<img class="photo-horiz" src="/images/2017/09/testpiccy.png" />
 
 I wake in the small hours, dreaming of waterfalls, to find myself lying in a rapidly cooling puddle of warm water. By the proximity of a child’s buttocks above my face I deduce quickly that I have been pissed upon.
 
@@ -47,7 +47,7 @@ We tour a Small Nambas village where we watch traditional dancing and learn how 
 
 Lines’ husband Jake takes us out in the tinny for a snorkel. The water is crystal clear as I swim hand-in-hand with my small daughter. Jake points into the depths, and we see that we are surrounded by giant turtles. These endangered creatures are graceful, slow and beautiful. My little girl and I squeal and squeeze fingers in glee, and I am all warmth – the water, my heart.
 
-<img src="https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/14702260_10154744731741869_1549600585046682085_n.jpg?oh=f039c62be03c1ace7dc4d6b1f1844729&amp;oe=5A4FB94B" />
+<img class="photo-horiz" src="https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/14702260_10154744731741869_1549600585046682085_n.jpg?oh=f039c62be03c1ace7dc4d6b1f1844729&amp;oe=5A4FB94B" />
 
  
 
@@ -71,13 +71,13 @@ On Sunday, we visit a village church where a tithe-offering chicken wanders the 
 
 We are asleep under our mosquito nets by nine. By day, we play round after round of Bananagrams and Gin Rummy, read constantly and take luxurious naps. Keith, a man of science, develops a minor obsession with ‘mentalism’. He guesses which cards the children are holding, over and over, and I weep with laughter as he wrestles with his rational self and scribbles maths on a piece of paper.  ‘I’m not saying that I *am* a mentalist’ he repeats, ‘but statistically, the odds against my guessing this right so many times are *staggering*.’ For days, we practice being mentalists. There is time for such things. We are rich in time.
 
-<img src="https://scontent-cdg2-1.xx.fbcdn.net/v/t31.0-8/14542421_10154672297446869_5821802258257942201_o.jpg?oh=760fe63774f27bb147b3c2a2ac1c26a7&amp;oe=5A5D982F" />
+<img class="photo-horiz" src="https://scontent-cdg2-1.xx.fbcdn.net/v/t31.0-8/14542421_10154672297446869_5821802258257942201_o.jpg?oh=760fe63774f27bb147b3c2a2ac1c26a7&amp;oe=5A5D982F" />
 
 From Santo, we fly to Tanna, an island that blows our tiny minds. After two or three hours of cross-country rainforest trucking, we round a corner to find ourselves staring at Mount Yasur: a huge, active, smoke-belching volcano that the locals believe holds powerful magic.  We get to our accommodation by driving across a vast ash plain at Yasur’s base. OUr lodgings are a rickety treehouse, perched three stories high. The toilet at the base of the stairs is broken and the furniture is sparse but from our balcony, we can see Yasur spouting great puffs of grey and black smoke into the air. All is fantastic.
 
 We hike across the ash plain and through the jungle (a bucket-list bushwalk, if there ever was one) to a ‘John Frum’ cargo cult village, where elderly Chief Isaac tells us about his grandfather inventing the religion in the 1930’s as a reaction against the missionaries who banned ‘custom life’, or the traditional ways. Now, 26 villages across Tanna worship the mystical American military figure John Frum.  They raise the US flag every morning, sing songs of praise on Friday night, and await the second coming.
 
-<img src="https://scontent-cdg2-1.xx.fbcdn.net/v/t31.0-8/15025362_10154785767321869_1562087677243855402_o.jpg?oh=57e6186a063d7c4aa8a815c66d11a972&amp;oe=5A460F66" />
+<img class="photo-horiz" src="https://scontent-cdg2-1.xx.fbcdn.net/v/t31.0-8/15025362_10154785767321869_1562087677243855402_o.jpg?oh=57e6186a063d7c4aa8a815c66d11a972&amp;oe=5A460F66" />
 
 We visit the volcano itself with a tour company who run a nutty, ramshackle program. ‘Here are your health and safety guidelines,’ we are told.  ‘One: if you hear an explosion, don’t run. Two: if you need medicines, you should probably take them, I guess? And three: have fun!’
 
@@ -87,7 +87,7 @@ One poor Frenchman is given a ceremonial shell of kava (sleep-inducing cocktail 
 
 The generator cuts out early in our treehouse perch, and we are visited by a rat in the middle of the night, but tucked in to one big bed and soothed by the soporific rumbling of the volcano, we sleep.  The next morning, however, I am struck with the affliction called I believe, in Royal circles, ‘the squits’. It’s my lowest point of the trip. Diarrhoea is never a party, but when your toilet is a broken outhouse situated three levels of rickety steps underneath your bed, and there is no running water down there, one could be forgiven for feeling a little down-hearted, and perhaps rethinking ones dismissal of Club Med and all their delightful facilities. Never was so much asked of a travel-sized pack of Wet Ones.
 
-<img src="https://scontent-cdg2-1.xx.fbcdn.net/v/t31.0-8/14976665_10154785757831869_5149174020539218467_o.jpg?oh=63f0f37d17cad4a6e9ffb2729b6f14c2&amp;oe=5A5CE2AC" />
+<img class="photo-horiz" src="https://scontent-cdg2-1.xx.fbcdn.net/v/t31.0-8/14976665_10154785757831869_5149174020539218467_o.jpg?oh=63f0f37d17cad4a6e9ffb2729b6f14c2&amp;oe=5A5CE2AC" />
 
 However, when we move across the island to the White Sand Bungalows, I am overjoyed to see a clean hut with an indoor, functioning toilet. It’s the Plaza Hotel! The Paris Ritz! The Gritti Palace!  I praise the gods of plumbing and sleep all afternoon.
 
@@ -97,4 +97,4 @@ The kids are ready too. The random discomforts and privations of backpacking hav
 
 Home again, we settle quickly into real life, and our adventure fades like a dream.  There are school runs and piano lessons, instead of cargo cults and coral cuts. I’m delighted to see my bath and my coffee machine (my precious) and it’s lovely to have more than two outfits to choose from of a morning, but my lovely newly-rested brain is quickly colonised again by that scrolling ticker-tape schedule. Where’s your water bottle? Have you done your homework? Hat parade? What hat parade? But tucked away, like little glowing treasures, are the memories of another kind of family life, a wilder one, where we are all in the adventure together, and the next stop is unpredictable, and the mattress is wee-stained, and we love every minute.
 
-<img src="https://scontent-syd2-1.xx.fbcdn.net/v/t31.0-8/14444696_10154642834391869_3815808514977572427_o.jpg?oh=36666a1f07b5f3d9f72645ae048dc635&amp;oe=5A0BF30B" />
+<img class="photo-horiz" src="https://scontent-syd2-1.xx.fbcdn.net/v/t31.0-8/14444696_10154642834391869_3815808514977572427_o.jpg?oh=36666a1f07b5f3d9f72645ae048dc635&amp;oe=5A0BF30B" />

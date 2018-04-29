@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Interesting People: Sarah-Jane Saznak (Mum, Quadriplegic and Determined Warrior)'
-date: 02-Wha-2014
+date: 02-Nov-2014
 categories: tbd
 ---
 
 # Interesting People: Sarah-Jane Saznak (Mum, Quadriplegic and Determined Warrior)
 
-## 2nd Whoops 2014
+## 2nd November 2014
 
 In November of 2013,   Sarah-Jane Staznak underwent surgery to repair a bulging disc in her neck. She awoke from that surgery a quadriplegic,   and has spent the last year in intensive rehabilitation,   coping with both the physical and the emotional aftermath of what has happened to her.
 
@@ -77,23 +77,23 @@ I need equipment that’s specialised. I'd like to be able to do more cardio –
 
 <a href="http://mogantosh.com/interesting-people-cath-young-blogger-crafter-captain-of-industry/">Cath Young</a>, blogger, crafter, captain of industry
 
-<div><a href="http://mogantosh.com/interesting-people-calamity-jane-alaskan-homesteader/">Calamity Jane,</a> Alaskan homesteader</div>
+<a href="http://mogantosh.com/interesting-people-calamity-jane-alaskan-homesteader/">Calamity Jane,</a> Alaskan homesteader
 
-<div></div>
 
-<div><a href="http://mogantosh.com/?p=455">Carly Findlay</a>, appearance activist</div>
 
-<div></div>
+<a href="http://mogantosh.com/?p=455">Carly Findlay</a>, appearance activist
 
-<div><a href="http://mogantosh.com/?p=481">Jo Thornely</a>, internet celebrity</div>
 
-<div></div>
 
-<div><a href="http://mogantosh.com/?p=596">Lexi Campbell-Kentmann</a>, blogging superstar</div>
+<a href="http://mogantosh.com/?p=481">Jo Thornely</a>, internet celebrity
 
-<div></div>
 
-<div><a href="http://mogantosh.com/wp-admin/post.php?post=790&amp;action=edit">Gerri, Claire and Carmen</a>, mums of nine kids</div>
+
+<a href="http://mogantosh.com/?p=596">Lexi Campbell-Kentmann</a>, blogging superstar
+
+
+
+<a href="http://mogantosh.com/wp-admin/post.php?post=790&amp;action=edit">Gerri, Claire and Carmen</a>, mums of nine kids
 
  
 

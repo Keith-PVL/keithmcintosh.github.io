@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Stay At Home Mum Feminism'
-date: 02-Wha-2016
+date: 02-Nov-2016
 categories: tbd
 ---
 
 # Stay At Home Mum Feminism
 
-## 2nd Whoops 2016
+## 2nd November 2016
 
 Realising how much I comlain about the housework.
 

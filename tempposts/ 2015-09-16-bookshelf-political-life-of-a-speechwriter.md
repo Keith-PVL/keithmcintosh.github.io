@@ -15,7 +15,7 @@ This week,   as we elected a sliver fox to the head positiion of our country,   
 
 crikey post about it: http://www.crikey.com.au/2012/09/18/speechwriter-speaks-james-button-and-public-service-confidentiality/
 
-<img src="http://images.smh.com.au/2012/10/26/3745404/an-Cover-20of-20Speechless-20by-20James-20Button-20121026124410349555-300x0.jpg" />
+<img class="photo-horiz" src="http://images.smh.com.au/2012/10/26/3745404/an-Cover-20of-20Speechless-20by-20James-20Button-20121026124410349555-300x0.jpg" />
 
 James Button, the son of late ALP Senator John Button, wrote a book about the year he spent in the public servive writing speeches for Kevin Rudd.
 

@@ -35,4 +35,4 @@ I remembered that she had picked up a parenting book in the bathroom yesterday c
 
 I may be in some trouble here.
 
-<a href="http://www.facebook.com/sharer.php?u=&amp;linkname=On%20Entering%20Uncharted%20Parenting%20Meta-Waters"><img src="http://shongjog.files.wordpress.com/2008/04/share-on-facebook.gif?" />
+<a href="http://www.facebook.com/sharer.php?u=&amp;linkname=On%20Entering%20Uncharted%20Parenting%20Meta-Waters"><img class="photo-horiz" src="http://shongjog.files.wordpress.com/2008/04/share-on-facebook.gif?" />

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Post list for this week'
-date: 19-Wha-2013
+date: 19-Nov-2013
 categories: tbd
 ---
 
 # Post list for this week
 
-## 19th Whoops 2013
+## 19th November 2013
 
 Monday - laundry liquid
 

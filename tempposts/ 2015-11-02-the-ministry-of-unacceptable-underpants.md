@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'The Ministry Of Unacceptable Underpants'
-date: 02-Wha-2015
+date: 02-Nov-2015
 categories: tbd
 ---
 
 # The Ministry Of Unacceptable Underpants
 
-## 2nd Whoops 2015
+## 2nd November 2015
 
 <p <img class="photo-horiz" src="https://s-media-cache-ak0.pinimg.com/736x/4b/81/d2/4b81d2d3e14c3c387f9312a2863e7123.jpg" /></p>
 

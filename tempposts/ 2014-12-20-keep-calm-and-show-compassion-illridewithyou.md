@@ -9,7 +9,7 @@ categories: tbd
 
 ## 20th December 2014
 
-<img src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10846465_10152982192444015_1481637525114559092_n.jpg?oh=51432cbbb18557e3c651f42bdfa19ad0&amp;oe=5504BB95&amp;__gda__=1429837699_07a06a4bfff5704679bb61269c4343f6" />
+<img class="photo-horiz" src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10846465_10152982192444015_1481637525114559092_n.jpg?oh=51432cbbb18557e3c651f42bdfa19ad0&amp;oe=5504BB95&amp;__gda__=1429837699_07a06a4bfff5704679bb61269c4343f6" />
 
 <p (photo by John Donegan)</p>
 

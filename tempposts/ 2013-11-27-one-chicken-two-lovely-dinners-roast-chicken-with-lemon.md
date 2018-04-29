@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'One Chicken, Two Lovely Dinners: Roast Chicken With Lemon'
-date: 27-Wha-2013
+date: 27-Nov-2013
 categories: tbd
 ---
 
 # One Chicken, Two Lovely Dinners: Roast Chicken With Lemon
 
-## 27th Whoops 2013
+## 27th November 2013
 
 I am a crazy fool for menu planning. I like to cook,   I like to think about cooking, I like to write menus up on my little blackboard, and I love the feeling of  gazing upon a full pantry after a grocery shop. Come on, zombie apocalypse, I think in those moments. Come and get me.
 

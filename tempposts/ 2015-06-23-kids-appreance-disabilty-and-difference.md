@@ -9,7 +9,7 @@ categories: tbd
 
 ## 23rd June 2015
 
-<img src="http://www.abc.net.au/news/image/6559642-3x2-940x627.jpg" />
+<img class="photo-horiz" src="http://www.abc.net.au/news/image/6559642-3x2-940x627.jpg" />
 
 (Illustration: Nick Stathopoulos (from Robert Hoges book 'Ugly'.)
 

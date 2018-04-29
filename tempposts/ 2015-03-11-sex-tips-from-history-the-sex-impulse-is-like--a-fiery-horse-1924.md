@@ -35,7 +35,7 @@ xRach
 
 <a href="http://mogantosh.com/sex-tips-from-history-the-hairy-joy-of-hairy-sex-1972/">Sex Tips From 1972: The Hairy Joy Of Hairy Sex</a> (It’s sexual. And it’s hairy.)
 
-<div><a href="http://mogantosh.com/sex-tips-from-history-1962/">Sex Tips From 1962: Register your reluctance to do ‘unusual practices’ by outraged, silent acquiescence</a>.</div>
+<a href="http://mogantosh.com/sex-tips-from-history-1962/">Sex Tips From 1962: Register your reluctance to do ‘unusual practices’ by outraged, silent acquiescence</a>.
 
 <a href="http://mogantosh.com/its-saturday-night-folks-sex-tips-to-avoid/">Sex Tips to Avoid (doughnuts, forks.) </a>
 

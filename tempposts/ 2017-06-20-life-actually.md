@@ -11,7 +11,7 @@ categories: tbd
 
  
 
-<img src="http://2.bp.blogspot.com/-aekrS3Kvcjw/T_s-FGwJ2GI/AAAAAAAAEyU/f7RXIsGmTd4/s640/lifepicnic6.jpg" />
+<img class="photo-horiz" src="http://2.bp.blogspot.com/-aekrS3Kvcjw/T_s-FGwJ2GI/AAAAAAAAEyU/f7RXIsGmTd4/s640/lifepicnic6.jpg" />
 
 <h5>                          (<a href="http://time.com/photography/life/">Picknicking In America by Leanord McComb</a>e)</h5>
 

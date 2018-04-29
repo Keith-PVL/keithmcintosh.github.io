@@ -51,4 +51,4 @@ Lesbians who have skills in craft may like to try fashioning a set of hairy ball
 
 Parents, you may see yourselves above, or you may not. You will find modern parenting to be a wonderful melting pot of cultures and lifestyles. Perhaps you are a Traditional Parent? A Status Parent? A Homeschooling Wiccan Artisanal Cheesemaker Parent? Whatever tribe you relate to, you are part of a larger culture of families and friends, working together to one shared end: raising the next generation who, will, in the final reckoning, be changing our nappies in the nursing home.
 
-<a href="http://www.facebook.com/sharer.php?u=&amp;linkname=Modern%20Parenting%3A%20A%20Guide%20To%20Subcultures"><img src="http://shongjog.files.wordpress.com/2008/04/share-on-facebook.gif?" />
+<a href="http://www.facebook.com/sharer.php?u=&amp;linkname=Modern%20Parenting%3A%20A%20Guide%20To%20Subcultures"><img class="photo-horiz" src="http://shongjog.files.wordpress.com/2008/04/share-on-facebook.gif?" />

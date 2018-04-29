@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'The Couch At The Centre Of The Universe'
-date: 07-Wha-2013
+date: 07-Nov-2013
 categories: tbd
 ---
 
 # The Couch At The Centre Of The Universe
 
-## 7th Whoops 2013
+## 7th November 2013
 
  
 

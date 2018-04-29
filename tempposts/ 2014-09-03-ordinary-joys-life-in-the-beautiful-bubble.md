@@ -19,7 +19,7 @@ Sometimes Keith and I talk about what's happening outside our lives. These worry
 
 The bubble is where I live and it is just as real as these problems outside it. In the bubble my worries are small and fleeting, and my joys are profound. I like this poem:
 
-<img src="http://alittleliving.files.wordpress.com/2014/04/screen-shot-2014-04-01-at-1-46-13-pm.png" />
+<img class="photo-horiz" src="http://alittleliving.files.wordpress.com/2014/04/screen-shot-2014-04-01-at-1-46-13-pm.png" />
 
  
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'On Being A Permanent Patient'
-date: 20-Wha-2013
+date: 20-Nov-2013
 categories: tbd
 ---
 
 # On Being A Permanent Patient
 
-## 20th Whoops 2013
+## 20th November 2013
 
 <img class="photo-horiz" src="/images/2013/11/13051149.jpg" />
 

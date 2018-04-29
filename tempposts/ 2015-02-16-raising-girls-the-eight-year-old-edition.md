@@ -41,7 +41,7 @@ I read about some <a href="http://www.smh.com.au/national/researchers-find-early
 
 <blockquote>...scientists are now focussing on an earlier hormonal surge that happens at about eight years of age, which they believe has significant implications for children's social and emotional well-being and also sets the stage for the main event of physical puberty a few years later.</blockquote>
 
-<div>
+
 
 <blockquote>Known as adrenarche or adrenal puberty, it has no obvious external traits - it does not, in its early stages, cause any physical changes in a child - but the hormones involved affect how children relate to their families, teachers and peers. Researchers now believe that it is a more significant time in a child's development than previously thought, which in turn may force us to rethink not only how we raise children, but also how we educate them.</blockquote>
 
@@ -87,4 +87,4 @@ Are you currently, or have you raised an eight-year old? Got any tips/Xanax pres
 
 ps - A wonderful list from the amazing website A Mighty Girl that lists<a href="http://www.amightygirl.com/blog?p=4661"> books about friendship </a>for those little ones navigating the sometimes choppy waters of school social life.
 
-</div>
+

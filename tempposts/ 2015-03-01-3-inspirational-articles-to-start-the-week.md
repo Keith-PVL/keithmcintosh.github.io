@@ -11,7 +11,7 @@ categories: tbd
 
 Australia's oldest man <a href="http://www.telegraph.co.uk/news/worldnews/australiaandthepacific/australia/11405280/PICS-AND-PUB-PLS-Australias-oldest-person-reveals-he-spends-his-time-knitting-jumpers-for-penguins-penguin.html">knits jumpers for penguins</a>.
 
-<img src="http://i.telegraph.co.uk/multimedia/archive/03195/alfie2_3195366b.jpg" />
+<img class="photo-horiz" src="http://i.telegraph.co.uk/multimedia/archive/03195/alfie2_3195366b.jpg" />
 
  
 
@@ -47,7 +47,7 @@ Behins Closed Doors, B=etween The Sheets, The Marriage Insider...
 
 Australia's oldest man <a href="http://www.telegraph.co.uk/news/worldnews/australiaandthepacific/australia/11405280/PICS-AND-PUB-PLS-Australias-oldest-person-reveals-he-spends-his-time-knitting-jumpers-for-penguins-penguin.html">knits jumpers for penguins</a>.
 
-<img src="http://i.telegraph.co.uk/multimedia/archive/03195/alfie2_3195366b.jpg" />
+<img class="photo-horiz" src="http://i.telegraph.co.uk/multimedia/archive/03195/alfie2_3195366b.jpg" />
 
  
 
@@ -79,7 +79,7 @@ ps - I'm thinking of starting a series on marriage. Email me if you have, or kn
 
 Australia's oldest man <a href="http://www.telegraph.co.uk/news/worldnews/australiaandthepacific/australia/11405280/PICS-AND-PUB-PLS-Australias-oldest-person-reveals-he-spends-his-time-knitting-jumpers-for-penguins-penguin.html">knits jumpers for penguins</a>.
 
-<img src="http://i.telegraph.co.uk/multimedia/archive/03195/alfie2_3195366b.jpg" />
+<img class="photo-horiz" src="http://i.telegraph.co.uk/multimedia/archive/03195/alfie2_3195366b.jpg" />
 
  
 
@@ -111,7 +111,7 @@ ps - I'm thinking of starting a series on marriage. Email me if you have, or kn
 
 Australia's oldest man <a href="http://www.telegraph.co.uk/news/worldnews/australiaandthepacific/australia/11405280/PICS-AND-PUB-PLS-Australias-oldest-person-reveals-he-spends-his-time-knitting-jumpers-for-penguins-penguin.html">knits jumpers for penguins</a>.
 
-<img src="http://i.telegraph.co.uk/multimedia/archive/03195/alfie2_3195366b.jpg" />
+<img class="photo-horiz" src="http://i.telegraph.co.uk/multimedia/archive/03195/alfie2_3195366b.jpg" />
 
  
 

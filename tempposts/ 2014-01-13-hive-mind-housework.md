@@ -39,53 +39,53 @@ I call the problem 'Saturday Syndrome' - that moment, every week, when you come 
 
 <br />
 
-<div>'During the week I spend a good portion of each day tidying up. I wipe up after breakfast and put the dirty dishes in the dishwasher. I cut a plate of fresh fruit for morning tea then wipe up and put the dirty dishes in the dishwasher. I make the kids Vegemite sandwiches for lunch then wipe up and put the dirty dishes in the dishwasher. My days are punctuated by spray and wipe sessions and you know, it's kind of got a nice rhythm about it. It's work and I'm okay with that.'</div>
+'During the week I spend a good portion of each day tidying up. I wipe up after breakfast and put the dirty dishes in the dishwasher. I cut a plate of fresh fruit for morning tea then wipe up and put the dirty dishes in the dishwasher. I make the kids Vegemite sandwiches for lunch then wipe up and put the dirty dishes in the dishwasher. My days are punctuated by spray and wipe sessions and you know, it's kind of got a nice rhythm about it. It's work and I'm okay with that.'
 
 <br />
 
-<div></div>
 
-<div></div>
 
-<div>'Yet on a subconscious level I expect the weekends to be different. I secretly think that maybe someone else will sort the washing and wipe the wee from the toilet seat and the floor. So when I leave my coffee cup next to the bed, my breakfast plate on the table and my pj's next to the shower, It's with a jolt of surprise that I find them still sitting there waiting for me.What? Don't they know it's the weekend? It would appear not.'</div>
 
-<div></div>
 
-<div></div><br />
+'Yet on a subconscious level I expect the weekends to be different. I secretly think that maybe someone else will sort the washing and wipe the wee from the toilet seat and the floor. So when I leave my coffee cup next to the bed, my breakfast plate on the table and my pj's next to the shower, It's with a jolt of surprise that I find them still sitting there waiting for me.What? Don't they know it's the weekend? It would appear not.'
 
-<div>Em tells it like it is:  relentless. 'Look, I'm just going to come out and say it. I'm over it. I'm over the mess, the noise, the wet beds (theirs not mine), the sleepless nights, the crying, the fluff balls down the hall and the mess - oh have I said that already? I'm SO over the mess.  I'm over the week days, the weekends and especially the long weekends. I'm over the washing and the cooking. I'm over the bickering, the whinging the negotiation, the mediation. I'm over the wee that always seems to be on the bathroom floor.'</div>
+
 
 <br />
 
-<div></div>
-
-<div></div>
-
-<div>Me too Em.</div>
+Em tells it like it is:  relentless. 'Look, I'm just going to come out and say it. I'm over it. I'm over the mess, the noise, the wet beds (theirs not mine), the sleepless nights, the crying, the fluff balls down the hall and the mess - oh have I said that already? I'm SO over the mess.  I'm over the week days, the weekends and especially the long weekends. I'm over the washing and the cooking. I'm over the bickering, the whinging the negotiation, the mediation. I'm over the wee that always seems to be on the bathroom floor.'
 
 <br />
 
-<div></div>
 
-<div></div>
 
-<div>Family life is chaotic and messy and wonderful. I love our little home, I cook and I clean all day long, and I have great respect for the crafts of the homestead - cooking, making, repairing, mending. But I dream of  coming to a calmer, more organised and disciplined place with the 'work' of the house. Basically I really want to be <a href="http://down---to---earth.blogspot.com.au/">Rhonda </a>when I grow up. Okay, with a touch of Beth. And Lily Tomlin.And Larry David.
 
-I digress. </div>
+
+Me too Em.
+
+<br />
+
+
+
+
+
+Family life is chaotic and messy and wonderful. I love our little home, I cook and I clean all day long, and I have great respect for the crafts of the homestead - cooking, making, repairing, mending. But I dream of  coming to a calmer, more organised and disciplined place with the 'work' of the house. Basically I really want to be <a href="http://down---to---earth.blogspot.com.au/">Rhonda </a>when I grow up. Okay, with a touch of Beth. And Lily Tomlin.And Larry David.
+
+I digress. 
 
 <br />
 
 <br />
 
-<div></div>
 
-<div></div>
 
-<div>Thanks Em and Beth for your honesty, wit and charm.</div>
+
+
+Thanks Em and Beth for your honesty, wit and charm.
 
 <br />
 
-<div></div>
+
 
 <span Would you like more advice from Beth on the big issues of domestic life? C<a href="http://baby-mac.com/2012/11/solving-big-issues-study-in-cushioning/">ushion</a>s, <a href="http://baby-mac.com/2012/08/solving-big-issues-clean-your-act-up/">floor-mopping</a>, <a href="http://baby-mac.com/2012/04/turning-other-sheet/">sheet-placement</a>? She's a font of wisdom on the life domestic. Funny too.   Visit <a href="http://www.thebeetleshack.com/">Em </a>to read about life with small children, craft, art and gardening, and while you're there; take the <a href=" http://www.thebeetleshack.com/2013/11/the-beetle-shack-house-tour-behind.html">Beetleshack House Tour </a>- it's hilarious. </span>
 

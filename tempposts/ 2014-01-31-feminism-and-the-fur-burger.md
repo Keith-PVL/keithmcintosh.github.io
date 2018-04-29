@@ -23,9 +23,9 @@ A happy day!  Vindiction for those of us who like to let our fur flags fly, or 
 
 <div id="content">
 
-<div>
 
-<div>
+
+
 
 <blockquote>Lying in a hammock, gently finger-combing your Wookiee whilst staring up
 
@@ -59,10 +59,10 @@ So yeah. Keep it trimmed, keep it neat, but keep it what it’s supposed to be: 
 
 born to rule, hot, right, grown woman’s muff.</blockquote>
 
-</div>
 
-</div>
 
-</div>
+
+
+
 
  

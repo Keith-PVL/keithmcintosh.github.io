@@ -11,7 +11,7 @@ categories: tbd
 
 <h3 itemprop="name">an old peice from the archives - think on this fuirther? <a href="http://mogantosh.blogspot.com.au/2010/11/madness-of-motherhood.html">The Madness of Motherhood?</a></h3>
 
-<div></div>
+
 
 <div id="post-body-6908910066596474198" itemprop="description articleBody">I've always been a fan of Erica Jong,   ever since I read Fear of Flying as a breathless Catholic teenager.
 
@@ -27,4 +27,4 @@ Attachment, helicopter, free-range or unschooling parents are all still just **
 
 **Do the best you can,** says Jong at the end of her article. **There are no rules.**
 
-Hooray for shouty feminists.</div>
+Hooray for shouty feminists.

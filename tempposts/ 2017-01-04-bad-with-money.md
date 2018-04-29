@@ -9,7 +9,7 @@ categories: tbd
 
 ## 4th January 2017
 
-<img src="https://retroloves.files.wordpress.com/2013/04/edwardian-money-bags.jpg?w=625&amp;h=843" />
+<img class="photo-horiz" src="https://retroloves.files.wordpress.com/2013/04/edwardian-money-bags.jpg?w=625&amp;h=843" />
 
 Happy new year,   comrades!
 

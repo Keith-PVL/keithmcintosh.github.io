@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Go You! (In Which People Are Excellent And Funny)'
-date: 11-Wha-2014
+date: 11-Nov-2014
 categories: tbd
 ---
 
 # Go You! (In Which People Are Excellent And Funny)
 
-## 11th Whoops 2014
+## 11th November 2014
 
  
 

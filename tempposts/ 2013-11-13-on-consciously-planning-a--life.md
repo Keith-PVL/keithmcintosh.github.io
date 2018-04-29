@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'on consciously planning a  life'
-date: 13-Wha-2013
+date: 13-Nov-2013
 categories: tbd
 ---
 
 # on consciously planning a  life
 
-## 13th Whoops 2013
+## 13th November 2013
 
 The other day the otherniht,   keith and i in conversation about where we are, what we're doing, hwo we're living.
 

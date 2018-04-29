@@ -47,4 +47,4 @@ Thanks Carly!
 
  
 
-<a href="http://www.facebook.com/sharer.php?u=&amp;linkname=Interesting%20People%3A%20Carly%20Findlay"><img src="http://shongjog.files.wordpress.com/2008/04/share-on-facebook.gif?" />
+<a href="http://www.facebook.com/sharer.php?u=&amp;linkname=Interesting%20People%3A%20Carly%20Findlay"><img class="photo-horiz" src="http://shongjog.files.wordpress.com/2008/04/share-on-facebook.gif?" />

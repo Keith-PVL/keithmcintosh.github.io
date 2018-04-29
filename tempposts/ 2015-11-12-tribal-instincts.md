@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Tribal Instincts'
-date: 12-Wha-2015
+date: 12-Nov-2015
 categories: tbd
 ---
 
 # Tribal Instincts
 
-## 12th Whoops 2015
+## 12th November 2015
 
 Published this week in Sunday Life Magazine,   a look at modern parent subcultures. Missing here: the Mad Religious,   the Drug-Addled,   the Silly-Voiced, the Odd Smelling and many other tribes I couldn't fit into a tidy little box.
 

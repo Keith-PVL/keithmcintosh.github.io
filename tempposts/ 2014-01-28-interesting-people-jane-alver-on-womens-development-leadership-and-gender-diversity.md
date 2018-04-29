@@ -35,22 +35,22 @@ Thanks Jane!
 
 Keep fighting the good fight.
 
-<div>**Previous Interesting People posts:**</div>
+**Previous Interesting People posts:**
 
-<div></div>
 
-<div><a href="http://mogantosh.com/interesting-people-calamity-jane-alaskan-homesteader/">Calamity Jane</a>, Alaskan homesteader</div>
 
-<div>
+<a href="http://mogantosh.com/interesting-people-calamity-jane-alaskan-homesteader/">Calamity Jane</a>, Alaskan homesteader
 
-<div><a href="http://mogantosh.com/?p=455">Carly Findlay</a>, appearance activist</div>
 
-<div><a href="http://mogantosh.com/?p=481">Jo Thornely</a>, internet celebrity</div>
 
-<div><a href="http://mogantosh.com/?p=596">Lexi Campbell-Kentmann</a>, blogging superstar</div>
+<a href="http://mogantosh.com/?p=455">Carly Findlay</a>, appearance activist
 
-<div><a href="http://mogantosh.com/wp-admin/post.php?post=790&amp;action=edit">Gerri, Claire and Carmen</a>, mums of nine kids</div>
+<a href="http://mogantosh.com/?p=481">Jo Thornely</a>, internet celebrity
 
-</div>
+<a href="http://mogantosh.com/?p=596">Lexi Campbell-Kentmann</a>, blogging superstar
+
+<a href="http://mogantosh.com/wp-admin/post.php?post=790&amp;action=edit">Gerri, Claire and Carmen</a>, mums of nine kids
+
+
 
  

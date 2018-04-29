@@ -21,7 +21,7 @@ We've been preparing for this big shift all summer. I've been re-arranging bedro
 
 A draft post titled 'thoughts of a mother during the last week of the school holidays' never made it online. It was the usual ranting and I never had the time or headspace to write it but my scrawled notes remind me of how I felt - the heat oppressive , the children always hungry, the housework overwhelming.  Even though we had a beautiful summer - lots of visits with friends, lots of time together - the 'mum-work' was never-ending, and the day that all three children would be off to school, leaving me in the glorious quiet, was like a shining vision of utopia. I thought I would be absolutely partying with my bad self. I dreamed of quiet space to think, freedom to temper boring mundane housework jobs with interesting radio, time to write, a schedule of my own. Bliss!
 
-<img src="https://media4.giphy.com/media/mSle26nYJeD3a/200w.gif#30" />
+<img class="photo-horiz" src="https://media4.giphy.com/media/mSle26nYJeD3a/200w.gif#30" />
 
 But last week the shining day finally came, and instead of partying like a crazy fool, I fell to pieces. It was a bit of a shock.
 
@@ -43,6 +43,6 @@ I will have that longed-for quiet time to myself. I will be able to stop worryin
 
 One more time:
 
-<img src="https://media4.giphy.com/media/mSle26nYJeD3a/200w.gif#30" />
+<img class="photo-horiz" src="https://media4.giphy.com/media/mSle26nYJeD3a/200w.gif#30" />
 
 If you sent kids off to little or big school this week, I hope you weren't hit with the same unexpected emotional tsunami as I was. And if you were, I hope you are OK. x

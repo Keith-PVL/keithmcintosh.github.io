@@ -15,7 +15,7 @@ It's been a season of illness, stress, worry and sadness, and we are now prepari
 
 We will miss him very much.
 
-<img src="https://fbcdn-photos-b-a.akamaihd.net/hphotos-ak-xla1/v/t1.0-0/p235x350/12391846_10153903239076869_2014076754078475000_n.jpg?oh=b53241f221f9f954b8a07f044a181c40&amp;oe=5853D989&amp;__gda__=1478399228_9e773ba3165e129184922843aff7f495" />
+<img class="photo-horiz" src="https://fbcdn-photos-b-a.akamaihd.net/hphotos-ak-xla1/v/t1.0-0/p235x350/12391846_10153903239076869_2014076754078475000_n.jpg?oh=b53241f221f9f954b8a07f044a181c40&amp;oe=5853D989&amp;__gda__=1478399228_9e773ba3165e129184922843aff7f495" />
 
 **For Practical Parenting, July 2016**
 

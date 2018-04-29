@@ -17,17 +17,17 @@ I have this ongoing web-series list that I sometimes update, and I  like to sen
 
 <a href="https://www.youtube.com/watch?v=XPpsI8mWKmg">This is one of Amy Schumers best</a>, but everything she does makes me laugh until I wee.
 
-<div><a href="http://vimeo.com/channels/highmaintenance/videos">High Maintenance:</a> a pot dealer makes his daily rounds, reviewed by one critic as 'Girls, but hazier'.</div>
+<a href="http://vimeo.com/channels/highmaintenance/videos">High Maintenance:</a> a pot dealer makes his daily rounds, reviewed by one critic as 'Girls, but hazier'.
 
-<div>
 
-<div></div>
 
-<div><a href="http://theslopeshow.com/episodes/">Park Slope: </a>two superficial, homophobic lesbians from Brooklyn are hilarious.</div>
+
+
+<a href="http://theslopeshow.com/episodes/">Park Slope: </a>two superficial, homophobic lesbians from Brooklyn are hilarious.
 
 <a href="http://comediansincarsgettingcoffee.com/">Comedians In Cars Getting Coffee</a>: Jerry Seinfeld does, you know, what the title says. I especially love Louis CK and Julia Louis-Dreyfuss here.
 
-<div><a href="http://www.youtube.com/user/7minutesinheaven">7 Minutes In Heaven</a>: comedians share a short, awkward and outrageous moment in a closet with Mike O'Brien, ending always with his attempt to make out with them. His pash with Ellen Degeneres is a particular highlight.</div>
+<a href="http://www.youtube.com/user/7minutesinheaven">7 Minutes In Heaven</a>: comedians share a short, awkward and outrageous moment in a closet with Mike O'Brien, ending always with his attempt to make out with them. His pash with Ellen Degeneres is a particular highlight.
 
 <a href="https://www.youtube.com/watch?v=8UZJRR8OHhY">The Katering Show</a>: The journey of a food intolerant and an intolerable foodie - Australian, really funny.
 
@@ -35,14 +35,14 @@ I have this ongoing web-series list that I sometimes update, and I  like to sen
 
 <span Know any more? Let me know and I'll add them to my list. And if you're not well, I hope you feel better soon. It sucks to be sick. It bites the weiner, as Shakespeare said.</span>
 
-<div>Finally, one of my all-time faves. Dirty Jamie Oliver's going to whack it into your burger, again and again and again. I will never, ever tire of this internet classic.</div>
+Finally, one of my all-time faves. Dirty Jamie Oliver's going to whack it into your burger, again and again and again. I will never, ever tire of this internet classic.
 
-<div></div>
 
-<div>https://www.youtube.com/watch?v=ZiEjs7deHL4</div>
 
-<div></div>
+https://www.youtube.com/watch?v=ZiEjs7deHL4
+
+
 
  
 
-</div>
+

@@ -9,7 +9,7 @@ categories: tbd
 
 ## 31st March 2015
 
-<p <img src="http://www.shorpy.com/files/images/SHORPY_8d27695a1.preview.jpg" /></p>
+<p <img class="photo-horiz" src="http://www.shorpy.com/files/images/SHORPY_8d27695a1.preview.jpg" /></p>
 
 <h6 <a href="March 1943. &quot;Rochester,   New York. Mrs. Babcock,   Shirley and Earl greeting Mr. Babcock in front of the house.&quot; ">March 1943. "Rochester,   New York. Mrs. Babcock, Shirley and Earl greeting Mr. Babcock in front of the house."  From the Shorpy Historical Archive.</a></h6>
 

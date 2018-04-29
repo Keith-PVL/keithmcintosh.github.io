@@ -13,15 +13,15 @@ categories: tbd
 
  
 
-<div>his no-knead method basically replaces the usual  kneading time with a very long prove on the kitchen counter. This way,   the gluten develops through a long,   slow fermentation and the bread develops a delicious flavour. Many recipes use a second proving time but we never even bother, and the bread is delicious.</div>
+his no-knead method basically replaces the usual  kneading time with a very long prove on the kitchen counter. This way,   the gluten develops through a long,   slow fermentation and the bread develops a delicious flavour. Many recipes use a second proving time but we never even bother, and the bread is delicious.
 
-<div></div>
 
-<div>Here's our recipe, the simplest version of them all:</div>
 
-<div></div>
+Here's our recipe, the simplest version of them all:
 
-<div></div>
+
+
+
 
 <ul>
 

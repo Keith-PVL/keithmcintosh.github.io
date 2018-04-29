@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Bookshelf  true crime'
-date: 15-Wha-2014
+date: 15-Nov-2014
 categories: tbd
 ---
 
 # Bookshelf  true crime
 
-## 15th Whoops 2014
+## 15th November 2014
 
 People who eat darkness
 

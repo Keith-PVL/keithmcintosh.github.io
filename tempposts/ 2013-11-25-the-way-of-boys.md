@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'The Way Of Boys'
-date: 25-Wha-2013
+date: 25-Nov-2013
 categories: tbd
 ---
 
 # The Way Of Boys
 
-## 25th Whoops 2013
+## 25th November 2013
 
 <img class="photo-horiz" src="/images/2013/11/05323u_0.preview.jpg" />
 

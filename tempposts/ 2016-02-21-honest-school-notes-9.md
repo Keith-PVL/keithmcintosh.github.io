@@ -9,7 +9,7 @@ categories: tbd
 
 ## 21st February 2016
 
-<img src="http://i.dailymail.co.uk/i/pix/2013/02/20/article-2281613-17F81D0F000005DC-713_634x623.jpg" />
+<img class="photo-horiz" src="http://i.dailymail.co.uk/i/pix/2013/02/20/article-2281613-17F81D0F000005DC-713_634x623.jpg" />
 
 <p <a href="http://www.dailymail.co.uk/news/article-2281613/The-saucy-album-covers-really-make-cringe--Vintage-mum-dad-collection-showcases-hilarious-designs-1950s.html">God there's heaps on my to-do list this week. Photo sourc</a>e</p>
 

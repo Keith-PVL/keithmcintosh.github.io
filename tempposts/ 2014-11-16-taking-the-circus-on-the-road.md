@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Taking The Circus On The Road'
-date: 16-Wha-2014
+date: 16-Nov-2014
 categories: tbd
 ---
 
 # Taking The Circus On The Road
 
-## 16th Whoops 2014
+## 16th November 2014
 
 Saturday night right on bedtime,   I was so exhausted. Keith was out and I was trying to keep the vibe calm so I could cajole all three kids into bed when T-Bone suddenly ran inside with a frog in his hand.
 

@@ -31,16 +31,16 @@ Virginia Johnson is, for me, the most interesting character in this story. A bea
 
 You could not invent the rollicking tale of Masters and Johnson. It's a great read, and if you'd like a little historical sauciness as you do the washing-up, you can listen to an interesting interview with the author Bill Maier on the NPR program Fresh Air <a href="http://www.npr.org/2013/10/04/228906644/pioneering-masters-of-sex-brought-science-to-the-bedroom">here. </a>
 
-<div>As always, (imagine I am dropping my voice half an octave and holding eye contact just a few seconds too long here) happy Hump Day, and all the best with your climax.</div>
+As always, (imagine I am dropping my voice half an octave and holding eye contact just a few seconds too long here) happy Hump Day, and all the best with your climax.
 
-<div></div>
 
-<div>xRach</div>
+
+xRach
 
 <a href="http://mogantosh.com/sex-tips-from-the-past-sexual-positions-for-mediaevalists-or-modern-multi-taskers/">Sex Tips From History: Sexual Positions, for Medievalists or Modern Multi-Taskers.</a>
 
 <a href="http://mogantosh.com/sex-tips-from-history-the-hairy-joy-of-hairy-sex-1972/">Sex Tips From 1972: The Hairy Joy Of Hairy Sex</a> (It's sexual. And it's hairy.)
 
-<div><a href="http://mogantosh.com/sex-tips-from-history-1962/">Sex Tips From 1962: Register your reluctance to do ‘unusual practices’ by outraged, silent acquiescence</a>.</div>
+<a href="http://mogantosh.com/sex-tips-from-history-1962/">Sex Tips From 1962: Register your reluctance to do ‘unusual practices’ by outraged, silent acquiescence</a>.
 
 <a href="http://mogantosh.com/its-saturday-night-folks-sex-tips-to-avoid/">Sex Tips to Avoid (doughnuts, forks.) </a>

@@ -29,11 +29,11 @@ It still contains gems that ring true to marriage today, as ever.
 
 Read the full review of How To Make Love at Brain Pickings here.
 
-<div>As always, (imagine I am dropping my voice half an octave and holding eye contact just a few seconds too long here) happy Hump Day, and all the best with your climax.</div>
+As always, (imagine I am dropping my voice half an octave and holding eye contact just a few seconds too long here) happy Hump Day, and all the best with your climax.
 
-<div></div>
 
-<div>xRach</div>
+
+xRach
 
  
 
@@ -43,6 +43,6 @@ Read the full review of How To Make Love at Brain Pickings here.
 
 <a href="http://mogantosh.com/sex-tips-from-history-the-hairy-joy-of-hairy-sex-1972/">Sex Tips From 1972: The Hairy Joy Of Hairy Sex</a>
 
-<div><a href="http://mogantosh.com/sex-tips-from-history-1962/">Sex Tips From 1962: Register your reluctance to do ‘unusual practices’ by outraged, silent acquiescence</a>.</div>
+<a href="http://mogantosh.com/sex-tips-from-history-1962/">Sex Tips From 1962: Register your reluctance to do ‘unusual practices’ by outraged, silent acquiescence</a>.
 
 <a href="http://mogantosh.com/its-saturday-night-folks-sex-tips-to-avoid/">Sex Tips to Avoid (doughnuts, forks.) </a>

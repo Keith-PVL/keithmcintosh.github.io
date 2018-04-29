@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'You Don't Have To Be Pretty, And Other Advice For Daughters'
-date: 11-Wha-2013
+date: 11-Nov-2013
 categories: tbd
 ---
 
 # You Don't Have To Be Pretty, And Other Advice For Daughters
 
-## 11th Whoops 2013
+## 11th November 2013
 
 <p <img class="photo-horiz" src="/images/2013/11/diana-vreeland-by-richard-avedon.jpg" />(Diana Vreeland by Richard Avedon)</p>
 

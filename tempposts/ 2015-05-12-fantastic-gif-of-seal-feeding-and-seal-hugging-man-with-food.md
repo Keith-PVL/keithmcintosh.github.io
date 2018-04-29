@@ -9,4 +9,4 @@ categories: tbd
 
 ## 12th May 2015
 
-<img src="http://i.imgur.com/b1rSZVl.gif" />
+<img class="photo-horiz" src="http://i.imgur.com/b1rSZVl.gif" />

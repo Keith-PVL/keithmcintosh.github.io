@@ -1,17 +1,17 @@
----
+﻿---
 layout: post
-title: 'In  Which Dad is Offended By My Bad Hair'
+title: 'In Which Dad is Offended By My Bad Hair'
 date: 04-Apr-2016
 categories: tbd
 ---
 
-# In  Which Dad is Offended By My Bad Hair
+# In Which Dad is Offended By My Bad Hair
 
 ## 4th April 2016
 
 Hair: Before
 
-<img src="http://i.dailymail.co.uk/i/pix/2013/07/16/article-2365170-0D5644D000000578-435_306x423.jpg" />
+<img class="photo-horiz" src="http://i.dailymail.co.uk/i/pix/2013/07/16/article-2365170-0D5644D000000578-435_306x423.jpg" />
 
 There's been a lot happening,   and my hair has been neglected. It's reashing peak witchy,  I know, and it's been my list to fix, but I had not realised it had become so offensive to others until my father called me to order.
 

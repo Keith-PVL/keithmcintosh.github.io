@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Fall A Little In Love With The Postman It's Healthy!'
-date: 13-Wha-2013
+date: 13-Nov-2013
 categories: tbd
 ---
 
 # Fall A Little In Love With The Postman It's Healthy!
 
-## 13th Whoops 2013
+## 13th November 2013
 
 I read a wonderful article recently explore the work of realtionship psychologist  Barbara Fredrickson. (If you're not following Brain Pickings on Twitter,   check it out. t's wonderful.) Her notion of 'positivity resonance' stayed with me. This is Frericksons reframing of traditional ideas of 'love'. It requires the combined actions of the brain, the hormone Oxycontin, and the vagus nerve that connects the brain to the body. When these three work in sych, positity resonance happens, and the magic canoccur with any person, any group of people, any stranger.
 

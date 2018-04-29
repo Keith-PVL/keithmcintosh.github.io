@@ -13,15 +13,15 @@ categories: tbd
 
 Are you familiar with the concept of no-knead bread? This method basically replaces the usual  kneading time with a very long prove on the kitchen counter. This way,   the gluten develops through a long,   slow fermentation and the bread develops a delicious flavour.
 
-<div>We've been making this bread for a few years now. It's a lovely thing for the kids to do - they can mix it after school, leave it to prove overnight, and (if I'm on top of life and up early) we can have fresh bread for breakfast. Otherwise, lunch.</div>
+We've been making this bread for a few years now. It's a lovely thing for the kids to do - they can mix it after school, leave it to prove overnight, and (if I'm on top of life and up early) we can have fresh bread for breakfast. Otherwise, lunch.
 
-<div></div>
+
 
 <br />
 
-<div>You can search the web for lots of no-knead bread recipes, but here is ours:  the simplest version of them all. You can throw this baby together in five minutes: the work to pleasure ratio of this recipe is very, very high. (Just mentally prepare yourself to spend a good five minutes scraping messy, sticky dough off the children's fingers.)</div>
+You can search the web for lots of no-knead bread recipes, but here is ours:  the simplest version of them all. You can throw this baby together in five minutes: the work to pleasure ratio of this recipe is very, very high. (Just mentally prepare yourself to spend a good five minutes scraping messy, sticky dough off the children's fingers.)
 
-<div></div>
+
 
 <ul>
 

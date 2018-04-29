@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Me Nerves, Oh Me Nerves (Plus Twerking Dog)'
-date: 07-Wha-2014
+date: 07-Nov-2014
 categories: tbd
 ---
 
 # Me Nerves, Oh Me Nerves (Plus Twerking Dog)
 
-## 7th Whoops 2014
+## 7th November 2014
 
 I've been a bit frazzled this last couple of weeks. I nuggested myself on a ziplining adventure course (review to come) and my back and old-lady hip has been giving me curry,   as we say in the old country. Also,   one of my best friends had a sudden breast cancer diagnosis and surgery (all went very well,   she is marvellous and bursting with fuck-cancer life-force), and also,  I lost Pudding in Target for a long enough time that I felt the adrenalin and anxiety fallout for two days.
 

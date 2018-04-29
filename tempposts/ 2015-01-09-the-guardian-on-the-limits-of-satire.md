@@ -11,4 +11,4 @@ categories: tbd
 
 <a href="http://www.theguardian.com/world/ng-interactive/2015/jan/09/joe-sacco-on-satire-a-response-to-the-attacks">Cartoonist Joe Sacco</a>
 
-<img src="http://i.guim.co.uk/static/w-620/h--/q-95/sys-images/Guardian/Pix/pictures/2015/1/9/1420834179015/5a4a4396-c222-4a91-a623-9f7eee7fb57b-706x1020.jpeg" />
+<img class="photo-horiz" src="http://i.guim.co.uk/static/w-620/h--/q-95/sys-images/Guardian/Pix/pictures/2015/1/9/1420834179015/5a4a4396-c222-4a91-a623-9f7eee7fb57b-706x1020.jpeg" />

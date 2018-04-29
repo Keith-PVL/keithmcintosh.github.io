@@ -39,7 +39,7 @@ Here's a bit of it.
 
 **A second later I realise he’s the man I married. Road trips: they can keep that dangerous spark in your marriage alive. **
 
-<img src="http://cdn.newsapi.com.au/image/v1/1ceae4ce9f6445a08c115af0794ab996" />
+<img class="photo-horiz" src="http://cdn.newsapi.com.au/image/v1/1ceae4ce9f6445a08c115af0794ab996" />
 
 Keith: not a sex pest!
 

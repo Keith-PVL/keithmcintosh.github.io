@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Chat With An Astronaut'
-date: 06-Wha-2013
+date: 06-Nov-2013
 categories: tbd
 ---
 
 # Chat With An Astronaut
 
-## 6th Whoops 2013
+## 6th November 2013
 
 Are you familiar with the former astronaut Commander Chris Hadfield? He became the space-dude of the moment when he filmed himself performing Space Oddity...in space.
 

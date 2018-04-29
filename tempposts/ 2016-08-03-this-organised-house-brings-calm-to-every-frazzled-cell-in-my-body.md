@@ -29,7 +29,7 @@ My solution: keep the home fires burning, dole out love and lasagne and prioriti
 
 Also, I have a minor obsession with this lady.
 
-<img src="https://yt3.ggpht.com/-67MWtaVCQZM/AAAAAAAAAAI/AAAAAAAAAAA/eZiB0mNbLiI/s900-c-k-no-rj-c0xffffff/photo.jpg" />
+<img class="photo-horiz" src="https://yt3.ggpht.com/-67MWtaVCQZM/AAAAAAAAAAI/AAAAAAAAAAA/eZiB0mNbLiI/s900-c-k-no-rj-c0xffffff/photo.jpg" />
 
 Alejanda, so uber-American, with ever-so-slightly-crazy eyes, and a serial-killer-level of organisation, is bringing me life.
 

@@ -1,15 +1,15 @@
 ---
 layout: post
 title: 'Beautiful Three-Year-Olds'
-date: 18-Wha-2015
+date: 18-Nov-2015
 categories: tbd
 ---
 
 # Beautiful Three-Year-Olds
 
-## 18th Whoops 2015
+## 18th November 2015
 
-<p <img src="http://www.shorpy.com/files/images/SHORPY-8c30963a.preview.jpg" /></p>
+<p <img class="photo-horiz" src="http://www.shorpy.com/files/images/SHORPY-8c30963a.preview.jpg" /></p>
 
 <p <a href="http://www.shorpy.com/node/20184">'Camera Shy',   1941,   by Shorpy</a></p>
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Trees Adventure Park: A Review (Contains Middle-Aged Humiliation)'
-date: 11-Wha-2014
+date: 11-Nov-2014
 categories: tbd
 ---
 
 # Trees Adventure Park: A Review (Contains Middle-Aged Humiliation)
 
-## 11th Whoops 2014
+## 11th November 2014
 
 <p align="center">Disclosure: The family visited Trees Adventure as guests of the Park,   but all opinions are my own.</p>
 

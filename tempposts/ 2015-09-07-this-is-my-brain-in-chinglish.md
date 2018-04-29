@@ -13,7 +13,7 @@ categories: tbd
 
 ****Remember**** that Friends episode where Joey uses a thesaurus to write a love letter,   exchanging every simple word for a fancier one? ****
 
-<img src="https://s-media-cache-ak0.pinimg.com/736x/8f/8b/b7/8f8bb7fde1f3c47fd53893e8c68ddf42.jpg" />
+<img class="photo-horiz" src="https://s-media-cache-ak0.pinimg.com/736x/8f/8b/b7/8f8bb7fde1f3c47fd53893e8c68ddf42.jpg" />
 
 ****I've been Tribbianied! ****
 

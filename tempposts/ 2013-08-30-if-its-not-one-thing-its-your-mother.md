@@ -79,4 +79,4 @@ Many people might disagree, but I felt happy about the exchange. I'd much rather
 
 But the times, they are a-changin.
 
-<a href="http://www.facebook.com/sharer.php?u=&amp;linkname=If%20It%27s%20Not%20One%20Thing%2C%20It%27s%20Your%20Mother"><img src="http://shongjog.files.wordpress.com/2008/04/share-on-facebook.gif?" />
+<a href="http://www.facebook.com/sharer.php?u=&amp;linkname=If%20It%27s%20Not%20One%20Thing%2C%20It%27s%20Your%20Mother"><img class="photo-horiz" src="http://shongjog.files.wordpress.com/2008/04/share-on-facebook.gif?" />

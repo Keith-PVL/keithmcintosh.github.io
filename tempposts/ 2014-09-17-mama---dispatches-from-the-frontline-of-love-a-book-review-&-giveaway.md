@@ -9,7 +9,7 @@ categories: tbd
 
 ## 17th September 2014
 
-<div>
+
 
 <p align="center">**Recently I reviewed Antonella Gambotto-Burke's book '****Mama – Dispatches From The Frontline Of Love' for ****<a href="http://mamabake.com/">Mamabake</a>. It's a great read. Gambotto-Burke picks through the terrain of modern motherhood with her trademark  honesty and passion.  **</p>
 
@@ -17,7 +17,7 @@ categories: tbd
 
 <p align="center">**I'm going to give away my review copy - if you'd like it,   leave a comment below.**</p>
 
-</div>
+
 
 Books about motherhood usually follow something of a predictable formula. No matter the philosophy behind them,   they tend to deal with the practicalities of childbirth and child-rearing. When they delve into the emotional realm,   it’s largely to explore psychiatric issues like post-natal depression, the emotional landscape of the post-baby partnership, or the psychological aspects of child development. .
 

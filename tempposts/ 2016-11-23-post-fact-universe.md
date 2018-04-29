@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Post-Fact Universe'
-date: 23-Wha-2016
+date: 23-Nov-2016
 categories: tbd
 ---
 
 # Post-Fact Universe
 
-## 23rd Whoops 2016
+## 23rd November 2016
 
 The Oxford Dictionaries Word of the Year 2016 is **post-truth: **an adjective defined as 'relating to or denoting circumstances in which objective **facts** are less influential in shaping public opinion than appeals to emotion and personal belief'.
 
@@ -25,7 +25,7 @@ Here's Karl Rove, the later-outed 'unnamed source' from a 2004 New York Times Ma
 
 Clive James once said that humour is 'common sense, dancing'. In this frightening and confusing cultural moment, Joe Biden memes have been bringing me joy, as Joe puts orange powder in the bathroom, threatens to throw Trump's wig in the fireplace and stashes fake birth certificates and 'Secret Muslim Agenda' files about the place.
 
-<img src="http://images.distractify.com/v0.2/featured/2016/11/bidenobama.png" />
+<img class="photo-horiz" src="http://images.distractify.com/v0.2/featured/2016/11/bidenobama.png" />
 
  
 
@@ -47,7 +47,7 @@ perhaps all we can hope is that Donald will shiock us all and be better than we 
 
 Youg joe biden was a stone cold fox. That’s a fact.
 
-<div>
+
 
 <blockquote cite="https://twitter.com/girlposts/status/798707278551588865" data-tweet-id="798707278551588865" data-scribe="section:subject">
 
@@ -57,9 +57,9 @@ Youg joe biden was a stone cold fox. That’s a fact.
 
 </p>
 
-</div></blockquote>
+</blockquote>
 
-</div>
+
 
  
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Feminist Housewife Blues'
-date: 03-Wha-2016
+date: 03-Nov-2016
 categories: tbd
 ---
 
 # Feminist Housewife Blues
 
-## 3rd Whoops 2016
+## 3rd November 2016
 
 Realising how much I comlain about the housework. Draft this for book as well as for blog.
 

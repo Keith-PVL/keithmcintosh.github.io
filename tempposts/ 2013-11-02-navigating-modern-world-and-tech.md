@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Navigating modern world and tech'
-date: 02-Wha-2013
+date: 02-Nov-2013
 categories: tbd
 ---
 
 # Navigating modern world and tech
 
-## 2nd Whoops 2013
+## 2nd November 2013
 
 Richard Glover on narrowcasting: <a href="http://www.smh.com.au/comment/take-a-moment-to-mourn-the-mainstream-20131031-2whz1.html">http://www.smh.com.au/comment/take-a-moment-to-mourn-the-mainstream-20131031-2whz1.html</a>
 

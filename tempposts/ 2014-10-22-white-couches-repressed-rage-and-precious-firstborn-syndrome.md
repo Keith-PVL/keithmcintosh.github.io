@@ -35,7 +35,7 @@ The Tumblr 'It's Like They Know Us' is the funniest thing on raising kids I've s
 
 <p "Brushing my toddler’s teeth is my favorite way to unwind. She never flops around like a deranged mackerel hell-bent on knocking herself unconscious on the nearest wall, counter, or tile floor. It’s our special time together."</p>
 
-<p <img src="http://33.media.tumblr.com/29d76c7467affad19534edb1b075eda3/tumblr_ncn4tdr8MV1tm081co1_500.jpg" />
+<p <img class="photo-horiz" src="http://33.media.tumblr.com/29d76c7467affad19534edb1b075eda3/tumblr_ncn4tdr8MV1tm081co1_500.jpg" />
 
 <p "And in this one, you were juuuust crowning."</p>
 

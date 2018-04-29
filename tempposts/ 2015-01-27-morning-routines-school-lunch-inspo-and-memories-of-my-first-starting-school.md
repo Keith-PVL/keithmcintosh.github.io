@@ -9,7 +9,7 @@ categories: tbd
 
 ## 27th January 2015
 
-<div>
+
 
 <p align="center">It feels like a long time (but only three years)  since I wrote the following about my first little chickadee starting school:</p>
 
@@ -19,7 +19,7 @@ categories: tbd
 
 </blockquote>
 
-</div>
+
 
 <blockquote>These last few weeks,   we’ve been living the final moments of the intimate bubble in which I've spent the last five years. A private little domestic world of babies and breastfeeding,   toddlers and tantrums and toilet-training. Of wearing a track between the stove and the washing machine. Long days of baby illnesses and endless nights of broken sleep. My time spent almost entirely within these walls. This warm and wonderful and infuriating and precious place.
 
