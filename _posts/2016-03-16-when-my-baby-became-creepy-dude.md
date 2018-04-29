@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 'When My Baby Became Creepy Dude'
 date: 16-Mar-2016
@@ -9,27 +9,13 @@ categories: tbd
 
 ## 16th March 2016
 
-<p **This post was first published in Practical Parenting Magazine,   March 2016**</p>
+**This post was first published in Practical Parenting Magazine, March 2016**
 
 <img class="photo-horiz" src="https://s-media-cache-ak0.pinimg.com/564x/0a/b2/99/0ab299fc95ea53f15de6d416632ad32e.jpg" />
 
+**U.S. Daughters of farmers near La Forge Project, Missouri, 1938**
 
-
-<div  **U.S. Daughters of farmers near La Forge Project, Missouri, 1938**
-
-<div 
-
-
-
-<div 
-
-<div 
-
-<div When my first child Peanut was born, I felt a yearning, desperate urge to know who she would become. ‘Who are you?’  I would whisper to her beautiful, inscrutable little face. ‘What kind of human will you be?’
-
-
-
-
+When my first child Peanut was born, I felt a yearning, desperate urge to know who she would become. ‘Who are you?’  I would whisper to her beautiful, inscrutable little face. ‘What kind of human will you be?’
 
 It felt impossible to believe that this tiny, blinking baby would morph into a full and complex person. And I’m almost certain that in all the different possibilities I conjured, I never imagined that one day this child would like to inhabit the character of a guy she called Creepy Dude.
 
@@ -44,5 +30,3 @@ She also has an impersonation she calls ‘Dumb Person Shaving’. It’s hard t
 This kid, this age, is the absolute best. It might be even sweeter because next on the list comes puberty, those mythical Badlands to which Peanut will certainly bring the theatricality she has displayed since childhood. That flamboyance, mixed with a few thousand microliters of estrogen, may make for an interesting cocktail. Fingers crossed that Peanut will keep the comedy, as well as the drama.
 
 I’m looking forward to it, all of it. I adored that sweet baby version of Peanut. I adore the creative comedian of her childhood. And I think I’ll enjoy the adolescent version too.  It’s the coolest thing, being ringside for the slow unfurling of a person. I’m incredibly grateful that I get to watch it. I could not have anticipated, nine years ago, that the answer to my question ‘Who are you?’ was going to be, among other things, ‘Creepy Dude’. So I can’t really guess what teen-Peanut, or even grown-lady Peanut will be either. I can’t wait to find out though.
-
- 

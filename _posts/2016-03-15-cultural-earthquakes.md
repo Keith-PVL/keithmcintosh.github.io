@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 'Cultural Earthquakes'
 date: 15-Mar-2016
@@ -23,7 +23,7 @@ As in, Catholicism. As in, George Pell.
 
 Deep breath. Deep breath!
 
-*beautiful tropical island, gentle waves lapping over toes* *SERENITY NOW*
+*Beautiful tropical island, gentle waves lapping over toes*, *SERENITY NOW.*
 
 America currently seems to me a bitter and demoralised country, hobbled with economic inequality, divided on issues of race and religion, and grappling with a shifting paradigm that Hanna Rosin calls '<a href="http://www.theatlantic.com/magazine/archive/2010/07/the-end-of-men/308135/">the end of men'</a>. The 'black swan' theory describes 'unexpected, unprecedented, cataclysmic events that overturn established ways of thinking. ' (Great article about that  <a href="http://www.politico.com/magazine/story/2016/01/donald-trump-2016-black-swan-213571">here</a>).
 
@@ -39,7 +39,7 @@ In big things as in small, it's like Kierkegaard says: Life must be lived forwar
 
 Come home quick and safe K Dog. We miss you.
 
-That's my rant over for the morning. Deep breath out.  Thanks for listening, and if all those earthquakes get a little too much for you, come with me now:  *tropical island* *mojito* *young Jack Kerouc* *SERENITY NOW*
+That's my rant over for the morning. Deep breath out.  Thanks for listening, and if all those earthquakes get a little too much for you, come with me now:  *tropical island*, *mojito*, *young Jack Kerouc*, *SERENITY NOW*.
 
 <img class="photo-horiz" src="http://www.abc.net.au/news/image/3694454-3x2-700x467.jpg" />
 

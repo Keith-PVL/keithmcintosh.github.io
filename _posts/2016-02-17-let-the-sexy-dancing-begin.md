@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 'Let The Sexy Dancing Begin!'
 date: 17-Feb-2016
@@ -11,11 +11,9 @@ categories: tbd
 
 <img class="photo-horiz" src="http://1.bp.blogspot.com/-8mVtw6JLY6I/TYv_TL3_0pI/AAAAAAAAACI/DXuOJ8Uhvik/s1600/schoolgirllibrarian.jpg" />
 
-<h6 Model is reading Mary Wollstonecraft's iconic feminist tome A Vindication Of The Rights Of Women.</h6>
+Model is reading Mary Wollstonecraft's iconic feminist tome A Vindication Of The Rights Of Women.
 
- 
-
-The big girl is doing tumbling this year,   which she loves,   and her class follows directly on from a dance class. Lots of the kids do both classes in a row,   and Peanut has been asking to do dancing as well.
+The big girl is doing tumbling this year, which she loves, and her class follows directly on from a dance class. Lots of the kids do both classes in a row,   and Peanut has been asking to do dancing as well.
 
 I had said no, but I'm wavering after catching the end of the routine they are learning this week. It was just so delightfully erotic and fun! Now I don't know about you but I think there's just not enough sexiness in the pre-teen dance scene. If my nine year old is going to do dancing, I want her learning sassy, flirty numbers. Forget backflips and contemporary routines. That's old hat. I want her strutting across the stage, twerking and pointing her fingers accusingly at the audience with a sulky and arrogant expression.
 
@@ -31,4 +29,4 @@ I'll be signing Peanut up straight away. She's nine after all, and it's really a
 
 ps - here's what I'd like Peanut to be learning: some hard-core moves of glory. Check out Tom Jones and Janis from 1969, and clock the dancing in the background. Potential spinal injury, sure. But Funkymeter set to 11. Rest in peace Janis, you legend.
 
-https://www.youtube.com/watch?v=wRmRvNx4rCs
+<iframe src="https://www.youtube.com/embed/wRmRvNx4rCs" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>

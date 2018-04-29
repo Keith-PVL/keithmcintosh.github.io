@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 'Watching, Listening, Reading #5'
 date: 29-Apr-2016
@@ -47,16 +47,6 @@ On Spotify I'm really liking <a href="https://play.spotify.com/user/entrimo/play
 
 Happy weekending, my friends. May the road rise to meet you,  the wind be at your back, your pannacotta coco-nutty and your earworms brief and manageable.
 
-Any tips for me? Whats good in your world?
+Any tips for me? What's good in your world?
 
 x
-
-W<a href="http://mogantosh.com/watching-reading-listening-cooking/">atching,Reading, Listening #1</a>
-
-<a href="http://mogantosh.com/great-stuff-to-watch-read-and-listen-to-this-week/">Watching, Reading,Listening #2</a>
-
-<a href="http://mogantosh.com/watching-reading-listening-1/">Watching, Reading, Listening #</a>3
-
-<a href="http://mogantosh.com/watching-reading-listening-4/">Watching, Reading, Listening #4</a>
-
- 

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 'Animal Crackers'
 date: 29-Jan-2016
@@ -9,13 +9,11 @@ categories: tbd
 
 ## 29th January 2016
 
- 
+<img class="photo-horiz" src="http://i.dailymail.co.uk/i/pix/2012/08/16/article-2189210-007CA7C71000044C-845_634x446.jpg" />
 
-<h6 <img class="photo-horiz" src="http://i.dailymail.co.uk/i/pix/2012/08/16/article-2189210-007CA7C71000044C-845_634x446.jpg" /></h6>
+**This post was originally published in Practical Parenting Magazine,   August 2015**
 
-<p **This post was originally published in Practical Parenting Magazine,   August 2015**</p>
-
-** **My kids are desperate for a pet. Specifically, they want a dog called Snuffles.  Me, I can’t factor in managing another little animal. I have my hands full with my current menagerie of three kids under nine. Plus, every time we encounter the animal kingdom it seems to be quite dramatic and stressful.
+My kids are desperate for a pet. Specifically, they want a dog called Snuffles. Me, I can’t factor in managing another little animal. I have my hands full with my current menagerie of three kids under nine. Plus, every time we encounter the animal kingdom it seems to be quite dramatic and stressful.
 
 Yesterday I was hanging out with three-year-old Pudding when a little bird flew in the house and cornered itself in the kitchen. My heart sank. This happens often, and I am always reminded of that Modern Family scene when Mitchell, terrified of birds, smashes up his entire lounge room trying to encourage a pigeon to fly out.
 
@@ -27,7 +25,7 @@ Suddenly it squirmed out, dropped onto Pudding’s foot and then rolled, motionl
 
 Eventually the little bird came to and flew away, and I discovered that as it buzzed past my laptop on its little scenic tour of the house, it had shat on my keyboard. So Nature had the last laugh after all.
 
-<p My son had animal-related hysterics recently too. It was a Saturday night, right on bedtime.   My husband Keith was away and I was trying to keep the vibe calm so I could cajole all three kids into bed when six-year old T-Bone suddenly ran inside with a frog in his hand. 'A frog!' he yelled. 'I've got a frog and he's my new pet!'</p>
+My son had animal-related hysterics recently too. It was a Saturday night, right on bedtime.   My husband Keith was away and I was trying to keep the vibe calm so I could cajole all three kids into bed when six-year old T-Bone suddenly ran inside with a frog in his hand. 'A frog!' he yelled. 'I've got a frog and he's my new pet!'
 
 The girls shot off the coach, cast *Eloise In Paris* aside and threw themselves into the spirit of the thing. 'Little fwoggie', moaned Pudding, poking at the poor amphibian with her dirty little paws. 'Let's call him Trevor,' said eight-year-old Peanut.  'Where did you find him?' I asked T-Bone. 'In my slime bucket', he answered. I enquired no further.
 

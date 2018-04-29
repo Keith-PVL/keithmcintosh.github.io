@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 'Taking Stock'
 date: 30-May-2016
@@ -45,7 +45,7 @@ Also, wee.
 
 Honestly, this guy captures the tone so perfectly! God this made me laugh.
 
-https://www.youtube.com/watch?v=PFMwPCOUPas
+<iframe src="https://www.youtube.com/embed/PFMwPCOUPas" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 **Writing:** Not much. The Mumming has been intensive.
 

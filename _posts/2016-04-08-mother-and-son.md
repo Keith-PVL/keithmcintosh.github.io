@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 'Mother And Son'
 date: 08-Apr-2016
@@ -11,9 +11,9 @@ categories: tbd
 
 <img class="photo-horiz" src="http://40.media.tumblr.com/6735163bef3c8759c78f1136e4bda916/tumblr_n85ucuDxZj1sfie3io1_1280.jpg" />
 
-<h6 <a href="http://nos.twnsnd.co/post/92153141045/that-pudding-bowl-haircut-just-never-goes-out-of">(sweet pudding-bowl boy photo source)</a></h6>
+<a href="http://nos.twnsnd.co/post/92153141045/that-pudding-bowl-haircut-just-never-goes-out-of">(sweet pudding-bowl boy photo source)</a>
 
-<p **This column was first published in Practical Parenting Magazine,   April 2016**</p>
+**This column was first published in Practical Parenting Magazine, April 2016**.
 
 Recently I took my seven year old son T-Bone on a solo date. The day was equal parts charming and exasperating,   because, like me, T-Bone lives a significant portion of his time immersed in his own daydreams and regards the actual, practical world as a bit of an intrusion.
 
@@ -36,5 +36,3 @@ This is a standard conversation with Ted, who is a clothing-optional sort of per
 At the end of our shopping-date, which is packed with comedic highs and frustrating lows (T-Bone! Don’t touch that! T-Bone! Get off the road! T-Bone! Put your book down!’) I try to validate our parking ticket. To my consternation, the machine jams when I insert my card.  I spend some minutes doing that unsatisfying young-child-present swearing: ‘you…bugger! What the…. far OUT!’ etc,   until I realise I have been forcing my credit card in the wrong slot, and seem to have broken the machine. I apologise to the long queue that has formed behind me, but T-Bone doesn’t notice. He’s too busy trying to read ‘Zombie Bums From Uranus’ while he walks up the down escalator.
 
 I am he, and he is me, at least in terms of this particular aspect of his genetic inheritance. I hope, at the very least, that I’ve also gifted him with interpretive dancing and lasagne-making skills, as well as woolly-headedness.  And the patience I am learning through mothering this unique person is his great gift to me, in return.
-
-<p </p>

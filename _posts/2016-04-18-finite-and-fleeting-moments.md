@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="http://www.gstatic.com/hostedimg/e6226cda9ce68569_landing" />
 
-<h6 (Last Days Of Shanghai,   1949,   Life Archives )</h6>
+(Last Days Of Shanghai, 1949, Life Archives.)
 
 I love this useful bit of mental arithmetic,   especially during the school holidays!
 

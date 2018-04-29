@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 'Throw A Flaming Bra At His Face (and Other Valentines Day Tips)'
 date: 12-Feb-2016
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="http://takeonethingoff.com/wp-content/uploads/2015/10/vintage-erotica-retro-catfight-stockings-bdsm-1080x853.jpg" />
 
-<h6 Why not stage a retro cat-fight this Valentines Day? Fun!</h6>
+Why not stage a retro cat-fight this Valentines Day? Fun!
 
 I have done something most unsexy to my back and am out for the count,   temporarily. But I have booked a romantic night out at the theatre with Keith for next weekend,   so I have a deadline to whip my body back into shape.
 

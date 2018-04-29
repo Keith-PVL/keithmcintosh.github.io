@@ -11,13 +11,11 @@ categories: tbd
 
 <img class="photo-horiz" src="http://i.dailymail.co.uk/i/pix/2013/02/20/article-2281613-17F81D0F000005DC-713_634x623.jpg" />
 
-<p <a href="http://www.dailymail.co.uk/news/article-2281613/The-saucy-album-covers-really-make-cringe--Vintage-mum-dad-collection-showcases-hilarious-designs-1950s.html">God there's heaps on my to-do list this week. Photo sourc</a>e</p>
+<a href="http://www.dailymail.co.uk/news/article-2281613/The-saucy-album-covers-really-make-cringe--Vintage-mum-dad-collection-showcases-hilarious-designs-1950s.html">God there's heaps on my to-do list this week.</a>
 
-<h6 <span This post was first published in Practical Parenting Magazine,   February 2016</span></h6>
+This post was first published in Practical Parenting Magazine, February 2016
 
 Dear Office,
-
- 
 
 I'm sorry the children were late for school this morning. I am as surprised as you are, to tell you the truth, because I made a chart for the children to help with the school-run, and I thought that would fix the problem. Shockingly, this Morning Chart did not work.
 
