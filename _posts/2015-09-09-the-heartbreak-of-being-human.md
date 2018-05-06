@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 'The Heartbreak Of Being Human'
 date: 09-Sep-2015
@@ -13,9 +13,9 @@ This week I have been listening to the<a href="http://www.bbc.co.uk/programmes/p
 
 <img class="photo-horiz" src="http://i.telegraph.co.uk/multimedia/archive/03431/refugee_germany02_3431193b.jpg" />
 
-<h6 <a href="http://www.telegraph.co.uk/news/worldnews/europe/germany/11847545/Migrant-crisis-Refugees-welcomed-in-Germany-like-war-heroes-as-Berlin-expects-10000-in-one-day.html">photo source)</a></h6>
+<a href="http://www.telegraph.co.uk/news/worldnews/europe/germany/11847545/Migrant-crisis-Refugees-welcomed-in-Germany-like-war-heroes-as-Berlin-expects-10000-in-one-day.html">photo source)</a>
 
-Hundreds of  Germans waited to greet refugees at the train station,   eager to show them a rousing welcome, and to volunteer to help with the incredible logistical task of managing this great tide of people.  It was so incredible moving to read and hear about.
+Hundreds of Germans waited to greet refugees at the train station,   eager to show them a rousing welcome, and to volunteer to help with the incredible logistical task of managing this great tide of people.  It was so incredible moving to read and hear about.
 
 The shared  anguish felt by so many  when that photo of drowned toddler Aylan was everywhere, inescapable, somehow set off this groundswell of compassion. It was a choir that drowned out the fearful and racist shouting that sometimes claims all the air, a choir so large that it  forced the political machinery to act. There was an incredible sense of shift, of the essential **goodness** of humanity taking centre stage for once. For once, the best of us, rather than the worst.
 
@@ -27,206 +27,204 @@ I feel compelled to record the happiness I  feel in this moment, because it wil
 
 At least, this week, the voice of compassion shouted louder than the voice of fear.
 
-<a href="http://mogantosh.com/bookshelf-understanding-terrorism/">A Bookshelf post on trying to understand terrorism. </a> (I feel like I need to go back and read The Looming Towers again.)
-
 **This short film, so moving:**
 
-https://www.youtube.com/watch?v=RBQ-IoHfimQ
+<iframe src="https://www.youtube.com/embed/RBQ-IoHfimQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 
 **And this poem, 'Home', by Warsan Shire **
 
-**** "no one leaves home unless
+> "no one leaves home unless
 
-home is the mouth of a shark
+> home is the mouth of a shark
 
-you only run for the border
+> you only run for the border
 
-when you see the whole city running as well
+> when you see the whole city running as well
 
 
 
-your neighbors running faster than you
+> your neighbors running faster than you
 
-breath bloody in their throats
+> breath bloody in their throats
 
-the boy you went to school with
+> the boy you went to school with
 
-who kissed you dizzy behind the old tin factory
+> who kissed you dizzy behind the old tin factory
 
-is holding a gun bigger than his body
+> is holding a gun bigger than his body
 
-you only leave home
+> you only leave home
 
-when home won’t let you stay.
+> when home won’t let you stay.
 
-no one leaves home unless home chases you
+> no one leaves home unless home chases you
 
-fire under feet
+> fire under feet
 
-hot blood in your belly
+> hot blood in your belly
 
-it’s not something you ever thought of doing
+> it’s not something you ever thought of doing
 
-until the blade burnt threats into
+> until the blade burnt threats into
 
-your neck
+> your neck
 
-and even then you carried the anthem under
+> and even then you carried the anthem under
 
-your breath
+> your breath
 
-only tearing up your passport in an airport toilets
+> only tearing up your passport in an airport toilets
 
-sobbing as each mouthful of paper
+> sobbing as each mouthful of paper
 
-made it clear that you wouldn’t be going back.
+> made it clear that you wouldn’t be going back.
 
-you have to understand,
+> you have to understand,
 
-that no one puts their children in a boat
+> that no one puts their children in a boat
 
-unless the water is safer than the land
+> unless the water is safer than the land
 
-no one burns their palms
+> no one burns their palms
 
-under trains
+> under trains
 
-beneath carriages
+> beneath carriages
 
-no one spends days and nights in the stomach of a truck
+> no one spends days and nights in the stomach of a truck
 
-feeding on newspaper unless the miles travelled
+> feeding on newspaper unless the miles travelled
 
-means something more than journey.
+> means something more than journey.
 
-no one crawls under fences
+> no one crawls under fences
 
-no one wants to be beaten
+> no one wants to be beaten
 
-pitied
+> pitied
 
-no one chooses refugee camps
+> no one chooses refugee camps
 
-or strip searches where your
+> or strip searches where your
 
-body is left aching
+> body is left aching
 
-or prison,
+> or prison,
 
-because prison is safer
+> because prison is safer
 
-than a city of fire
+> than a city of fire
 
-and one prison guard
+> and one prison guard
 
-in the night
+> in the night
 
-is better than a truckload
+> is better than a truckload
 
-of men who look like your father
+> of men who look like your father
 
-no one could take it
+> no one could take it
 
-no one could stomach it
+> no one could stomach it
 
-no one skin would be tough enough
+> no one skin would be tough enough
 
-the
+> the
 
-go home blacks
+> go home blacks
 
-refugees
+> refugees
 
-dirty immigrants
+> dirty immigrants
 
-asylum seekers
+> asylum seekers
 
-sucking our country dry
+> sucking our country dry
 
-niggers with their hands out
+> niggers with their hands out
 
-they smell strange
+> they smell strange
 
-savage
+> savage
 
-messed up their country and now they want
+> messed up their country and now they want
 
-to mess ours up
+> to mess ours up
 
-how do the words
+> how do the words
 
-the dirty looks
+> the dirty looks
 
-roll off your backs
+> roll off your backs
 
-maybe because the blow is softer
+> maybe because the blow is softer
 
-than a limb torn off
+> than a limb torn off
 
-or the words are more tender
+> or the words are more tender
 
-than fourteen men between
+> than fourteen men between
 
-your legs
+> your legs
 
-or the insults are easier
+> or the insults are easier
 
-to swallow
+> to swallow
 
-than rubble
+> than rubble
 
-than bone
+> than bone
 
-than your child body
+> than your child body
 
-in pieces.
+> in pieces.
 
-i want to go home,
+> i want to go home,
 
-but home is the mouth of a shark
+> but home is the mouth of a shark
 
-home is the barrel of the gun
+> home is the barrel of the gun
 
-and no one would leave home
+> and no one would leave home
 
-unless home chased you to the shore
+> unless home chased you to the shore
 
-unless home told you
+> unless home told you
 
-to quicken your legs
+> to quicken your legs
 
-leave your clothes behind
+> leave your clothes behind
 
-crawl through the desert
+> crawl through the desert
 
-wade through the oceans
+> wade through the oceans
 
-drown
+> drown
 
-save
+> save
 
-be hunger
+> be hunger
 
-beg
+> beg
 
-forget pride
+> forget pride
 
-your survival is more important
+> your survival is more important
 
-no one leaves home until home is a sweaty voice in your ear
+> no one leaves home until home is a sweaty voice in your ear
 
-saying-
+> saying-
 
-leave,
+> leave,
 
-run away from me now
+> run away from me now
 
-i dont know what i’ve become
+> i dont know what i’ve become
 
-but i know that anywhere
+> but i know that anywhere
 
-is safer than here"
+> is safer than here"
 
-We are warm and safe in our beds by accident of birth. Sheer,  dumb, incredible luck. May we never forget that.
-
-
+> We are warm and safe in our beds by accident of birth. Sheer,  dumb, incredible luck. May we never forget that.
+ 

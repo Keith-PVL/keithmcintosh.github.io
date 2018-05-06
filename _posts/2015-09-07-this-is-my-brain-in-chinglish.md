@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 'This Is My Brain In Chinglish'
 date: 07-Sep-2015
@@ -9,17 +9,17 @@ categories: tbd
 
 ## 7th September 2015
 
-****Last week I came across a news website that had reprinted my Golden Door diary,   but only after running it through the bizarro-meter. On high. ****
+Last week I came across a news website that had reprinted my Golden Door diary,   but only after running it through the bizarro-meter. On high.
 
-****Remember**** that Friends episode where Joey uses a thesaurus to write a love letter,   exchanging every simple word for a fancier one? ****
+Remember that Friends episode where Joey uses a thesaurus to write a love letter,   exchanging every simple word for a fancier one?
 
 <img class="photo-horiz" src="https://s-media-cache-ak0.pinimg.com/736x/8f/8b/b7/8f8bb7fde1f3c47fd53893e8c68ddf42.jpg" />
 
-****I've been Tribbianied! ****
+I've been Tribbianied!
 
-**This is almost my favourite ever thing to happen to me. I cannot tell you how much joy this piece of absurdism brought me. I tried to send it to a couple of friends but the link broke. So in case the internet eats it,   I thought I'd better reproduce it here so I have somewhere to go if I am ever having a bad day. **
+This is almost my favourite ever thing to happen to me. I cannot tell you how much joy this piece of absurdism brought me. I tried to send it to a couple of friends but the link broke. So in case the internet eats it,   I thought I'd better reproduce it here so I have somewhere to go if I am ever having a bad day.
 
-**Here it is: **
+Here it is:
 
 My three tiny children keep me flattering busy. What with cleaning a blood off a trampoline, using a brief sequence kitchen, and negotiating, each night, whose spin it is for a ‘Cuddle Me’ hot-water bottle, it’s uninterrupted movement around here. we also work part-time and juggle that many tedious and common of all ailments: a bad back.
 

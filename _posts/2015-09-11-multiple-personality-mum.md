@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 'Multiple Personality Mum'
 date: 11-Sep-2015
@@ -9,11 +9,7 @@ categories: tbd
 
 ## 11th September 2015
 
-<img class="photo-horiz" src="http://joancrawfordma.tripod.com/sitebuildercontent/sitebuilderpictures/crawfordshildrenmain.jpg" />
-
-<h6 "I was a strict disciplinarian,   perhaps too strict at times, but my God, without discipline what is life?" - Joan Crawford.  Making normal parents look awesome for the last seventy years.  Cheers Joan!</h6>
-
-<p ** This post was originally published in Practical Parenting Magazine, August 2015**</p>
+**This post was originally published in Practical Parenting Magazine, August 2015**
 
 Before I had my first child I read a squillion parenting books. They were not that useful for the reason that none of them were teaching me how to parent my specific child. The Book Of Peanut would have covered theatrical, emotional, hilarious daughters. I could really have used that book. But the Book Of Peanut would still not have helped me when number two and number three children came along.
 
@@ -33,4 +29,4 @@ These days, I try to find time in the day to narrow in on each kid at some point
 
 There’s still ten years till we get there though. It’s a long game, this learning to be a Mum. I feel really privileged to get to play it.
 
-**PS - Winners of the book giveaway announced on this post: **<a href="http://mogantosh.com/anxiety-and-the-post-baby-conversation-a-book-giveaway/">**A**nxiety and the Post-Baby Conversation</a>.
+PS - Winners of the book giveaway announced on this post: <a href="http://mogantosh.com/anxiety-and-the-post-baby-conversation-a-book-giveaway/">Anxiety and the Post-Baby Conversation</a>.

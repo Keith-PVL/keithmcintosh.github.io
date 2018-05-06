@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 'Beautiful Three-Year-Olds'
 date: 18-Nov-2015
@@ -9,11 +9,11 @@ categories: tbd
 
 ## 18th November 2015
 
-<p <img class="photo-horiz" src="http://www.shorpy.com/files/images/SHORPY-8c30963a.preview.jpg" /></p>
+<img class="photo-horiz" src="http://www.shorpy.com/files/images/SHORPY-8c30963a.preview.jpg" />
 
-<p <a href="http://www.shorpy.com/node/20184">'Camera Shy',   1941,   by Shorpy</a></p>
+<a href="http://www.shorpy.com/node/20184">'Camera Shy',   1941,   by Shorpy</a>
 
-<p **This post was first published in Practical Parenting Magazine,   November 2015**</p>
+**This post was first published in Practical Parenting Magazine,   November 2015**
 
 Are you currently sharing your house with a three year old? Don’t you sometimes wish you could freeze time, and just keep your little one at this age forever?
 

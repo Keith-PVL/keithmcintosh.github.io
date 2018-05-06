@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 'Bookshelf: An Insider Glimpse Into the Australian Parliament'
 date: 16-Sep-2015
@@ -11,7 +11,7 @@ categories: tbd
 
 This week,   as we stand by and wait to see how things unfold with the silver fox (for non-Aussie readers,   we have a new Prime Minister)  I happen to be reading a really interesting book about the machinery of government.
 
-<p <img class="photo-horiz" src="http://4.bp.blogspot.com/-Eo5XNbcxWfc/UN9pkOXae6I/AAAAAAAAg3E/FC0bhJWeM8I/s640/silver+fox+5.jpg" /></p>
+<img class="photo-horiz" src="http://4.bp.blogspot.com/-Eo5XNbcxWfc/UN9pkOXae6I/AAAAAAAAg3E/FC0bhJWeM8I/s640/silver+fox+5.jpg" />
 
 James Button,   son of the late long-time ALP politician  John Button, spent a year working as a speechwriter for the Department of Prime Minister and Cabinet during Kevin Rudd's (first) stint in the top job. He wrote this memoir exploring that year, and his book is fascinating.
 
@@ -25,8 +25,7 @@ No more from me tonight: I am deep in packing, list-making and deadline-meeting.
 
 ps - and just because it is wonderful....Jason Wood and his genetically modified orgasms, 2008.
 
-https://www.youtube.com/watch?v=5CisHakr5yg
+<iframe src="https://www.youtube.com/embed/5CisHakr5yg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 pps - Chinese press have taken to calling Malcolm Turrnbull <a href="http://www.news.com.au/finance/work/malcolm-turnbull-nicknamed-sugar-bomb-sweet-dumpling-in-china/story-fn5tas5k-1227530680995">'sugar bomb' and 'sweet dumpling'.</a> (!!)
 
- 

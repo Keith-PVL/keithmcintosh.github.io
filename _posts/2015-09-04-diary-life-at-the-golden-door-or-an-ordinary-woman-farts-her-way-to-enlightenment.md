@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 'Diary: Life at The Golden Door (OR: An Ordinary Woman Farts Her Way to Enlightenment)'
 date: 04-Sep-2015
@@ -9,7 +9,7 @@ categories: tbd
 
 ## 4th September 2015
 
-Hola,   my comrades!
+Hola, my comrades!
 
 Sorry for the radio silence. My laptop kicked the bucket,   but is home from the techno-hospital now.
 
@@ -23,7 +23,7 @@ I'll be back on Monday to chat more - I've been decluttering all my cupboards, r
 
 x
 
-ps: 8 year old just popped out of bed to deliver me the lyrics she's been writing out to 'Greased Lightning."
+ps: 8 year old just popped out of bed to deliver me the lyrics she's been writing out to 'Greased Lightning'.
 
 As follows:
 

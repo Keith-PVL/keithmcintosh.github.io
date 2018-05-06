@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 'The Ministry Of Unacceptable Underpants'
 date: 02-Nov-2015
@@ -9,9 +9,9 @@ categories: tbd
 
 ## 2nd November 2015
 
-<p <img class="photo-horiz" src="https://s-media-cache-ak0.pinimg.com/736x/4b/81/d2/4b81d2d3e14c3c387f9312a2863e7123.jpg" /></p>
+<img class="photo-horiz" src="https://s-media-cache-ak0.pinimg.com/736x/4b/81/d2/4b81d2d3e14c3c387f9312a2863e7123.jpg" />
 
-<p Natalie Wood,   good undies.</p>
+Natalie Wood, good undies.
 
 I am very happy to be home,   but after a quiet month in the bosom of my family,   the pace of life back in the school term is quite hectic. Car pools! School forms! Calendar management! When I was homeschooling I did not require myself to sign any forms at all, and my starting hour was extremely civilised.
 
