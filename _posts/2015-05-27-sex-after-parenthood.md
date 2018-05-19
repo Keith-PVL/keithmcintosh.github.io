@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Sex After Parenthood"
 date: 27-May-2015
@@ -8,8 +8,6 @@ categories: tbd
 # Sex After Parenthood
 
 ## 27th May 2015
-
-<img class="photo-horiz" src="http://i.ebayimg.com/00/s/MTA2N1gxNjAw/z/ckAAAOSws65TpM1r/$_57.JPG" />
 
 Birth injuries,   lost libido and extreme exhaustion:  just a few of the many factors that can affect a couple's sex life after they have children. It can be hard to access specific and practical advice on managing this stuff. It's loaded and emotional. Life has changed utterly, both practically and emotionally, and sex can be one of the hardest things for couples to talk about easily. For months after having  a baby, women are hormonal casseroles; bodies awash with post-pregnancy and (often) breastfeeding hormones. Many women have birth injuries with intense emotional as well as physical consequences. Add psychotic sleeplessness to the mix, and it can be a minefield.
 

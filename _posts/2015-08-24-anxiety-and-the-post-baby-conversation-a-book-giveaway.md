@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Anxiety and the Post-Baby Conversation: A Book Giveaway"
 date: 24-Aug-2015
@@ -11,17 +11,9 @@ categories: tbd
 
 Guys,   anxiety is so hot right now! It's the the kale smoothie of mental unrest. If the 90's was all depression, the 21st century is all anxiety. It is more common than a bearded bicyclist. In fact, according to the Australian Bureau of Statistics in 1997, anxiety disorders are the most common mental health problem affecting Australians, with 9.7% or 1.3 million adult Australians (12% women and 7.1% men) reported to suffer some form of clinical anxiety during a 12 month period.
 
-<img class="photo-horiz" src="http://themighty.com/wp-content/uploads/2015/06/Beth-Evans-5.png" />
-
-<a href="http://themighty.com/2015/06/what-anxiety-feels-like-as-told-by-a-comic/">(Comic by Beth Evans) </a>
-
 If you struggle at all with anxiety, like so many of the my most beloved people, I have a book for you.
 
 My uncle Dr. Chris Mogan,  a Melbourne-based anxiety specialist,   has written Overcoming Anxiety For Dummies, a fantastic resource which offers practical strategies for managing worry, changing your thinking, supporting your mental health with lifestyle and breaking down what different therapies might involve.
-
-<img class="photo-horiz" src="http://themighty.com/wp-content/uploads/2015/06/Beth-Evans-2.png" />
-
-<a href="http://themighty.com/2015/06/what-anxiety-feels-like-as-told-by-a-comic/">(Comic by Beth Evans)</a>
 
 I have a copy of his book to give away, and for an honest and funny first person account of living with anxiety, I also suggest you check out <a href="http://thelittlemumma.typepad.com/">The Little Mumma. </a>
 

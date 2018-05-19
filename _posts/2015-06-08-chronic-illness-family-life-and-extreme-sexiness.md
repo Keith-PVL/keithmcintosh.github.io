@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Chronic Illness, Family Life and Extreme Sexiness"
 date: 08-Jun-2015
@@ -8,8 +8,6 @@ categories: tbd
 # Chronic Illness, Family Life and Extreme Sexiness
 
 ## 8th June 2015
-
-<img class="photo-horiz" src="https://scontent-lax1-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/17678_10153492627711869_7123902527679157496_n.jpg?oh=ac4df5945c272f7777b5a428c96a5fce&amp;oe=55F7237D" />
 
 I've been a bit under the weather the last week or so.
 
@@ -59,6 +57,6 @@ Finally, my apologies but the bit in the  title about Extreme Sexiness is a lie
 
 I do feel bad about not putting out for you though. You want sexy, here's Rod Stewart. Don't say I never gave you nothing.
 
-https://www.youtube.com/watch?v=IZr6AE-u2UM
+<iframe src="https://www.youtube.com/embed/IZr6AE-u2UM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
  

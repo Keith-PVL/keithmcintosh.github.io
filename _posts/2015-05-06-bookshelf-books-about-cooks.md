@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Bookshelf: Books About Cooks"
 date: 06-May-2015
@@ -59,22 +59,3 @@ https://www.youtube.com/watch?v=MYmV70_U3oA
 
 Bon appetit! Happy Mothers Day! And if you have any books about cooks to add to this list, leave them in the comments.
 
-**More Bookshelf posts:**
-
-Tr<a href="http://mogantosh.com/bookshelf-understanding-terrorism/">ying To Understand Terrorism</a>
-
-<a href="http://mogantosh.com/bookshelf-man-versus-wild/">Man Vs Wild</a>
-
-<a href="http://mogantosh.com/bookshelf-a-sweet-look-at-crazy-irish-catholics/">A Sweet Look At Crazy Irish Catholics</a>
-
-<a href="http://mogantosh.com/bookshelf-5-great-read-aloud-chapter-books-for-kids-under-seven/">5 Great Read-Along Chapter Books For Kids</a>
-
-<a href="http://mogantosh.com/celebrity-memoirs-the-best-and-the-best-worst/">Celebrity Memoirs – The Best, And The Best-Worst</a>
-
-<a href="http://mogantosh.com/bookshelf-adventurous-women/">Adventurous Women</a>
-
- 
-
- 
-
- 

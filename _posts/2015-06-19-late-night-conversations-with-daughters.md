@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Late Night Conversations With Daughters"
 date: 19-Jun-2015
@@ -33,7 +33,7 @@ Also, I recently loved this excellent podcast from Rear Window on <a href="http:
 
 Finally, a thoughtful short film about gender fluidity called Break Free by the wonderful Ruby Rose, who's really having a moment right now. Turning the the straight ladies gay all over the place!
 
-https://www.youtube.com/watch?t=27&amp;v=EFjsSSDLl8w
+<iframe src="https://www.youtube.com/embed/EFjsSSDLl8w" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 Happy weekending my friends, wherever you are are and whoever you love.
 

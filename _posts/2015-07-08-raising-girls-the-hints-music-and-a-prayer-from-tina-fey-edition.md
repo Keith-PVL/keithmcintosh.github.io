@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Raising Girls (The Hints, Music and A Prayer From Tina Fey Edition)"
 date: 08-Jul-2015
@@ -75,4 +75,4 @@ Also:
 
 If it all finally, comes to naught, turn to the healing power of music and let Dan teach you how to play the way you feel when your daughter says she hates you. Remember, if the daughter who hates you is under 10, be sure to put a capo on the fourth fret!
 
-https://www.youtube.com/watch?v=jtXFjm8vkko
+<iframe src="https://www.youtube.com/embed/jtXFjm8vkko" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>

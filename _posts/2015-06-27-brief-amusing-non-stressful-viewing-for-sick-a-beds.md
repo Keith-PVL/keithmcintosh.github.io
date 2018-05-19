@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Brief, Amusing, Non-Stressful Viewing for Sick-A-Beds"
 date: 27-Jun-2015
@@ -37,9 +37,7 @@ I have this ongoing web-series list that I sometimes update, and I  like to sen
 
 Finally, one of my all-time faves. Dirty Jamie Oliver's going to whack it into your burger, again and again and again. I will never, ever tire of this internet classic.
 
-
-
-https://www.youtube.com/watch?v=ZiEjs7deHL4
+<iframe src="https://www.youtube.com/embed/v=ZiEjs7deHL4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 
 
