@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'the victorian angel, 50s housewife'
+title: "the victorian angel, 50s housewife"
 date: 01-Jul-2014
 categories: tbd
 ---

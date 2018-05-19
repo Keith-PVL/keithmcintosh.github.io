@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hive Mind: Housework'
+title: "Hive Mind: Housework"
 date: 13-Jan-2014
 categories: tbd
 ---

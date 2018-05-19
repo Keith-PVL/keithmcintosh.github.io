@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Interesting People: Jane Alver (On Women's Development, Leadership and Gender Diversity)'
+title: "Interesting People: Jane Alver (On Women's Development, Leadership and Gender Diversity)"
 date: 28-Jan-2014
 categories: tbd
 ---

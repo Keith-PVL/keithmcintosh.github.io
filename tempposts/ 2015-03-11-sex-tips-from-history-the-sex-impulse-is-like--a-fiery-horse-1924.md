@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sex Tips From History: The Sex Impulse Is Like  A Fiery Horse (1924)'
+title: "Sex Tips From History: The Sex Impulse Is Like  A Fiery Horse (1924)"
 date: 11-Mar-2015
 categories: tbd
 ---

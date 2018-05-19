@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A New Project, A Welcome Post, And One Attractive Man Speaking French'
+title: "A New Project, A Welcome Post, And One Attractive Man Speaking French"
 date: 28-Aug-2013
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aspects Of Life I Explained To My Husband Recently While He Arranged His Face In An 'I'm Listening' Expression That Failed To Hide His Faraway Man-Eyes'
+title: "Aspects Of Life I Explained To My Husband Recently While He Arranged His Face In An 'I'm Listening' Expression That Failed To Hide His Faraway Man-Eyes"
 date: 25-Sep-2013
 categories: tbd
 ---
@@ -15,4 +15,4 @@ categories: tbd
 
 3. The remarkably high status that vintage floral sheets have at the op-shop and the corresponding joy I felt in finding a 70s pattern in mint condition.
 
-<p <img class="photo-horiz" src="/images/2013/09/1256532_629486840424636_1995086882_n-300x210.jpg" /></p>
+<img class="photo-horiz" src="/images/2013/09/1256532_629486840424636_1995086882_n-300x210.jpg" />

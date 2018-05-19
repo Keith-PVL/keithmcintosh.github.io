@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '(Topless) Holiday Postcards'
+title: "(Topless) Holiday Postcards"
 date: 04-Dec-2014
 categories: tbd
 ---
@@ -21,4 +21,4 @@ On the whole it was perhaps the single greatest moment of Keith's working life.
 
 <img class="photo-horiz" src="http://3.bp.blogspot.com/-F-YySYxur8Q/UXebAFFe5LI/AAAAAAAAQHE/5a8C3elEtvU/s1600/WNGDian48155.jpg" />
 
-<p <a href="http://www.wngd.org/">World Naked Gardening Day , May</a> 3rd. Mark your diaries. Tasmania! (And don't lose your pencil).</p>
+<a href="http://www.wngd.org/">World Naked Gardening Day , May</a> 3rd. Mark your diaries. Tasmania! (And don't lose your pencil).

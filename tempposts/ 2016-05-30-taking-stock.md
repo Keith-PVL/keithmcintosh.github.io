@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Taking Stock'
+title: "Taking Stock"
 date: 30-May-2016
 categories: tbd
 ---

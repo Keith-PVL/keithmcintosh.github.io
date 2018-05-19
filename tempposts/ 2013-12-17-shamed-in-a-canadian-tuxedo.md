@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shamed In A Canadian Tuxedo'
+title: "Shamed In A Canadian Tuxedo"
 date: 17-Dec-2013
 categories: tbd
 ---

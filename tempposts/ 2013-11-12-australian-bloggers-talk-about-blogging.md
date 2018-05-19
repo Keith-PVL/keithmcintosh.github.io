@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Australian Bloggers Talk About Blogging'
+title: "Australian Bloggers Talk About Blogging"
 date: 12-Nov-2013
 categories: tbd
 ---

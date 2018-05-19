@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'For Your Reading Pleasure: 3 Crackingly Good Celebrity Profiles'
+title: "For Your Reading Pleasure: 3 Crackingly Good Celebrity Profiles"
 date: 18-Dec-2014
 categories: tbd
 ---
@@ -15,7 +15,7 @@ I wish the enigmatic Tilda Swinton was my spirit animal (my actual spirit animal
 
 <img class="photo-horiz" src="http://www.gq.com/images/women/2014/12/tilda-swinton/tilda-swinton-gq-magazine-december-2014-02.jpg" />
 
-<p (photo from GQ)</p>
+(photo from GQ)
 
 Finally, MONA founder and crazy gambling fool <a href="http://www.themonthly.com.au/issue/2013/february/1366597433/richard-flanagan/gambler">Richard Walsh is a fascinating study</a>.
 

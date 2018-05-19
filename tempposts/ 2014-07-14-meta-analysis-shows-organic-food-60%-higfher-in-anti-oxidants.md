@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Meta-Analysis shows Organic Food 60% higfher in anti-oxidants'
+title: "Meta-Analysis shows Organic Food 60% higfher in anti-oxidants"
 date: 14-Jul-2014
 categories: tbd
 ---
@@ -49,7 +49,7 @@ Overall, organic foods generally have no biologically meaningful health benefits
 
 ** **
 
-<p align="center">**Before The Headlines**</p>
+align="center">**Before The Headlines**
 
 <table border="0" cellspacing="0" cellpadding="0">
 

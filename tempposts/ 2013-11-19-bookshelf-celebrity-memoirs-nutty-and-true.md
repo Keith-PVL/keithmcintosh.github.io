@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bookshelf: Celebrity Memoirs, Nutty and True'
+title: "Bookshelf: Celebrity Memoirs, Nutty and True"
 date: 19-Nov-2013
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Beautiful Madness: Life With Six Year Old Boys'
+title: "The Beautiful Madness: Life With Six Year Old Boys"
 date: 31-Mar-2015
 categories: tbd
 ---
@@ -9,11 +9,11 @@ categories: tbd
 
 ## 31st March 2015
 
-<p <img class="photo-horiz" src="http://www.shorpy.com/files/images/SHORPY_8d27695a1.preview.jpg" /></p>
+<img class="photo-horiz" src="http://www.shorpy.com/files/images/SHORPY_8d27695a1.preview.jpg" />
 
-<h6 <a href="March 1943. &quot;Rochester,   New York. Mrs. Babcock,   Shirley and Earl greeting Mr. Babcock in front of the house.&quot; ">March 1943. "Rochester,   New York. Mrs. Babcock, Shirley and Earl greeting Mr. Babcock in front of the house."  From the Shorpy Historical Archive.</a></h6>
+<a href="March 1943. &quot;Rochester,   New York. Mrs. Babcock,   Shirley and Earl greeting Mr. Babcock in front of the house.&quot; ">March 1943. "Rochester,   New York. Mrs. Babcock, Shirley and Earl greeting Mr. Babcock in front of the house."  From the Shorpy Historical Archive.</a>
 
-<p **This column was first published in Practical Parenting Magazine, February 2014**</p>
+**This column was first published in Practical Parenting Magazine, February 2014**
 
 Have you ever heard that theory that our kids are all sent to teach us something? I think there’s something in it. My biggest child, for instance, is on a mission to save me from the sin of vanity (“Mum,’ she asked yesterday, ‘are you growing a beard?’) The smallest one is determined to protect me from the pangs of loneliness should I ever find myself in the terrible position of being alone in the toilet while I wee.  And finally, my middle child, my only boy, the sunshine of my life and the biggest nut in the whole cracker box, is sent to teach me patience.
 

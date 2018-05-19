@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shabby Hotel Room Dreams'
+title: "Shabby Hotel Room Dreams"
 date: 04-Dec-2013
 categories: tbd
 ---
@@ -17,7 +17,7 @@ It was fantastic.
 
  
 
-<p I adored the joie de vivre of the groom's mother,   who danced up a storm and provided me with a golden image to file in my 'when I grow up' catalogue. Life force! It is so attractive. What is a smooth or 'beautiful' face compared to a person inhabiting their space on the planet with energy and enthusiasm and curiosity?</p>
+I adored the joie de vivre of the groom's mother,   who danced up a storm and provided me with a golden image to file in my 'when I grow up' catalogue. Life force! It is so attractive. What is a smooth or 'beautiful' face compared to a person inhabiting their space on the planet with energy and enthusiasm and curiosity?
 
 We had a great moment when a dandy-looking guy in a wool waistcoat and artistic hair turned out not to be a graphic designer or barber-barista,  but in fact an astrophysicist turned statistician working at Oxford. His job involved crunching climate change numbers. Keith's ears pricked up, and soon the two were intent in conversation. Me, I was basically dribbling as I listened with my mouth open, trying to make the one word in each five I understood match to the English I knew.
 
@@ -33,13 +33,13 @@ When we got back from the wedding, we lay back on our lumpy bed and talked about
 
 In the morning, we read the papers, with no toddler demanding release from the bars of her cot for 'tea-butter toast'.
 
-<p <img class="photo-horiz" src="/images/2013/12/IMG_0322-1024x764.jpg" /></p>
+<img class="photo-horiz" src="/images/2013/12/IMG_0322-1024x764.jpg" />
 
 I carted my stuff out for a shower and passed a fellow resident in the lounge. He was tall, bald and heavily tattooed and looked in fact like the sort of gentleman that fellow prisoners might refer to 'Mad Dog.' But he was quietly having a cup of tea and watching a television cook make a duck lasagne.
 
 Keith and I had excellent Eggs Benedict in a sweet little cafe,  and enjoyed a conversation  in which we finished full sentences without either of us breaking off to say 'The next person to say 'poo' at this table loses half their dessert.'  We hung out on the dock and read the papers and then we made our way north to take our three little friends home from their weary grandparents.
 
-<p <img class="photo-horiz" src="/images/2013/12/IMG_0333-1024x1024.jpg" /></p>
+<img class="photo-horiz" src="/images/2013/12/IMG_0333-1024x1024.jpg" />
 
 Huge thanks to Mum and Dad for minding the kids. Huge thanks!
 

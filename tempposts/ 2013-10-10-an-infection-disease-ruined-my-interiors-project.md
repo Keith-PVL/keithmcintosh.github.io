@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'An Infection Disease Ruined My Interiors Project'
+title: "An Infection Disease Ruined My Interiors Project"
 date: 10-Oct-2013
 categories: tbd
 ---
@@ -17,7 +17,7 @@ Earlier,   I thought a little about how I needed to stop being a  drama queen. 
 
 Yes. Yes there were some stressful times. This night,   for example:
 
-<p 7.30 pm</p>
+7.30 pm
 
 
 

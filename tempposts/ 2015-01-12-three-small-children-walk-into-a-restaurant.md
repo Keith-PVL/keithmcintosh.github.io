@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Three Small Children Walk Into A Restaurant'
+title: "Three Small Children Walk Into A Restaurant"
 date: 12-Jan-2015
 categories: tbd
 ---
@@ -9,7 +9,7 @@ categories: tbd
 
 ## 12th January 2015
 
-<p This post was originally published in Practical Parenting Magazine,   December 2014</p>
+This post was originally published in Practical Parenting Magazine,   December 2014
 
 <img class="photo-horiz" src="https://s-media-cache-ak0.pinimg.com/736x/5c/a0/9f/5ca09f475a7334a4c9c9aa0f82a9fa63.jpg" />
 

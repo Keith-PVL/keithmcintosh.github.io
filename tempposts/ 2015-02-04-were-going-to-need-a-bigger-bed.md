@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'We're Going To Need A Bigger Bed'
+title: "We're Going To Need A Bigger Bed"
 date: 04-Feb-2015
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="http://thefunnyplanet.com/download/3314" />
 
-<p **This post was first published in Practical Parenting Magazine,   January 2014**</p>
+**This post was first published in Practical Parenting Magazine,   January 2014**
 
 Small children do not have the deep and passionate attachment to their beds that we adults do. (Especially,   we adult parents of those small children,   who get to spend much less quality time with our soft, inviting beds than we would like.) Nope, kids resist going to bed, they are up and out of it at the crack of dawn, and they prefer to sleep, whenever possible, in somebody else’s bed. And the best bed of all is that big, warm, comfy one occupied by Mum and Dad.
 

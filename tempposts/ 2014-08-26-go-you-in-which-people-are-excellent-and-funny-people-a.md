@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Go You! (In which people are excellent and funny): People A'
+title: "Go You! (In which people are excellent and funny): People A"
 date: 26-Aug-2014
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Interesting Thoughts On Blogging From Around The Place'
+title: "Interesting Thoughts On Blogging From Around The Place"
 date: 11-Sep-2013
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Random Post Of Goodness'
+title: "A Random Post Of Goodness"
 date: 07-Jun-2014
 categories: tbd
 ---

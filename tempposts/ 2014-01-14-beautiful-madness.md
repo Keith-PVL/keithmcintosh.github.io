@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Beautiful Madness'
+title: "Beautiful Madness"
 date: 14-Jan-2014
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="/images/2014/01/tumblr_m1bg5tOq8x1qzx4bjo1_1280-805x1024.jpg" />
 
-<p (<a href="http://retro-vintage-photography.blogspot.com.au/2012/10/vintage-child-1930s.html">image source</a>)</p>
+(<a href="http://retro-vintage-photography.blogspot.com.au/2012/10/vintage-child-1930s.html">image source</a>)
 
 Friends,   don’t believe all the horror stories about parenting two-year-olds. It’s true that it might be, as a friend told me once, ‘like hanging out with your best friend who is drunk all the time’, but it holds many charms. Two year olds have one foot in babyland; clutching their stuffed toys and blankies, being sung to sleep, and needing you so intimately. But they have the other foot planted in childhood too. They repeat what you say (which can be awkward when you’ve had a rough day and they start parroting ‘Fock! Fock!) they try out odd and hilarious behaviours, and most wonderfully, their personality really begins to flower and reveal itself.
 

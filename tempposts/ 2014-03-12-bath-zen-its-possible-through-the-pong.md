@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bath Zen: It's Possible, Through The Pong'
+title: "Bath Zen: It's Possible, Through The Pong"
 date: 12-Mar-2014
 categories: tbd
 ---

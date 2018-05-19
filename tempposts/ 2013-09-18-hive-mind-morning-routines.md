@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hive Mind: Morning Routines'
+title: "Hive Mind: Morning Routines"
 date: 18-Sep-2013
 categories: tbd
 ---

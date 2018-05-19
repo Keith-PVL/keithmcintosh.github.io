@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Accidental Party Babies'
+title: "Accidental Party Babies"
 date: 23-Apr-2014
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="/images/2014/04/eff160cc1abcaede4af1832674729b80.jpg" />
 
-<p <a href="http://realityayslum.tumblr.com/post/9359720450/jiru-jiri-swinging-grannies-1966">Swinging grannies,   1966. </a></p>
+<a href="http://realityayslum.tumblr.com/post/9359720450/jiru-jiri-swinging-grannies-1966">Swinging grannies,   1966. </a>
 
 Nervous about surgery tomorrow. I've got two kids instead of none today (sometimes the delicate,   complicated holiday child-care shuffle all falls apart...) So much to do. I'm trying to get a writing deadline out of the way so I can not worry about work,   and I'm cleaning and sorting out my bedroom for when I get home, packing a hospital bag (a shirt that buttons down the front? have I even got such a thing?) , and finishing up all the post-holiday laundry and sorting-out.
 

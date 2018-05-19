@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sex Tips From History: The Hairy Joy Of Hairy Sex, 1972'
+title: "Sex Tips From History: The Hairy Joy Of Hairy Sex, 1972"
 date: 06-Aug-2014
 categories: tbd
 ---

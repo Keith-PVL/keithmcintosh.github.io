@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Five Great Posts About Parenting'
+title: "Five Great Posts About Parenting"
 date: 25-Jul-2014
 categories: tbd
 ---
@@ -9,9 +9,9 @@ categories: tbd
 
 ## 25th July 2014
 
-<p <img class="photo-horiz" src="/images/2014/07/Hair.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/07/Hair.jpg" />
 
-<h6 <a href="http://www.retronaut.com/2013/11/children-hairdresser/">1932,   Children at the hairdresser. </a>'I can see one wriggling Enid! Get the fine-toothed comb and make it snappy!'</h6>
+<a href="http://www.retronaut.com/2013/11/children-hairdresser/">1932,   Children at the hairdresser. </a>'I can see one wriggling Enid! Get the fine-toothed comb and make it snappy!'
 
 Yes, OK, so we've all got head lice but the toddler has taken to telling me 'I love you Mama' a hundred times a day, instituting the policy of the 'hug-wee' and calling me  'fart-bastard'. So in balance, life's all pretty good.
 

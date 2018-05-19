@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Don't Worry, Stressed, Enraged and Weeping Parents! Your Kids Will Give You A Million Chances To Do Better'
+title: "Don't Worry, Stressed, Enraged and Weeping Parents! Your Kids Will Give You A Million Chances To Do Better"
 date: 04-Oct-2013
 categories: tbd
 ---

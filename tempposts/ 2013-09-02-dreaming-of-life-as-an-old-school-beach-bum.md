@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dreaming Of Life As An Old-School Beach Bum'
+title: "Dreaming Of Life As An Old-School Beach Bum"
 date: 02-Sep-2013
 categories: tbd
 ---

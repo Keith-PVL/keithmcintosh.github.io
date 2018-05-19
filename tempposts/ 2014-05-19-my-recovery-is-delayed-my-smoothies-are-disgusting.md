@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'My Recovery Is Delayed, My Smoothies Are Disgusting'
+title: "My Recovery Is Delayed, My Smoothies Are Disgusting"
 date: 19-May-2014
 categories: tbd
 ---

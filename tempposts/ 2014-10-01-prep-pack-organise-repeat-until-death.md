@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Prep, Pack, Organise, Repeat Until Death'
+title: "Prep, Pack, Organise, Repeat Until Death"
 date: 01-Oct-2014
 categories: tbd
 ---
@@ -11,31 +11,31 @@ categories: tbd
 
 <img class="photo-horiz" src="/images/2014/07/bardot.jpg" />
 
-<p Young Bridget Bardot,   Paris 1946 by <a href="http://mimbeau.tumblr.com/post/64951066673/brigitte-bardot-young-paris-1946-boris-lipnitzki">Boris Lipnitzki</a></p>
+Young Bridget Bardot,   Paris 1946 by <a href="http://mimbeau.tumblr.com/post/64951066673/brigitte-bardot-young-paris-1946-boris-lipnitzki">Boris Lipnitzki</a>
 
-<p <span Parenting is always about keeping one step a head of the curve,   yes? Wrangling little ones is about changing up environments and food and sleep situations just in front of the toddler meltdown,   feeding the family is all about constant replenishment of the stock cupboards, running about town is about filling ones handbag </span><span with snacks and coloured pencils, and going anywhere is all about packing the bags. </span></p>
+<span Parenting is always about keeping one step a head of the curve,   yes? Wrangling little ones is about changing up environments and food and sleep situations just in front of the toddler meltdown,   feeding the family is all about constant replenishment of the stock cupboards, running about town is about filling ones handbag </span><span with snacks and coloured pencils, and going anywhere is all about packing the bags. </span>
 
-<p Packing bags, unpacking them, excavating the apple cores, and washing the contents.</p>
+Packing bags, unpacking them, excavating the apple cores, and washing the contents.
 
-<p Packing them, and thinking about packing them. What do I need? What's happening next? And after that? Is that thing  still lost? (Yes.) Is that thing in the wash? (Yes.) Do I need to get that thing from the shops? (Yes.) All bases need covering mentally, and then in the actual packing. Snakebite  kit. Water sterilisation tablets. Snacks. More snacks. More snacks. Dear god do you all have tapeworm? More snacks.</p>
+Packing them, and thinking about packing them. What do I need? What's happening next? And after that? Is that thing  still lost? (Yes.) Is that thing in the wash? (Yes.) Do I need to get that thing from the shops? (Yes.) All bases need covering mentally, and then in the actual packing. Snakebite  kit. Water sterilisation tablets. Snacks. More snacks. More snacks. Dear god do you all have tapeworm? More snacks.
 
-<p Pack, unpack, excavate, wash, repack.</p>
+Pack, unpack, excavate, wash, repack.
 
-<p Deep breath.</p>
+Deep breath.
 
-<p Bali dreams.</p>
+Bali dreams.
 
-<p Apply coffee.</p>
+Apply coffee.
 
-<p Resume!</p>
+Resume!
 
-<p One of the delights of school holidays is having a break from all the packing. There's no searching for Guides uniforms and lost forms and correct shoes. There's still handbag-stocking and food shopping and beach-bag packing, but no school bags, sports bags, Guides uniforms, lost notes.... And a change is as good as a holiday, yes?  (Not as good as a Bali holiday, obvs. Are you in Bali? Gor bless ya. Swim out to the bar and have a cocktail for all of us.  )</p>
+One of the delights of school holidays is having a break from all the packing. There's no searching for Guides uniforms and lost forms and correct shoes. There's still handbag-stocking and food shopping and beach-bag packing, but no school bags, sports bags, Guides uniforms, lost notes.... And a change is as good as a holiday, yes?  (Not as good as a Bali holiday, obvs. Are you in Bali? Gor bless ya. Swim out to the bar and have a cocktail for all of us.  )
 
-<p Here's a piece about my organisational woes (and yours. Tell me I'm not alone...) that I wrote a year or two ago.I called it 'Excuse Me, I Think There Has Been A Terrible Mistake.'</p>
+Here's a piece about my organisational woes (and yours. Tell me I'm not alone...) that I wrote a year or two ago.I called it 'Excuse Me, I Think There Has Been A Terrible Mistake.'
 
 <blockquote>
 
-<p As a single person I was hopeless at looking after my own finances. Paperwork was always lost, and bills were always paid late. Periodically I would enthusiastically begin new ‘systems’ to manage the admin of my life. This bit was very enjoyable: notebooks, highlighters, Post-Its, steely resolve. This time! This time!  Within days the system would collapse.</p>
+As a single person I was hopeless at looking after my own finances. Paperwork was always lost, and bills were always paid late. Periodically I would enthusiastically begin new ‘systems’ to manage the admin of my life. This bit was very enjoyable: notebooks, highlighters, Post-Its, steely resolve. This time! This time!  Within days the system would collapse.
 
  
 
@@ -69,6 +69,6 @@ I will replace my takeaway-latte addiction with organic green tea. I will replac
 
  
 
-<p </p>
+
 
 </blockquote>

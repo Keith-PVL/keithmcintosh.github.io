@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'School Lunchbox:  Peach,  Honey and Yogurt Muffins (Simple, Freezable & Low-Sugar)'
+title: "School Lunchbox:  Peach,  Honey and Yogurt Muffins (Simple, Freezable & Low-Sugar)"
 date: 19-Jan-2014
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Professional Idiot'
+title: "Professional Idiot"
 date: 24-Jul-2014
 categories: tbd
 ---

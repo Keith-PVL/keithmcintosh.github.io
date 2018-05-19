@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Life With Kids: Right Now'
+title: "Life With Kids: Right Now"
 date: 29-Oct-2013
 categories: tbd
 ---

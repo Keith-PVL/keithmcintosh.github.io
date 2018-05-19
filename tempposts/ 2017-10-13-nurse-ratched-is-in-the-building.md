@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nurse Ratched is In The Building'
+title: "Nurse Ratched is In The Building"
 date: 13-Oct-2017
 categories: tbd
 ---

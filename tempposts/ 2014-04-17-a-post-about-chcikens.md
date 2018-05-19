@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'a post about chcikens'
+title: "a post about chcikens"
 date: 17-Apr-2014
 categories: tbd
 ---

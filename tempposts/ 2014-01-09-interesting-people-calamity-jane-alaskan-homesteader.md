@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Interesting People: Calamity Jane, Alaskan Homesteader'
+title: "Interesting People: Calamity Jane, Alaskan Homesteader"
 date: 09-Jan-2014
 categories: tbd
 ---

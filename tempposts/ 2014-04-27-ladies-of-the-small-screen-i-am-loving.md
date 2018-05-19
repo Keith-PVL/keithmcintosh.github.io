@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ladies of The Small Screen I Am Loving'
+title: "Ladies of The Small Screen I Am Loving"
 date: 27-Apr-2014
 categories: tbd
 ---

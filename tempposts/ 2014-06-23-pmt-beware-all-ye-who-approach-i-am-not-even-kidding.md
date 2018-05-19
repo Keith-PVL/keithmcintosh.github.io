@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PMT Beware All Ye Who Approach I Am Not Even Kidding'
+title: "PMT Beware All Ye Who Approach I Am Not Even Kidding"
 date: 23-Jun-2014
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Breaking Bad: The Aftermath'
+title: "Breaking Bad: The Aftermath"
 date: 07-Aug-2014
 categories: tbd
 ---

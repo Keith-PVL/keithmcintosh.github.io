@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Way Of Boys'
+title: "The Way Of Boys"
 date: 25-Nov-2013
 categories: tbd
 ---
@@ -11,9 +11,9 @@ categories: tbd
 
 <img class="photo-horiz" src="/images/2013/11/05323u_0.preview.jpg" />
 
-<p <a href="http://www.shorpy.com/node/2720">1910,   St Louis newsboy.</a></p>
+<a href="http://www.shorpy.com/node/2720">1910,   St Louis newsboy.</a>
 
-<p **This post was originally published in Practical Parenting Magazine,   November 2013**</p>
+**This post was originally published in Practical Parenting Magazine,   November 2013**
 
 My son T-Bone just turned five. Yesterday, he followed me through the house with a piece of paper as I was gathering washing, distracted. I was probably muttering to myself like a madwoman, and I wasn’t listening very hard to T-Bone.  ‘Look at this, Mum!’ he shouted. ‘It’s a peep-machine! A peep-machine!’ I winced a little. His volume is permanently on eleven these days.
 

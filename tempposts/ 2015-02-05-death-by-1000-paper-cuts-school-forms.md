@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Death by 1000 Paper Cuts: School Forms'
+title: "Death by 1000 Paper Cuts: School Forms"
 date: 05-Feb-2015
 categories: tbd
 ---
@@ -9,9 +9,9 @@ categories: tbd
 
 ## 5th February 2015
 
-<p <img class="photo-horiz" src="http://1.bp.blogspot.com/-HpXPf5E7vG0/VK_wRkVFTtI/AAAAAAABNW4/-ExICwVwZdU/s1600/Women%2Band%2BCigarettes%2C%2Bca.%2B1950s%2B(6).jpg" /></p>
+<img class="photo-horiz" src="http://1.bp.blogspot.com/-HpXPf5E7vG0/VK_wRkVFTtI/AAAAAAABNW4/-ExICwVwZdU/s1600/Women%2Band%2BCigarettes%2C%2Bca.%2B1950s%2B(6).jpg" />
 
-<h6 (photo source)</h6>
+(photo source)
 
 This writing below is from the archives,   but it sadly remains true this week. This term we're juggling Girl Guides, drama, karate and school band. Keith is teaching the kids piano himself, lucky kids. But all these activities mean....FORMS. So many forms. And I am not good at effective and efficient administration. My skills lie in cheap gags, slapstick and scrambled eggs.
 

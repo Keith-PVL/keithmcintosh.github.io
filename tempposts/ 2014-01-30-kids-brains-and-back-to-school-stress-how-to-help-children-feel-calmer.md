@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kid's Brains And 'Back To School' Stress: How To Help Children Feel Calmer'
+title: "Kid's Brains And 'Back To School' Stress: How To Help Children Feel Calmer"
 date: 30-Jan-2014
 categories: tbd
 ---
@@ -15,6 +15,6 @@ Some great advice from <a href="http://www.maggiedent.com/">Maggie Dent</a>:
 
 <img class="photo-horiz" src="/images/2014/01/e546ea9d28f8f6d42c6cd2abe456a35c.jpg" />
 
-<p photo from Life Magazine, details unknown.</p>
+photo from Life Magazine, details unknown.
 
 </blockquote>

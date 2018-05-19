@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Happy Mother's Day 2014'
+title: "Happy Mother's Day 2014"
 date: 12-May-2014
 categories: tbd
 ---
@@ -31,22 +31,22 @@ https://www.youtube.com/watch?v=G-rfGqYC3wU
 
 To wrap up, some awkward Mum moments:
 
-<p I cannot lie. I love this Mommysaurus.</p>
+I cannot lie. I love this Mommysaurus.
 
-<p <img class="photo-horiz" src="/images/2014/05/enhanced-buzz-6334-1399615279-12.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/05/enhanced-buzz-6334-1399615279-12.jpg" />
 
-<p Naw. Such a helpful Mum, this one!</p>
+Naw. Such a helpful Mum, this one!
 
-<p <img class="photo-horiz" src="/images/2014/05/enhanced-buzz-6309-1399619473-4.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/05/enhanced-buzz-6309-1399619473-4.jpg" />
 
-<p Dirty, dirty Granny.</p>
+Dirty, dirty Granny.
 
  <img class="photo-horiz" src="/images/2014/05/enhanced-buzz-31161-1399618696-13.jpg" />
 
-<p Oh yeah, Mum can photobomb.</p>
+Oh yeah, Mum can photobomb.
 
 <img class="photo-horiz" src="/images/2014/05/enhanced-buzz-21932-1399616870-13.jpg" />
 
  
 
-<p More awkward, glorious mother moments <a href="http://www.buzzfeed.com/jennaguillaume/most-awkward-mom-photos-of-all-time">here</a>. Happy Mothers Day, women of the internets. May you live long and prosper</p>
+More awkward, glorious mother moments <a href="http://www.buzzfeed.com/jennaguillaume/most-awkward-mom-photos-of-all-time">here</a>. Happy Mothers Day, women of the internets. May you live long and prosper

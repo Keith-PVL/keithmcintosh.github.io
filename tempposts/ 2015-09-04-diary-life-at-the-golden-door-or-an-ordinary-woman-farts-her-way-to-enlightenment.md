@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Diary: Life at The Golden Door (OR: An Ordinary Woman Farts Her Way to Enlightenment)'
+title: "Diary: Life at The Golden Door (OR: An Ordinary Woman Farts Her Way to Enlightenment)"
 date: 04-Sep-2015
 categories: tbd
 ---

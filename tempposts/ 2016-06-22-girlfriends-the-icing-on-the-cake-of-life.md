@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Girlfriends: The Icing On The Cake Of Life'
+title: "Girlfriends: The Icing On The Cake Of Life"
 date: 22-Jun-2016
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lady Mayor of Crazytown'
+title: "Lady Mayor of Crazytown"
 date: 04-Nov-2013
 categories: tbd
 ---

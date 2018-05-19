@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hack a Banana, Make A Keyboard'
+title: "Hack a Banana, Make A Keyboard"
 date: 12-Dec-2013
 categories: tbd
 ---
@@ -15,7 +15,7 @@ Jay Silver's invention,   the MaKey MaKey, turns everyday objects into computer 
 
 <img class="photo-horiz" src="/images/2013/12/7168633120_aa1254475c.jpg" />
 
-<p This<a href="http://www.makeymakey.com/"> eight year-old</a>, for instance, invented a knife-and-log interface for cutting virtual wood.</p>
+This<a href="http://www.makeymakey.com/"> eight year-old</a>, for instance, invented a knife-and-log interface for cutting virtual wood.
 
 'I used to want to design a perfect society, or a utopic world, or something like that,' says Silver. 'But as I'm getting older and messing with all this stuff, I'm realising that my idea of a perfect world really can't be designed by one person or even by a million experts. It's really going to be seven billion pairs of hands, each following their own passions, and each kind of like a mosaic coming up and creating this world in their backyards and their kitchens. And that's the world I really want to live in.'
 

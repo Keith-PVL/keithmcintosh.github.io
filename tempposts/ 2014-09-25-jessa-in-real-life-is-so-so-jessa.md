@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jessa In Real Life Is So, So Jessa'
+title: "Jessa In Real Life Is So, So Jessa"
 date: 25-Sep-2014
 categories: tbd
 ---
@@ -17,4 +17,4 @@ Anyway, if you're not a Girls fan, get back to training your falcon or whatever.
 
 <img class="photo-horiz" src="http://pixel.nymag.com/imgs/content/dam/vulture/slideshows/2014/3/life-in-pix-jemima-kirke/1.jpg.r.nocrop.w610.h610.jpg" />   <img class="photo-horiz" src="http://pixel.nymag.com/imgs/content/dam/vulture/slideshows/2014/3/life-in-pix-jemima-kirke/3.jpg.r.nocrop.w610.h610.jpg" />   <img class="photo-horiz" src="http://pixel.nymag.com/imgs/content/dam/vulture/slideshows/2014/3/life-in-pix-jemima-kirke/12.jpg.r.nocrop.w610.h610.jpg" />   <img class="photo-horiz" src="http://pixel.nymag.com/imgs/content/dam/vulture/slideshows/2014/3/life-in-pix-jemima-kirke/17.jpg.r.nocrop.w610.h610.jpg" />
 
-<p (<a href="http://www.vulture.com/2014/03/life-in-pictures-jemima-kirke.html#photo=17x00003">all pics from the Life In Pictures series at Vulture.com</a>.)</p>
+(<a href="http://www.vulture.com/2014/03/life-in-pictures-jemima-kirke.html#photo=17x00003">all pics from the Life In Pictures series at Vulture.com</a>.)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Interesting People: Kelly and Narelle (On Mothering with a Physical Disability)'
+title: "Interesting People: Kelly and Narelle (On Mothering with a Physical Disability)"
 date: 17-Feb-2014
 categories: tbd
 ---

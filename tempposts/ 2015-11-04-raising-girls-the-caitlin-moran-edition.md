@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Raising Girls: The Caitlin Moran Edition'
+title: "Raising Girls: The Caitlin Moran Edition"
 date: 04-Nov-2015
 categories: tbd
 ---
@@ -9,7 +9,7 @@ categories: tbd
 
 ## 4th November 2015
 
-<p <img class="photo-horiz" src="http://www.hercampus.com/sites/default/files/2015/10/03/caitlin.jpg" /></p>
+<img class="photo-horiz" src="http://www.hercampus.com/sites/default/files/2015/10/03/caitlin.jpg" />
 
 I adore Caitlin Moran and her posthumous advice to her daughter deserves to go in the pool room.
 

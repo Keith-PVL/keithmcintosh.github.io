@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Long-Term Relationships: Be Smart, Make Your 'Lie Self' Come True'
+title: "Long-Term Relationships: Be Smart, Make Your 'Lie Self' Come True"
 date: 28-Aug-2014
 categories: tbd
 ---

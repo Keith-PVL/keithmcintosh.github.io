@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Preschooler Fashion: More Is More'
+title: "Preschooler Fashion: More Is More"
 date: 01-Jun-2016
 categories: tbd
 ---
@@ -9,13 +9,13 @@ categories: tbd
 
 ## 1st June 2016
 
-<p **This post was first published in Practical Parenting Magazine,   June 2016**</p>
+**This post was first published in Practical Parenting Magazine,   June 2016**
 
-<p **Dedicated to Nanna!**</p>
+**Dedicated to Nanna!**
 
 <img class="photo-horiz" src="http://world4.eu/wp-content/uploads/2013/05/child-fashion-004.jpg" />
 
-<h6 Nothing new under the sun,   German postcard,   1910</h6>
+Nothing new under the sun,   German postcard,   1910
 
 I’m thinking I might start a fashion line called ‘Four Year Old’. Every garment in my first collection (I shall call it More Is More) will be sparkly, glittering or bejewelled. It will be spectacular, and also, utterly mad.
 

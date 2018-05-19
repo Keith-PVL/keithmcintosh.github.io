@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Comedy Children Will Tell Strangers You Are Nude'
+title: "Comedy Children Will Tell Strangers You Are Nude"
 date: 06-Jan-2014
 categories: tbd
 ---

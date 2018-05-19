@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Concerned that I Have Entered A Tricky New Meta Phase of Parenting'
+title: "Concerned that I Have Entered A Tricky New Meta Phase of Parenting"
 date: 11-Sep-2013
 categories: tbd
 ---
@@ -27,9 +27,9 @@ Did you get this from somewhere, Ivy?' I asked.
 
 I remembered that she had picked up a parenting book in the bathroom yesterdaycalled Politically Incorrect Parenting, and setled in on the lounge with it.
 
-<p The six year-old reading the parenting books. This is uncharted waters. I may be in some trouble. 
+The six year-old reading the parenting books. This is uncharted waters. I may be in some trouble. 
 
-</a>.</p>
+</a>.
 
 ivy and the convo about politically incorect arenting....dont make a big deal out of it, etc
 

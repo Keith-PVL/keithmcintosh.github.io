@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cooking With Kids: Greek Yoghurt Pannacota with Raspberry Sauce'
+title: "Cooking With Kids: Greek Yoghurt Pannacota with Raspberry Sauce"
 date: 19-Mar-2014
 categories: tbd
 ---
@@ -9,7 +9,7 @@ categories: tbd
 
 ## 19th March 2014
 
-<p <img class="photo-horiz" src="/images/2014/03/IMG_1865-1024x764.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/03/IMG_1865-1024x764.jpg" />
 
 After school,   my kids can be a bit post-institutionalised. They need to wind down and de-stress,   and one of the best ways I've found to direct that slightly sensitive energy is into cooking.
 
@@ -53,7 +53,7 @@ Just place 500g frozen raspberries (or fresh, if you have them) on the stove ove
 
 After dinner, get your set pannacottas out of the fridge and serve with a generous dollop of sauce.
 
-<p <img class="photo-horiz" src="/images/2014/03/IMG_1897-1024x1024.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/03/IMG_1897-1024x1024.jpg" />
 
 Scoff greedily, lick the bowl, and don't forget to congratulate your little chefs.
 

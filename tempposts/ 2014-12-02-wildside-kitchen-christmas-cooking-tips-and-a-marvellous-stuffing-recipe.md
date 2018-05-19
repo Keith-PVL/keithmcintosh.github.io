@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wildside Kitchen: Christmas Cooking Tips and A Marvellous Stuffing Recipe'
+title: "Wildside Kitchen: Christmas Cooking Tips and A Marvellous Stuffing Recipe"
 date: 02-Dec-2014
 categories: tbd
 ---
@@ -9,7 +9,7 @@ categories: tbd
 
 ## 2nd December 2014
 
-<p **Disclosure: I attended this course as guest of the Wildside Kitchen,   but all opinions are my own.**</p>
+**Disclosure: I attended this course as guest of the Wildside Kitchen,   but all opinions are my own.**
 
 Some twenty-something (ahem) years ago,   my sister did a course at catering college. Amongst other tricks, she learnt the French technique for proper  onion-chopping. It's called a 'brunois' and it looks like this:
 
@@ -25,7 +25,7 @@ This class was great fun. We cooked all morning, we ate a big lunch, and I carte
 
 <img class="photo-horiz" src="/images/2014/12/DSC_1681-e1417515355863-576x1024.jpg" />
 
-<h6 ('Why are you making that face?' asked my eight year old. 'I don't know,' I had to tell her. 'It's just my face.')</h6>
+('Why are you making that face?' asked my eight year old. 'I don't know,' I had to tell her. 'It's just my face.')
 
 The Wildside Kitchen runs a number of cooking courses (French and bread-making, among others) but the one I attended was designed to take amateur cooks right through a Christmas lunch menu. Now, I'm a creature of habit.  I will likely cook this menu for the rest of my life, so if you're reading this, family,  I really hope you like macadamia nuts.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'On Being A Permanent Patient'
+title: "On Being A Permanent Patient"
 date: 20-Nov-2013
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="/images/2013/11/13051149.jpg" />
 
-<p <a href="http://life.time.com/culture/jean-cocteau-by-philippe-halsman-playful-portraits-of-a-surrealist/#1">Jean Cocteau,   1949, by Philippe Halsman. </a></p>
+<a href="http://life.time.com/culture/jean-cocteau-by-philippe-halsman-playful-portraits-of-a-surrealist/#1">Jean Cocteau,   1949, by Philippe Halsman. </a>
 
 I woke up this morning with the full weight of a sturdy toddler on top of me. Beside me, seven year-old Peanut was curled up so close that her hair was in my half-open, sleep-of-the-dead, dribbling mouth. When I unfolded my limbs to get up, there was probably some audible creaking, although my ears are too blocked to hear it
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Whispering Is So Hot Right Now'
+title: "Whispering Is So Hot Right Now"
 date: 18-Jul-2017
 categories: tbd
 ---

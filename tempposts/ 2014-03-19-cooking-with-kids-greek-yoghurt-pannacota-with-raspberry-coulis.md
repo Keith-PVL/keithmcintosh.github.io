@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cooking With Kids: Greek Yoghurt Pannacota with Raspberry Coulis'
+title: "Cooking With Kids: Greek Yoghurt Pannacota with Raspberry Coulis"
 date: 19-Mar-2014
 categories: tbd
 ---

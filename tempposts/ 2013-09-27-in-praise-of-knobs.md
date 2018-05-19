@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'In Praise Of Knobs'
+title: "In Praise Of Knobs"
 date: 27-Sep-2013
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'honest school notes in gifs'
+title: "honest school notes in gifs"
 date: 18-Sep-2014
 categories: tbd
 ---

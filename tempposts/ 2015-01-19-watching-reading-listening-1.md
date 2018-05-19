@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Watching, Reading, Listening #1'
+title: "Watching, Reading, Listening #1"
 date: 19-Jan-2015
 categories: tbd
 ---
@@ -19,7 +19,7 @@ I also really loved Alan Hollinghursts The Line Of Beauty recently, and a wonder
 
 Lastly, I re-devoured Fun Home, an astonishingly moving and beautiful graphic novel about family life by comic artist Alison Bechdel (fun fact - she's the creator of the once-learned-never-forgotten <a href="http://en.wikipedia.org/wiki/Bechdel_test">Bechdel Test</a>).
 
-<p <img class="photo-horiz" src="http://i48.tinypic.com/116p9ja.jpg" /></p>
+<img class="photo-horiz" src="http://i48.tinypic.com/116p9ja.jpg" />
 
 **Listening:** The excellent Guardian podcast <a href="http://www.theguardian.com/books/series/digestedreadpodcast">The Digested Read</a>. I'm working my way back through the archives. Satirist John Grace distils the essence of a book into 600 words, and then joins a panel to review it. Grace's take-offs are painfully, wickedly funny. The Stephen Fry episode - although desperately harsh to Fry, whom I adore - is a highlight.
 

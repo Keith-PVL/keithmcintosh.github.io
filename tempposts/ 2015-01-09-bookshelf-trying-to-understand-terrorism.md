@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bookshelf: Trying To Understand Terrorism'
+title: "Bookshelf: Trying To Understand Terrorism"
 date: 09-Jan-2015
 categories: tbd
 ---

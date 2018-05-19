@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'cobalt-and-kin-ad'
+title: "cobalt-and-kin-ad"
 date: 16-Jan-2014
 categories: tbd
 ---

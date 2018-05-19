@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Big Babies'
+title: "Big Babies"
 date: 10-Oct-2013
 categories: tbd
 ---
@@ -17,7 +17,7 @@ Earlier,   I thought a little about how I needed to stop being a  drama queen. 
 
 Yes. Yes there were some stressful times. This night,   for example:
 
-<p 7.30 pm</p>
+7.30 pm
 
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asking The Right Questions'
+title: "Asking The Right Questions"
 date: 31-Jan-2014
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Friendship Is Beautiful'
+title: "Friendship Is Beautiful"
 date: 10-Jun-2014
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Feminism and The Fur Burger'
+title: "Feminism and The Fur Burger"
 date: 31-Jan-2014
 categories: tbd
 ---

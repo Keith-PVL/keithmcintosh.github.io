@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Drunk Histories, Homophobic Lesbians, and Other Distractions'
+title: "Drunk Histories, Homophobic Lesbians, and Other Distractions"
 date: 12-Oct-2013
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="/images/2013/10/tumblr_m3c78njQc71qchk7to1_500.jpg" />
 
-<p (<a href="http://windypoplarsroom.tumblr.com/post/22184719341/vintage-french-postcard">image source</a>)</p>
+(<a href="http://windypoplarsroom.tumblr.com/post/22184719341/vintage-french-postcard">image source</a>)
 
 Quick - what's more pathetic that a mother who has lost her voice hopelessly croak-shouting at a naughty five-year-old?
 

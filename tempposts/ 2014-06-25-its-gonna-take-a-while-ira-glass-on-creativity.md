@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'It's Gonna Take A While: Ira Glass On Creativity'
+title: "It's Gonna Take A While: Ira Glass On Creativity"
 date: 25-Jun-2014
 categories: tbd
 ---
@@ -13,7 +13,7 @@ categories: tbd
 
 <img class="photo-horiz" src="/images/2014/06/george-plimpton-by-jill-krementz.jpg" />
 
-<p George Plimpton by Jill Krementz</p>
+George Plimpton by Jill Krementz
 
 <blockquote>"Nobody tells this to people who are beginners,   I wish someone told me. All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you.
 

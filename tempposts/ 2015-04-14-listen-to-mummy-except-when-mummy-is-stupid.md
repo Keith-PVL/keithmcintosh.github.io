@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Listen To Mummy! Except When Mummy Is Stupid'
+title: "Listen To Mummy! Except When Mummy Is Stupid"
 date: 14-Apr-2015
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="http://1.mshcdn.com/wp-content/uploads/2015/02/Pop-parents-5.jpg" />
 
-<h6 American avant garde and rock musician Frank Zappa (1940-1993) poses with his parents Francis Zappa (1905-1973) and Rose Marie Zappa (nee Colimore,   1912-2004) in his home in Los Angeles,   California. <a href="http://mashable.com/2015/02/26/rock-stars-with-their-parents/">IMAGE: JOHN OLSON/THE LIFE PICTURE COLLECTION/GETTY IMAGES</a></h6>
+American avant garde and rock musician Frank Zappa (1940-1993) poses with his parents Francis Zappa (1905-1973) and Rose Marie Zappa (nee Colimore,   1912-2004) in his home in Los Angeles,   California. <a href="http://mashable.com/2015/02/26/rock-stars-with-their-parents/">IMAGE: JOHN OLSON/THE LIFE PICTURE COLLECTION/GETTY IMAGES</a>
 
  
 

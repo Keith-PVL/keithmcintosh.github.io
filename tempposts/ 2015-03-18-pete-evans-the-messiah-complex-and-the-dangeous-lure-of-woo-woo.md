@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pete Evans, The Messiah Complex and The Dangeous Lure of Woo Woo'
+title: "Pete Evans, The Messiah Complex and The Dangeous Lure of Woo Woo"
 date: 18-Mar-2015
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="http://24.media.tumblr.com/tumblr_m6yirdMxub1rakoe5o1_500.jpg" />
 
-<p Jayne Mansfield,   non-Paleo,   1947</p>
+Jayne Mansfield,   non-Paleo,   1947
 
 Celebrity chef  turned nutrition guru Pete Evans has been under the spotlight again this week. The last time he got this much attention was when he outlined his complex Paleo daily diet in Daily Life Magazines 'My Day On A Plate' feature. I was on Evans' side that day. Who gives a crap whether he gets up at 4am to activate his almonds? He's a big boy. He's allowed to have a hobby.
 

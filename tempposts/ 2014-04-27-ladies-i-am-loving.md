@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ladies I Am Loving'
+title: "Ladies I Am Loving"
 date: 27-Apr-2014
 categories: tbd
 ---

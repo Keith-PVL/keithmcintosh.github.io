@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Art Of Conversation'
+title: "The Art Of Conversation"
 date: 31-Aug-2014
 categories: tbd
 ---
@@ -9,9 +9,9 @@ categories: tbd
 
 ## 31st August 2014
 
-<p <img class="photo-horiz" src="http://i1.wp.com/www.retronaut.com/wp-content/uploads/2014/07/The-Photographed-Woman-Rare-portraits-from-Rural-America-in-1909-Hugh-Mangum13.jpg?resize=750%2C836" /></p>
+<img class="photo-horiz" src="http://i1.wp.com/www.retronaut.com/wp-content/uploads/2014/07/The-Photographed-Woman-Rare-portraits-from-Rural-America-in-1909-Hugh-Mangum13.jpg?resize=750%2C836" />
 
-<h6 <a href="http://www.retronaut.com/2014/08/the-casual-woman-virginia-usa/">Photos by Hugh Mangum from the Duke University Archiv</a>e</h6>
+<a href="http://www.retronaut.com/2014/08/the-casual-woman-virginia-usa/">Photos by Hugh Mangum from the Duke University Archiv</a>e
 
  
 

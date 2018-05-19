@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adding A Little Grit To My Kids'
+title: "Adding A Little Grit To My Kids"
 date: 06-Feb-2017
 categories: tbd
 ---

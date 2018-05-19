@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Scrubbing The Spew Bowl, Dreaming Of Life As An Old-School Beach Bum'
+title: "Scrubbing The Spew Bowl, Dreaming Of Life As An Old-School Beach Bum"
 date: 03-Sep-2013
 categories: tbd
 ---
@@ -25,4 +25,4 @@ Here's to sunshine ahead.
 
 <img class="photo-horiz" src="/images/2013/09/06_111572469.jpg" /> <img class="photo-horiz" src="/images/2013/09/14_1201974.jpg" /><img class="photo-horiz" src="/images/2013/09/06_111572469.jpg" />
 
-<p  (<a href="http://life.time.com/culture/the-few-the-proud-the-totally-chill-life-with-old-school-beach-bums/#5">source</a>)</p>
+ (<a href="http://life.time.com/culture/the-few-the-proud-the-totally-chill-life-with-old-school-beach-bums/#5">source</a>)

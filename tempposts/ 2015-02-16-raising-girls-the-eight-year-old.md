@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Raising Girls: The Eight Year Old'
+title: "Raising Girls: The Eight Year Old"
 date: 16-Feb-2015
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="http://th07.deviantart.net/fs39/PRE/f/2008/349/1/9/Vintage_cute_little_girl_by_MementoMori_stock.jpg" />
 
-<h6 <a href="http://mementomori-stock.deviantart.com/art/Vintage-cute-little-girl-106301503">(photo source)</a></h6>
+<a href="http://mementomori-stock.deviantart.com/art/Vintage-cute-little-girl-106301503">(photo source)</a>
 
 I have an eight-year old daughter,   and I am,   at times, finding parenting a rocky path lately. My eight-year old Peanut is brilliant, funny, theatrical and I love her with the burning heat of a thousand suns. But lately, I have found myself in a battle of the  'Come back here! Do not make that face at me! **What** did you just say?' kind. I know it's a two-step that mothers and daughters always engage in, but it's really exhausting, and it's upsetting to me that it feels like our relationship has become filled with a lot of drama. I just want a quiet life, as Humphrey B. Bear said. And yet, it's a tough one. I am determined to stand my ground on the certain level of respect and positivity I want the kids to bring to their home. There are five of us living here, and any one of us can raise or sink the collective mood of the home with our words and behaviour. The sulkiness and moodiness (S &amp; M) factor has been rising around our place lately, and while I have compassion for it, and I try and bring tenderness to my dealing with it, it's driving me fully crackers. I read about some <a href="http://www.smh.com.au/national/researchers-find-early-signs-of-puberty-common-from-age-seven-20150124-12vxgt.html">new research lately</a> that describes 'adrenal puberty' or the surge of hormones that are the prelude to the physical changes we expect to start at age eleven or so. Adrenal puberty can mark  a new phase of development affecting identity and emotional steadiness for girls.
 

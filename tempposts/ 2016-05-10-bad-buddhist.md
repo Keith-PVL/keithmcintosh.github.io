@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bad Buddhist'
+title: "Bad Buddhist"
 date: 10-May-2016
 categories: tbd
 ---

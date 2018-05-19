@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vive le COC! Up With VAG!'
+title: "Vive le COC! Up With VAG!"
 date: 06-Feb-2016
 categories: tbd
 ---

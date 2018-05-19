@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Good News: Our Kids Give Us A Million Chances To Do Better'
+title: "The Good News: Our Kids Give Us A Million Chances To Do Better"
 date: 11-Sep-2013
 categories: tbd
 ---

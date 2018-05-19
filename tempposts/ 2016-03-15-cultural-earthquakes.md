@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cultural Earthquakes'
+title: "Cultural Earthquakes"
 date: 15-Mar-2016
 categories: tbd
 ---

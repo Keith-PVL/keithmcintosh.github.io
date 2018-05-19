@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Happy Mother's Day!'
+title: "Happy Mother's Day!"
 date: 12-May-2014
 categories: tbd
 ---
@@ -33,19 +33,19 @@ Finally, the kids tell it.  (If your pelvic floor is weak, you might want to cr
 
 To wrap up, some awkward Mum moments that spoke to my soul:
 
-<p I cannot lie. I love this Mommysaurus.</p>
+I cannot lie. I love this Mommysaurus.
 
-<p <img class="photo-horiz" src="/images/2014/05/enhanced-buzz-6334-1399615279-12.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/05/enhanced-buzz-6334-1399615279-12.jpg" />
 
-<p Naw. Such a helpful Mum, this one, getting the angles for Kaylee's Tindr profile just right!</p>
+Naw. Such a helpful Mum, this one, getting the angles for Kaylee's Tindr profile just right!
 
-<p <img class="photo-horiz" src="/images/2014/05/enhanced-buzz-6309-1399619473-4.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/05/enhanced-buzz-6309-1399619473-4.jpg" />
 
-<p Dirty, dirty Granny. I salute you.</p>
+Dirty, dirty Granny. I salute you.
 
  <img class="photo-horiz" src="/images/2014/05/enhanced-buzz-31161-1399618696-13.jpg" />
 
-<p Oh yeah, Mum can photobomb.</p>
+Oh yeah, Mum can photobomb.
 
 <img class="photo-horiz" src="/images/2014/05/enhanced-buzz-21932-1399616870-13.jpg" />
 

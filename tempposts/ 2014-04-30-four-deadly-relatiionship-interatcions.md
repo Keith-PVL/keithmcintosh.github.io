@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'four deadly relatiionship interatcions:'
+title: "four deadly relatiionship interatcions:"
 date: 30-Apr-2014
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Some interesting blogs to check out'
+title: "Some interesting blogs to check out"
 date: 15-Apr-2014
 categories: tbd
 ---

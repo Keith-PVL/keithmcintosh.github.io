@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'funny kids misc'
+title: "funny kids misc"
 date: 05-Nov-2013
 categories: tbd
 ---

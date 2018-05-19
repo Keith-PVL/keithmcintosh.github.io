@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wednesday Night, Folks Put Your Business Socks On It's Business Time!'
+title: "Wednesday Night, Folks Put Your Business Socks On It's Business Time!"
 date: 05-Mar-2014
 categories: tbd
 ---

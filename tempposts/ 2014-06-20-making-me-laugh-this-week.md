@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Making Me Laugh This Week'
+title: "Making Me Laugh This Week"
 date: 20-Jun-2014
 categories: tbd
 ---
@@ -19,7 +19,7 @@ Passionate Italians made me laugh.
 
 <img class="photo-horiz" src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xfp1/t1.0-9/10329073_10152095032676644_5232834235307220962_n.jpg" />
 
-<p And this jumpy horse made me laugh.</p>
+And this jumpy horse made me laugh.
 
 <img class="photo-horiz" src="http://media-cache-ec0.pinimg.com/736x/46/dc/41/46dc411b1c768fdfab3a726c7dfd2330.jpg" />
 

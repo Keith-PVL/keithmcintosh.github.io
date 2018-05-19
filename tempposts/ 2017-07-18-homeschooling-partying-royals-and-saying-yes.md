@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Homeschooling, Partying Royals and Saying Yes'
+title: "Homeschooling, Partying Royals and Saying Yes"
 date: 18-Jul-2017
 categories: tbd
 ---

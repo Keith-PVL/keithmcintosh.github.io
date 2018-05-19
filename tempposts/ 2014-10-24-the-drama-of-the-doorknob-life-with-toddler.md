@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Drama Of The Doorknob: Life With Toddler'
+title: "The Drama Of The Doorknob: Life With Toddler"
 date: 24-Oct-2014
 categories: tbd
 ---
@@ -9,11 +9,11 @@ categories: tbd
 
 ## 24th October 2014
 
-<p This post was originally published in Practical Parenting Magazine,   September 2014</p>
+This post was originally published in Practical Parenting Magazine,   September 2014
 
 <img class="photo-horiz" src="http://timkanebooks.files.wordpress.com/2012/09/historic-wtf-34.jpg" />
 
-<h6 <a href="http://www.retronaut.com/">(image source)</a></h6>
+<a href="http://www.retronaut.com/">(image source)</a>
 
 A friend once described mothering a pre-schooler to me as ‘being with your best friend,   who is drunk all the time’. This is so apt. Two-year olds are up for anything, and they do odd stuff. Pudding, for instance, insists on wearing most outfits back to front. Out and about, she will suddenly shout ‘Backwards walking!’ at which point our movement forwards becomes 50% slower than normal.
 

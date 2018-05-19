@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hive Mind: The Family Dinner Table'
+title: "Hive Mind: The Family Dinner Table"
 date: 07-May-2014
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="/images/2014/05/1a34105u_1_0.preview.jpg" />
 
-<p <a href="http://www.shorpy.com/node/110">Pie-Town sitdown. New Mexico,   1940</a></p>
+<a href="http://www.shorpy.com/node/110">Pie-Town sitdown. New Mexico,   1940</a>
 
 My favourite time of the day is 6 o’clock. That’s when Keith appears from his office down the bottom of the garden,   the kids are summoned from their various hidey-holes with my Von Trapp whistle,   and we all sit down for dinner together.
 

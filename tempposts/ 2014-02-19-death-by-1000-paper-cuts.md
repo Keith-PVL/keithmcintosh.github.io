@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Death By 1000 Paper Cuts'
+title: "Death By 1000 Paper Cuts"
 date: 19-Feb-2014
 categories: tbd
 ---
@@ -9,9 +9,9 @@ categories: tbd
 
 ## 19th February 2014
 
-<p <img class="photo-horiz" src="/images/2014/02/shapes.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/02/shapes.jpg" />
 
-<p Keeping the hoops swinging (just barely.) Paris Vogue,   1971.</p>
+Keeping the hoops swinging (just barely.) Paris Vogue,   1971.
 
 Help! I am drowning in admin. Two kids in school,   the start of term, and it's crazy. The notes are multiplying, and it's times like these that I remember  I am just a fake grown-up.
 

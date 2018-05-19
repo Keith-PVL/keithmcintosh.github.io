@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dobby The House Elf'
+title: "Dobby The House Elf"
 date: 28-Oct-2015
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 ** <img class="photo-horiz" src="http://i.dailymail.co.uk/i/pix/2013/03/29/article-2301242-18FA527B000005DC-123_470x608.jpg" />**
 
-<p **This post was originally published in Practical Parenting Magazine,   September 2015**</p>
+**This post was originally published in Practical Parenting Magazine,   September 2015**
 
 ** **You know what explains housework stress? Science. The second law of thermodynamics says that entropy (or disorder) is always increasing. Therefore, toy-clutter will expand to fill the available space. The washing-up will breed. And Mount Washmore on the lounge will always tower.  It’s actually ridiculous how much messier life gets once you add kids.  One tiny, three-kilo baby can add a shockingly disproportionate amount of chaos to a formerly smooth-running household.
 

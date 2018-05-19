@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Heartbreak Of Being Human'
+title: "The Heartbreak Of Being Human"
 date: 09-Sep-2015
 categories: tbd
 ---
@@ -13,7 +13,7 @@ This week I have been listening to the<a href="http://www.bbc.co.uk/programmes/p
 
 <img class="photo-horiz" src="http://i.telegraph.co.uk/multimedia/archive/03431/refugee_germany02_3431193b.jpg" />
 
-<h6 <a href="http://www.telegraph.co.uk/news/worldnews/europe/germany/11847545/Migrant-crisis-Refugees-welcomed-in-Germany-like-war-heroes-as-Berlin-expects-10000-in-one-day.html">photo source)</a></h6>
+<a href="http://www.telegraph.co.uk/news/worldnews/europe/germany/11847545/Migrant-crisis-Refugees-welcomed-in-Germany-like-war-heroes-as-Berlin-expects-10000-in-one-day.html">photo source)</a>
 
 Hundreds of  Germans waited to greet refugees at the train station,   eager to show them a rousing welcome, and to volunteer to help with the incredible logistical task of managing this great tide of people.  It was so incredible moving to read and hear about.
 

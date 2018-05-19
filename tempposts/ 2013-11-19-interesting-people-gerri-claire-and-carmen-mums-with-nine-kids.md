@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Interesting People: Gerri, Claire and Carmen (Mums with Nine Kids!)'
+title: "Interesting People: Gerri, Claire and Carmen (Mums with Nine Kids!)"
 date: 19-Nov-2013
 categories: tbd
 ---

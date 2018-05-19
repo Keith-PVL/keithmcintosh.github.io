@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '3 Inspirational Articles To Start The Week'
+title: "3 Inspirational Articles To Start The Week"
 date: 01-Mar-2015
 categories: tbd
 ---
@@ -73,7 +73,7 @@ Happy week ahead, my cabbages! May the road rise to meet you, and the wind be at
 
 <img class="photo-horiz" src="https://40.media.tumblr.com/28f3f914ba58fd0c12d003aa9e76e2a0/tumblr_mwj7muFZVp1qbuwpuo1_500.png" />
 
-<h6 Elisabeth Taylor and James Dean on the set of Giant, 1956</h6>
+Elisabeth Taylor and James Dean on the set of Giant, 1956
 
 ps - I'm thinking of starting a series on marriage. Email me if you have, or know, somebody with an interesting one - long, short, unusual or notable in some way. I'd love to hear from you.
 
@@ -105,7 +105,7 @@ Happy week ahead, my cabbages! May the road rise to meet you, and the wind be at
 
 <img class="photo-horiz" src="https://40.media.tumblr.com/28f3f914ba58fd0c12d003aa9e76e2a0/tumblr_mwj7muFZVp1qbuwpuo1_500.png" />
 
-<h6 Elisabeth Taylor and James Dean on the set of Giant, 1956</h6>
+Elisabeth Taylor and James Dean on the set of Giant, 1956
 
 ps - I'm thinking of starting a series on marriage. Email me if you have, or know, somebody with an interesting one - long, short, unusual or notable in some way. I'd love to hear from you.
 
@@ -137,6 +137,6 @@ Happy week ahead, my cabbages! May the road rise to meet you, and the wind be at
 
 <img class="photo-horiz" src="https://40.media.tumblr.com/28f3f914ba58fd0c12d003aa9e76e2a0/tumblr_mwj7muFZVp1qbuwpuo1_500.png" />
 
-<h6 Elisabeth Taylor and James Dean on the set of Giant, 1956</h6>
+Elisabeth Taylor and James Dean on the set of Giant, 1956
 
 ps - I'm thinking of starting a series on marriage. Email me if you have, or know, somebody with an interesting one - long, short, unusual or notable in some way. I'd love to hear from you.

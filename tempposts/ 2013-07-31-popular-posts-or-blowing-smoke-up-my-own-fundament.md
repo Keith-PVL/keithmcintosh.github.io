@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Popular Posts (or Blowing Smoke Up My Own Fundament)'
+title: "Popular Posts (or Blowing Smoke Up My Own Fundament)"
 date: 31-Jul-2013
 categories: tbd
 ---

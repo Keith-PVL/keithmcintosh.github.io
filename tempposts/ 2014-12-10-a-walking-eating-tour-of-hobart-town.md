@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Walking, Eating Tour Of Hobart Town'
+title: "A Walking, Eating Tour Of Hobart Town"
 date: 10-Dec-2014
 categories: tbd
 ---
@@ -9,13 +9,13 @@ categories: tbd
 
 ## 10th December 2014
 
-<p **Disclosure: I attended this walking tour as a guest of Gourmania,   but all opinions are my own. **</p>
+**Disclosure: I attended this walking tour as a guest of Gourmania,   but all opinions are my own. **
 
-<p If you are a foodie, as I am, and a mother, as I am, and currently on an extended stay with the family in Tasmania, as I am, then you understand the joy I felt in my heart when I trotted off last week to join a child-free food safari of downtown Hobart.</p>
+If you are a foodie, as I am, and a mother, as I am, and currently on an extended stay with the family in Tasmania, as I am, then you understand the joy I felt in my heart when I trotted off last week to join a child-free food safari of downtown Hobart.
 
-<p Freeeeeeee!</p>
+Freeeeeeee!
 
-<p This is Mary.</p>
+This is Mary.
 
 <img class="photo-horiz" src="/images/2014/12/DSC_1567-e1418206248289-576x1024.jpg" />
 

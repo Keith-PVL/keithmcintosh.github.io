@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Morning Rituals'
+title: "Morning Rituals"
 date: 10-Aug-2014
 categories: tbd
 ---

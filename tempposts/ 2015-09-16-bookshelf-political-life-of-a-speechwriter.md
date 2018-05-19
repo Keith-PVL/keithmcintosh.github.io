@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bookshelf: Political Life Of A Speechwriter'
+title: "Bookshelf: Political Life Of A Speechwriter"
 date: 16-Sep-2015
 categories: tbd
 ---

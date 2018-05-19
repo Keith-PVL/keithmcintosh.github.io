@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'One Chicken, Two Lovely Dinners: Chicken and Vege Pie'
+title: "One Chicken, Two Lovely Dinners: Chicken and Vege Pie"
 date: 28-Nov-2013
 categories: tbd
 ---

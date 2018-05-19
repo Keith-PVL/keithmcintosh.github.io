@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'I'm Not Up To Dick Today'
+title: "I'm Not Up To Dick Today"
 date: 09-Nov-2013
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="/images/2013/11/tumblr_monor9QgIq1qkgs51o1_1280-1024x780.jpg" />
 
-<p (<a href="http://mydaguerreotypeboyfriend.tumblr.com/page/3">image source</a>)</p>
+(<a href="http://mydaguerreotypeboyfriend.tumblr.com/page/3">image source</a>)
 
 I've got the morbs. My beloved whooperups are off camping. Hope they took their rain-nappers. It's pouring out there!  This <a href="http://mentalfloss.com/article/53529/56-delightful-victorian-slang-terms-you-should-be-using">list of Victorian slang</a> is the best thing I've read in ages.
 

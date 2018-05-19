@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Snippets this week'
+title: "Snippets this week"
 date: 30-Sep-2013
 categories: tbd
 ---

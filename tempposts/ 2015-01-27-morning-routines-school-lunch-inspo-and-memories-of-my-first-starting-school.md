@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Morning Routines, School Lunch Inspo and Memories of My First Starting School'
+title: "Morning Routines, School Lunch Inspo and Memories of My First Starting School"
 date: 27-Jan-2015
 categories: tbd
 ---
@@ -11,11 +11,11 @@ categories: tbd
 
 
 
-<p align="center">It feels like a long time (but only three years)  since I wrote the following about my first little chickadee starting school:</p>
+align="center">It feels like a long time (but only three years)  since I wrote the following about my first little chickadee starting school:
 
 <blockquote>
 
-<p align="center">Peanut has been counting down the sleeps until school starts for the last fortnight. We've been freezing lunches. Constructing charts for morning routines. And I have been trying to not pay too much attention to the little knot of panic that seems to have taken up residence somewhere between my chest and my throat.</p>
+align="center">Peanut has been counting down the sleeps until school starts for the last fortnight. We've been freezing lunches. Constructing charts for morning routines. And I have been trying to not pay too much attention to the little knot of panic that seems to have taken up residence somewhere between my chest and my throat.
 
 </blockquote>
 
@@ -45,18 +45,18 @@ For lunchbox inspo: school lunches from around the world (all images from <a hre
 
 <img class="photo-horiz" src="http://www.tripbase.com/blog/wp-content/uploads/2010/10/Japan-Egg-s.jpg" />
 
-<p Japan.</p>
+Japan.
 
-<p <img class="photo-horiz" src="http://www.tripbase.com/blog/wp-content/uploads/2010/10/US-Burger-s2.jpg" /></p>
+<img class="photo-horiz" src="http://www.tripbase.com/blog/wp-content/uploads/2010/10/US-Burger-s2.jpg" />
 
-<p USA</p>
+USA
 
-<p <img class="photo-horiz" src="http://www.tripbase.com/blog/wp-content/uploads/2010/10/3-SouthKorea1.jpg" /></p>
+<img class="photo-horiz" src="http://www.tripbase.com/blog/wp-content/uploads/2010/10/3-SouthKorea1.jpg" />
 
-<p Korea</p>
+Korea
 
 <img class="photo-horiz" src="http://www.tripbase.com/blog/wp-content/uploads/2010/10/France-School-Menu-2.jpg" />
 
-<p France</p>
+France
 
-<p Good luck, comrades! Deep breaths. May the games begin.</p>
+Good luck, comrades! Deep breaths. May the games begin.

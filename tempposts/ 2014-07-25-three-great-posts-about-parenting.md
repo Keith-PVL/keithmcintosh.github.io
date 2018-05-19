@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Three Great Posts About Parenting'
+title: "Three Great Posts About Parenting"
 date: 25-Jul-2014
 categories: tbd
 ---

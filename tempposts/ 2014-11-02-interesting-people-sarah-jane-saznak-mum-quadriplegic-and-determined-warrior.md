@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Interesting People: Sarah-Jane Saznak (Mum, Quadriplegic and Determined Warrior)'
+title: "Interesting People: Sarah-Jane Saznak (Mum, Quadriplegic and Determined Warrior)"
 date: 02-Nov-2014
 categories: tbd
 ---
@@ -59,7 +59,7 @@ Oh, it's been tough. Me and Hamish's dad separated a week before  the surgery,
 
 But Hamish is the most gorgeous 5 year old. Sometimes I'll melt down in front of him – and I'm  upfront with him about stuff -  and he's so helpful, he'll help with my catheter bag or push my wheelchair. He's becomes a lot more independent. Now, he can sit on my lap in the electric chair and I can take him to school, which I love. That's what I really want to be able to do, stuff like take him to school.
 
-<p <img class="photo-horiz" src="http://i.dailymail.co.uk/i/pix/2014/10/23/1414026104575_wps_12_sj_staszak_sarah_jane_sta.jpg" /></p>
+<img class="photo-horiz" src="http://i.dailymail.co.uk/i/pix/2014/10/23/1414026104575_wps_12_sj_staszak_sarah_jane_sta.jpg" />
 
 **SJ,  you are trying to raise about $300, 000 to go to America for therapy, and to buy equipment that you need.  Can you tell us a little about the therapy, tools and equipment you are hoping to raise funds for? And how can people help you raise those funds? **
 

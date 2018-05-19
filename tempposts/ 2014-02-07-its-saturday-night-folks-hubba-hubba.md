@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'It's Saturday Night, Folks! Hubba Hubba!'
+title: "It's Saturday Night, Folks! Hubba Hubba!"
 date: 07-Feb-2014
 categories: tbd
 ---

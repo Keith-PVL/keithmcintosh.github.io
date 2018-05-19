@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helping Kids Who Struggle At School'
+title: "Helping Kids Who Struggle At School"
 date: 05-May-2014
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="/images/2014/05/article-2131790-12A63D8A000005DC-458_964x1216-811x1024.jpg" />
 
-<p <a href="http://www.dailymail.co.uk/news/article-2131790/When-playtime-wasnt-ruled-elf-safety.html">Children on a Swansea climbing frame,   1939 (Getty images)</a></p>
+<a href="http://www.dailymail.co.uk/news/article-2131790/When-playtime-wasnt-ruled-elf-safety.html">Children on a Swansea climbing frame,   1939 (Getty images)</a>
 
 Australian author and 'resilience specialist' Maggie Dent often has a wonderful take on raising kids. Back at school for the term,   I hope all of your little ones are settling in,   thriving and happy. If you have hit a bump in the road though - school refusal, bullying or other worries, Maggie has some excellent advice on how to proceed.
 

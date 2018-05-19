@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Great Stuff to Watch,  Read and Listen To This Week'
+title: "Great Stuff to Watch,  Read and Listen To This Week"
 date: 13-Oct-2014
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="http://www.shorpy.com/files/images/SHORPY-8d26144a.preview.jpg" />
 
-<p February 1943. "Moreno Valley,   Colfax County,   New Mexico. Dinnertime on George Mutz's ranch." from the <a href="http://www.shorpy.com/node/18068">Shorpy Historical Archive. </a></p>
+February 1943. "Moreno Valley,   Colfax County,   New Mexico. Dinnertime on George Mutz's ranch." from the <a href="http://www.shorpy.com/node/18068">Shorpy Historical Archive. </a>
 
 What's the haps this week, comrades? Full speed term-time around here. One kindy boy who is fully exhausted and ready for his school year to be over, and one seven year old with a birthday in ONLY SIX MORE DAYS, MUM!! Children obsessed with poo and genitals. Keith fighting a cold. I really, really  need to book a leg wax. Banana bread for afternoon tea.
 

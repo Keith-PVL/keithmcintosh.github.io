@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Charming Morning Stories About Head Lice'
+title: "Charming Morning Stories About Head Lice"
 date: 08-Sep-2014
 categories: tbd
 ---
@@ -11,11 +11,11 @@ categories: tbd
 
  
 
-<p <img class="photo-horiz" src="http://www.etonline.com/media/photo/duggar_family_group_beth_hall_tlc_640.jpg" /></p>
+<img class="photo-horiz" src="http://www.etonline.com/media/photo/duggar_family_group_beth_hall_tlc_640.jpg" />
 
-<h6 Jeepers,   Jim Bob,   this head lice outbreak is really making me take a second look at our entire religious philosophy, Sshhhh, Michelle. Shhhh.  It's our path and we embrace it.  Now get back in that bedroom and get ready to bite down on them rosary beads.</h6>
+Jeepers,   Jim Bob,   this head lice outbreak is really making me take a second look at our entire religious philosophy, Sshhhh, Michelle. Shhhh.  It's our path and we embrace it.  Now get back in that bedroom and get ready to bite down on them rosary beads.
 
-<h6 </h6>
+
 
 Shocking confession.
 

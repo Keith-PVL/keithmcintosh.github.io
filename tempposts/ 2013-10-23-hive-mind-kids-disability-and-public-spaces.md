@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hive Mind: Kids, Disability and Public Spaces'
+title: "Hive Mind: Kids, Disability and Public Spaces"
 date: 23-Oct-2013
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'hepster dictionary'
+title: "hepster dictionary"
 date: 01-Jan-2014
 categories: tbd
 ---

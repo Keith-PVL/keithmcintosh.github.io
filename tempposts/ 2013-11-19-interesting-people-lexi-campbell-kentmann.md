@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Interesting People: Lexi Campbell-Kentmann'
+title: "Interesting People: Lexi Campbell-Kentmann"
 date: 19-Nov-2013
 categories: tbd
 ---

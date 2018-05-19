@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Couch At The Centre Of The Universe'
+title: "The Couch At The Centre Of The Universe"
 date: 07-Nov-2013
 categories: tbd
 ---
@@ -11,9 +11,9 @@ categories: tbd
 
  
 
-<p <img class="photo-horiz" src="/images/2013/11/pgalleryelephant-family-in-africa-1024x615.jpg" /></p>
+<img class="photo-horiz" src="/images/2013/11/pgalleryelephant-family-in-africa-1024x615.jpg" />
 
-<p <a href="http://www.blackandwhitearethecolors.com/2012/08/africa-in-black-and-white/">(image source)</a></p>
+<a href="http://www.blackandwhitearethecolors.com/2012/08/africa-in-black-and-white/">(image source)</a>
 
 In the Big Room of our little house,   we have a oversized squashy couch that was bought as a wedding present,   bought with the dream of holding lots of kids,   before they had all finished arriving. Don't hold me to this, but I think they have all finished arriving.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'On Being a Silver Fox'
+title: "On Being a Silver Fox"
 date: 02-Mar-2014
 categories: tbd
 ---

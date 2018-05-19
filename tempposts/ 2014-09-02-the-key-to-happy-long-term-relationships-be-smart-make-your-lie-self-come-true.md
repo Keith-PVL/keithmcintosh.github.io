@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Key To Happy Long-Term Relationships: Be Smart, Make Your 'Lie Self' Come True'
+title: "The Key To Happy Long-Term Relationships: Be Smart, Make Your 'Lie Self' Come True"
 date: 02-Sep-2014
 categories: tbd
 ---

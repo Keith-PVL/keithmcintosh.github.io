@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Celebrity Memoirs: The Best, And The Best-Worst'
+title: "Celebrity Memoirs: The Best, And The Best-Worst"
 date: 16-Dec-2013
 categories: tbd
 ---

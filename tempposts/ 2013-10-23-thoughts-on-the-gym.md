@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Thoughts On The Gym'
+title: "Thoughts On The Gym"
 date: 23-Oct-2013
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Team Nigella (Also, Young Barack Is Looking Right At Me Into My Soul, I Think)'
+title: "Team Nigella (Also, Young Barack Is Looking Right At Me Into My Soul, I Think)"
 date: 09-Dec-2013
 categories: tbd
 ---

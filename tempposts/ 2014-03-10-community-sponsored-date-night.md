@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Community-Sponsored Date Night'
+title: "Community-Sponsored Date Night"
 date: 10-Mar-2014
 categories: tbd
 ---

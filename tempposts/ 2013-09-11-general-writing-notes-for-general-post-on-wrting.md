@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'General writing notes for general post on wrting'
+title: "General writing notes for general post on wrting"
 date: 11-Sep-2013
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'In Priase of Good-Enough Mothering'
+title: "In Priase of Good-Enough Mothering"
 date: 11-Oct-2014
 categories: tbd
 ---

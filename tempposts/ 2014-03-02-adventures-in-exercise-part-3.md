@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adventures In Exercise (Part 3)'
+title: "Adventures In Exercise (Part 3)"
 date: 02-Mar-2014
 categories: tbd
 ---

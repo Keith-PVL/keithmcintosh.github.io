@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Stuck for Christmas Craft Ideas? What About Some Vaginal Knitting?'
+title: "Stuck for Christmas Craft Ideas? What About Some Vaginal Knitting?"
 date: 05-Dec-2013
 categories: tbd
 ---

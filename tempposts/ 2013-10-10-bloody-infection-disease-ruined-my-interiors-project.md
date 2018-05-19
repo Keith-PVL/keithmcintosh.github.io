@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bloody Infection Disease Ruined My Interiors Project'
+title: "Bloody Infection Disease Ruined My Interiors Project"
 date: 10-Oct-2013
 categories: tbd
 ---
@@ -19,7 +19,7 @@ Yes. Yes there were some stressful times. This night,   for example. Cry with me
 
 <blockquote>
 
-<p 7.30 pm</p>
+7.30 pm
 
 </blockquote>
 

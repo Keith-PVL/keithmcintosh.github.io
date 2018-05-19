@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Great Date Night Movie'
+title: "A Great Date Night Movie"
 date: 16-Aug-2014
 categories: tbd
 ---

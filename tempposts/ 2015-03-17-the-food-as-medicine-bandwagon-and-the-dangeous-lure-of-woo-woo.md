@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Food As Medicine Bandwagon and The Dangeous Lure of Woo Woo'
+title: "The Food As Medicine Bandwagon and The Dangeous Lure of Woo Woo"
 date: 17-Mar-2015
 categories: tbd
 ---

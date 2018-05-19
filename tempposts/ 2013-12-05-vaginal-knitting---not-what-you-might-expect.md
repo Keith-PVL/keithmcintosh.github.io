@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vaginal Knitting - Not What You Might Expect'
+title: "Vaginal Knitting - Not What You Might Expect"
 date: 05-Dec-2013
 categories: tbd
 ---

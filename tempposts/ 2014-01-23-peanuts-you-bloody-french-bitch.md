@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Peanuts, You Bloody French Bitch!'
+title: "Peanuts, You Bloody French Bitch!"
 date: 23-Jan-2014
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Another Chick Flees The Nest'
+title: "Another Chick Flees The Nest"
 date: 03-Feb-2014
 categories: tbd
 ---
@@ -51,7 +51,7 @@ I found this piece I wrote a couple of years ago when Peanut started school.
 
 <blockquote>
 
-<p align="center">Peanut  has been counting down the sleeps until school starts for the last fortnight. We've been freezing lunches. Constructing charts for morning routines.  And I have been trying to not pay too much attention to the little knot of panic that seems to have taken up residence somewhere between my chest and my throat.</p>
+align="center">Peanut  has been counting down the sleeps until school starts for the last fortnight. We've been freezing lunches. Constructing charts for morning routines.  And I have been trying to not pay too much attention to the little knot of panic that seems to have taken up residence somewhere between my chest and my throat.
 
 </blockquote>
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Butt Out, Mum: How Free Play Stops Children From Becoming Narcissists'
+title: "Butt Out, Mum: How Free Play Stops Children From Becoming Narcissists"
 date: 18-Mar-2014
 categories: tbd
 ---
@@ -9,19 +9,19 @@ categories: tbd
 
 ## 18th March 2014
 
-<p <img class="photo-horiz" src="/images/2014/03/color012.sJPG_950_2000_0_75_0_50_50.jpg" />
+<img class="photo-horiz" src="/images/2014/03/color012.sJPG_950_2000_0_75_0_50_50.jpg" />
 
-<a href="http://extras.denverpost.com/archive/captured.html">Photographs At the Vermont state fair. Rutland,   Vermont, September 1941. Reproduction from color slide. Photo by Jack Delano. Prints and Division, Library of Congr</a>ess</p>
+<a href="http://extras.denverpost.com/archive/captured.html">Photographs At the Vermont state fair. Rutland,   Vermont, September 1941. Reproduction from color slide. Photo by Jack Delano. Prints and Division, Library of Congr</a>ess
 
-<p </p>
 
-<p Here's tyhe newspaper article: http://www.dailymail.co.uk/sciencetech/article-2582334/Mollycoddled-kids-grow-narcissists-Psychologist-warns-growth-play-dates-supervised-adults-creating-generation-children-empathise.html</p>
 
-<p So as is the way with little girls, there were a few rumblings in the Year 2 friendship circle recently.  I feel a little hot and fluffy at just the thought of a kid feeling left out or  feeling excluded from a gang. So I had this brilliant idea that since one of our circle of mums is a child psychologist, it would be a really great and lovely idea to have a little session with the girls; gently chaired by this kindly mum, where they played a few conflict-resolution' or 'trust' games...workshopped some strategies on dealing with freindship.</p>
+Here's tyhe newspaper article: http://www.dailymail.co.uk/sciencetech/article-2582334/Mollycoddled-kids-grow-narcissists-Psychologist-warns-growth-play-dates-supervised-adults-creating-generation-children-empathise.html
 
-<p I am hesitant to say that i may even have used the phrase 'so that we are all on the same page'.</p>
+So as is the way with little girls, there were a few rumblings in the Year 2 friendship circle recently.  I feel a little hot and fluffy at just the thought of a kid feeling left out or  feeling excluded from a gang. So I had this brilliant idea that since one of our circle of mums is a child psychologist, it would be a really great and lovely idea to have a little session with the girls; gently chaired by this kindly mum, where they played a few conflict-resolution' or 'trust' games...workshopped some strategies on dealing with freindship.
 
-<p I set off the group email, and then Keith happened to walk in. Oh, listen to this wonderful idea I just had! I said to him, and then I watched his face assume the (sadly, familiar) look of bemused confusion. Gently, he pointed out that it was perhaps important for children to figure these things out in the rough-and-tumble of the playground, and that even if that process might not be a structured and pain-free as my proposed educational  workshop I had proposed;</p>
+I am hesitant to say that i may even have used the phrase 'so that we are all on the same page'.
+
+I set off the group email, and then Keith happened to walk in. Oh, listen to this wonderful idea I just had! I said to him, and then I watched his face assume the (sadly, familiar) look of bemused confusion. Gently, he pointed out that it was perhaps important for children to figure these things out in the rough-and-tumble of the playground, and that even if that process might not be a structured and pain-free as my proposed educational  workshop I had proposed;
 
 ‘By definition, free play is an activity that any player is free to quit at any time. Children know that. Their very strong drive to play leads them to behave in ways that reduces the chance that the others will quit, and that means paying attention to the others’ needs and wishes,’ he said.
 
@@ -73,8 +73,8 @@ Follow us: <a href="http://ec.tynt.com/b/rw?id=bBOTTqvd0r3Pooab7jrHcU&amp;u=Mai
 
 ‘That means overcoming your narcissistic tendencies – tendencies we all have to some degree.’
 
-<p 
+
 
 Read more: <a href="http://www.dailymail.co.uk/sciencetech/article-2582334/Mollycoddled-kids-grow-narcissists-Psychologist-warns-growth-play-dates-supervised-adults-creating-generation-children-empathise.html#ixzz2wJ7cwe1e">http://www.dailymail.co.uk/sciencetech/article-2582334/Mollycoddled-kids-grow-narcissists-Psychologist-warns-growth-play-dates-supervised-adults-creating-generation-children-empathise.html#ixzz2wJ7cwe1e</a>
 
-Follow us: <a href="http://ec.tynt.com/b/rw?id=bBOTTqvd0r3Pooab7jrHcU&amp;u=MailOnline" target="_blank">@MailOnline on Twitter</a> | <a href="http://ec.tynt.com/b/rf?id=bBOTTqvd0r3Pooab7jrHcU&amp;u=DailyMail" target="_blank">DailyMail on Facebook</a></p>
+Follow us: <a href="http://ec.tynt.com/b/rw?id=bBOTTqvd0r3Pooab7jrHcU&amp;u=MailOnline" target="_blank">@MailOnline on Twitter</a> | <a href="http://ec.tynt.com/b/rf?id=bBOTTqvd0r3Pooab7jrHcU&amp;u=DailyMail" target="_blank">DailyMail on Facebook</a>

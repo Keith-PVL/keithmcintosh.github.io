@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Interesting People: Sarah-Jane Saznak, Quadriplegic and Optimist'
+title: "Interesting People: Sarah-Jane Saznak, Quadriplegic and Optimist"
 date: 31-Oct-2014
 categories: tbd
 ---

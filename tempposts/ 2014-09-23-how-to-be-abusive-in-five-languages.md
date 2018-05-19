@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'How To Be Abusive In Five Languages!'
+title: "How To Be Abusive In Five Languages!"
 date: 23-Sep-2014
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="http://i1.wp.com/www.retronaut.com/wp-content/uploads/2013/02/Party.jpg?resize=750%2C533" />
 
-<h6 <a href="http://www.retronaut.com/2014/06/party-hats/">Men in party hats,   c.1930's,   private collection (Retronaut). </a></h6>
+<a href="http://www.retronaut.com/2014/06/party-hats/">Men in party hats,   c.1930's,   private collection (Retronaut). </a>
 
 My seven year old Peanut really likes Girl Guides. In fact she told me yesterday that she plans to do Junior Guides, then Guides, then Senior Guides, then Dead Guides, then Zombie Guides. So, right the way through, which is nice.
 

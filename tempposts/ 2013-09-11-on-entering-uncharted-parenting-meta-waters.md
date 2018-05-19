@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'On Entering Uncharted Parenting Meta-Waters'
+title: "On Entering Uncharted Parenting Meta-Waters"
 date: 11-Sep-2013
 categories: tbd
 ---
@@ -13,7 +13,7 @@ categories: tbd
 
 <img class="photo-horiz" src="/images/2013/09/VeryInappropriateWord-high-res-cvr-245x300.jpg" />
 
-<p <a href="http://mackidsbooks.com/">(image source)</a></p>
+<a href="http://mackidsbooks.com/">(image source)</a>
 
 Last night at the dinner table,    six year old Peanut said to me  'Mum,   if a kid is yelling a lot and doing  a big drama out of a little scratch, just don't go all worried about  it. '
 

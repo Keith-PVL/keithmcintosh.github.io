@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adventures In Exercise, Part 3: Testing Times For Safety Underpants'
+title: "Adventures In Exercise, Part 3: Testing Times For Safety Underpants"
 date: 24-Mar-2014
 categories: tbd
 ---
@@ -13,7 +13,7 @@ From me to you,   with love: the Victorian Police Cadet skipping team.
 
 https://www.youtube.com/watch?v=r5-sRm5ztn4
 
-<p This post was originally published in Practical Parenting Magazine,   March 2014</p>
+This post was originally published in Practical Parenting Magazine,   March 2014
 
 Here we are,   at the final episode of my Exercise series, where I’ve been recounting my attempts to keep fit and strong after having three babies. Looking back, I seem to have mostly written about accidental farting.  Sadly, I think that might be a little bit reflective of my life. Just be glad you’re not me, readers. Or, perhaps, married to me. Or, perhaps, sitting next to me in yoga class.
 

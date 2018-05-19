@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Freelee The Banana Girl and Other Modern Freaks'
+title: "Freelee The Banana Girl and Other Modern Freaks"
 date: 08-Apr-2015
 categories: tbd
 ---

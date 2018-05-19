@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'paretning in other coutries:interviews'
+title: "paretning in other coutries:interviews"
 date: 11-Oct-2014
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Children's Comedy Club'
+title: "The Children's Comedy Club"
 date: 29-Sep-2014
 categories: tbd
 ---
@@ -15,11 +15,11 @@ We're trucking along. A tiny invisible horse has it's bony foot in my back on a 
 
 Mushroom pie for dinner tonight, flowers in jars everywhere (spring!) and some time spent with my sister visiting from the country  always makes me happy.  As  always, my back might make me frown, but the kids make me laugh. And now, a pile of unfolded washing, a cup of tea and a little iView awaits.
 
-<p <img class="photo-horiz" src="http://31.media.tumblr.com/dff8578373ad8efdb5b336ceed731b2e/tumblr_ncdp0wVePr1sfie3io1_1280.jpg" /></p>
+<img class="photo-horiz" src="http://31.media.tumblr.com/dff8578373ad8efdb5b336ceed731b2e/tumblr_ncdp0wVePr1sfie3io1_1280.jpg" />
 
-<h6 <a href="http://nos.twnsnd.co/image/98394371119">Hospital sisters picnic in the Northern Territory, from New Old Stock, vintage photos in the public archives. </a></h6>
+<a href="http://nos.twnsnd.co/image/98394371119">Hospital sisters picnic in the Northern Territory, from New Old Stock, vintage photos in the public archives. </a>
 
-<p <a href="http://nos.twnsnd.co/image/98394371119">**This post originally appeared in Practical Parenting Magazine, August 2014. **</a></p>
+<a href="http://nos.twnsnd.co/image/98394371119">**This post originally appeared in Practical Parenting Magazine, August 2014. **</a>
 
 Spending time with small children is a little like getting a front-row seat at a sort of open mic improvisational comedy club. Kids are big on observational humour – all day long, they share thoughts about life, comments on people around them and questions about the natural order of things. Often, they don’t know how funny they are being.
 

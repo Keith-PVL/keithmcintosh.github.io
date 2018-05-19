@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'On Following A Child's Spark'
+title: "On Following A Child's Spark"
 date: 01-May-2014
 categories: tbd
 ---
@@ -9,9 +9,9 @@ categories: tbd
 
 ## 1st May 2014
 
-<p <img class="photo-horiz" src="/images/2014/05/II3.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/05/II3.jpg" />
 
-<p <a href="http://www.retronaut.com/2013/11/girls-playing-on-empire-day/">Girls playing in a stream on Empire Day,   1923</a></p>
+<a href="http://www.retronaut.com/2013/11/girls-playing-on-empire-day/">Girls playing in a stream on Empire Day,   1923</a>
 
 I loved <a href="http://www.parentfurther.com/your-childs-spark">this article</a> on following a child's 'spark' . It asked questions like these:
 

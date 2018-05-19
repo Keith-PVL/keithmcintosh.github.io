@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Watching, Listening, Reading'
+title: "Watching, Listening, Reading"
 date: 29-Apr-2016
 categories: tbd
 ---

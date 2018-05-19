@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bring Back Our Girls: How To Help'
+title: "Bring Back Our Girls: How To Help"
 date: 21-May-2014
 categories: tbd
 ---
@@ -19,11 +19,11 @@ What to do with this useless rage?
 
 <img class="photo-horiz" src="/images/2014/05/FIRSTDOGNIGERIA-586x1024.jpg" />
 
-<p  (cartoon from The Guardian.)</p>
+ (cartoon from The Guardian.)
 
-<p Boko Haram strikes at education for girls because it is an established factor in raising living standards for women.  Girls who finish high school  have smaller, healthier families, lower HIV infection rates, and higher wages. Critically, educated women are more likely to educate their own children – ending the cycle of illiteracy in one generation.</p>
+Boko Haram strikes at education for girls because it is an established factor in raising living standards for women.  Girls who finish high school  have smaller, healthier families, lower HIV infection rates, and higher wages. Critically, educated women are more likely to educate their own children – ending the cycle of illiteracy in one generation.
 
-<p A few key facts (All stats found <a href="http://www.roomtoread.org/page.aspx?pid=284">here</a>):</p>
+A few key facts (All stats found <a href="http://www.roomtoread.org/page.aspx?pid=284">here</a>):
 
 <div id="twoOne">
 

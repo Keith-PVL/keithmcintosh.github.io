@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shouting 'Penis!' And Other Examples Of Comedy By Children'
+title: "Shouting 'Penis!' And Other Examples Of Comedy By Children"
 date: 13-Aug-2014
 categories: tbd
 ---
@@ -13,7 +13,7 @@ categories: tbd
 
 <img class="photo-horiz" src="http://www.shorpy.com/files/images/vacation_1960s_00.jpg" />
 
-<h6 <a href="http://www.shorpy.com/1960-chevrolet-parkwood?size=_original#caption">Great Falls,   Montana. Return after 3 wks Vacation. June 27, 1964</a></h6>
+<a href="http://www.shorpy.com/1960-chevrolet-parkwood?size=_original#caption">Great Falls,   Montana. Return after 3 wks Vacation. June 27, 1964</a>
 
 **Life with two (now three!) year old**
 

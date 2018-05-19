@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sex Tips From History: 1962'
+title: "Sex Tips From History: 1962"
 date: 30-Jul-2014
 categories: tbd
 ---
@@ -21,12 +21,12 @@ To that end I have decided to bring you a selection of old-timey sex advice here
 
 Today, via my friends and yours at <a href="http://mamabake.com/">Mamabake</a>, some hints from 1962. In particular,I draw your attention to this: 'Should your husband suggest any of the more unusual practices be obedient and uncomplaining but register any reluctance by remaining silent.' It's hot stuff.
 
-<p <img class="photo-horiz" src="/images/2014/07/1962.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/07/1962.jpg" />
 
 All the best with your climax,
 
 x Rach
 
-<p Also, FYI: <a href="http://mogantosh.com/its-saturday-night-folks-sex-tips-to-avoid/">Sex tips to avoids (doughnuts, forks)</a>, or Ben Pobjie <a href="http://benpobjie.blogspot.com.au/2014/07/bernards-long-night-of-soul.html">goes back to the basics</a> of doing Sex with Ladies.</p>
+Also, FYI: <a href="http://mogantosh.com/its-saturday-night-folks-sex-tips-to-avoid/">Sex tips to avoids (doughnuts, forks)</a>, or Ben Pobjie <a href="http://benpobjie.blogspot.com.au/2014/07/bernards-long-night-of-soul.html">goes back to the basics</a> of doing Sex with Ladies.
 
-<p </p>
+

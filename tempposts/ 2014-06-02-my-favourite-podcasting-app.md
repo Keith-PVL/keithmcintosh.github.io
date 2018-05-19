@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'My Favourite Podcasting App'
+title: "My Favourite Podcasting App"
 date: 02-Jun-2014
 categories: tbd
 ---
@@ -11,9 +11,9 @@ categories: tbd
 
 <img class="photo-horiz" src="/images/2014/06/8a30955u.preview.jpg" />
 
-<p March 1942. Phoenix,   Arizona. "Washday at the FSA Camelback Farms."</p>
+March 1942. Phoenix,   Arizona. "Washday at the FSA Camelback Farms."
 
-<p <a href="http://www.shorpy.com/node/6457">35mm negative by Russell Lee for the Farm Security Administration.</a></p>
+<a href="http://www.shorpy.com/node/6457">35mm negative by Russell Lee for the Farm Security Administration.</a>
 
 I like to listen to podcasts while I do all the mundane jobs around my beloved homestead. There are many, many chores to to be done when you live with small children that only know how to destroy the joint, and not yet how to rebuild it. Good radio is like having interesting company, and there really are some great broadcasters out there. In fact,  it's a bit of a Golden Age for Radio, some say (please imagine my John Laws voice here.)
 

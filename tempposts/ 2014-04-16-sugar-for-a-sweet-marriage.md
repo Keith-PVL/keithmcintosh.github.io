@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sugar for a sweet marriage'
+title: "sugar for a sweet marriage"
 date: 16-Apr-2014
 categories: tbd
 ---
@@ -9,7 +9,7 @@ categories: tbd
 
 ## 16th April 2014
 
-<p <img class="photo-horiz" src="/images/2014/04/VINTAGE_Couple_19_quaddles_by_quaddles-1024x669.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/04/VINTAGE_Couple_19_quaddles_by_quaddles-1024x669.jpg" />
 
 Stop!
 

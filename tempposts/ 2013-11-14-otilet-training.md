@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'otilet training'
+title: "otilet training"
 date: 14-Nov-2013
 categories: tbd
 ---

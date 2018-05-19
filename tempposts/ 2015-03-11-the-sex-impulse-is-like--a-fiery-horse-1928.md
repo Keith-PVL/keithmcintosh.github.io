@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Sex Impulse Is Like  A Fiery Horse (1928)'
+title: "The Sex Impulse Is Like  A Fiery Horse (1928)"
 date: 11-Mar-2015
 categories: tbd
 ---

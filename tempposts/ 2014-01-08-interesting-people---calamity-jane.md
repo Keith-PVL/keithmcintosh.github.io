@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Interesting People - Calamity Jane'
+title: "Interesting People - Calamity Jane"
 date: 08-Jan-2014
 categories: tbd
 ---

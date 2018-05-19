@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'From Bed With Squashed Face'
+title: "From Bed With Squashed Face"
 date: 18-Dec-2013
 categories: tbd
 ---
@@ -11,9 +11,9 @@ categories: tbd
 
 <img class="photo-horiz" src="/images/2013/12/Colorized-Historical-Photos-15.jpg" />
 
-<p <a href="http://twistedsifter.com/2013/08/historic-black-white-photos-colorized/">Colourised Elisabeth Taylor from the film Giant,   1956.)Not me. I repeat not me.</a></p>
+<a href="http://twistedsifter.com/2013/08/historic-black-white-photos-colorized/">Colourised Elisabeth Taylor from the film Giant,   1956.)Not me. I repeat not me.</a>
 
-<p Prego.</p>
+Prego.
 
 I'm in bed.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Favourite TV Writers of The Moment (And Jessa from Girls In Real Life: She's Jessa!)'
+title: "Favourite TV Writers of The Moment (And Jessa from Girls In Real Life: She's Jessa!)"
 date: 25-Sep-2014
 categories: tbd
 ---
@@ -31,4 +31,4 @@ If you are, check these pictures out. It's Jemima Kirke, the actress who plays J
 
 <img class="photo-horiz" src="http://pixel.nymag.com/imgs/content/dam/vulture/slideshows/2014/3/life-in-pix-jemima-kirke/17.jpg.r.nocrop.w610.h610.jpg" />
 
-<p (<a href="http://www.vulture.com/2014/03/life-in-pictures-jemima-kirke.html#photo=17x00003">all pics from the Life In Pictures series at Vulture.com</a>.)</p>
+(<a href="http://www.vulture.com/2014/03/life-in-pictures-jemima-kirke.html#photo=17x00003">all pics from the Life In Pictures series at Vulture.com</a>.)

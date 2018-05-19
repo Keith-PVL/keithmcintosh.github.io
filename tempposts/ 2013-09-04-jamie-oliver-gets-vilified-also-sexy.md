@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jamie Oliver Gets Vilified, Also Sexy'
+title: "Jamie Oliver Gets Vilified, Also Sexy"
 date: 04-Sep-2013
 categories: tbd
 ---

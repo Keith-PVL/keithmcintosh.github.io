@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Multiple Personality Mum'
+title: "Multiple Personality Mum"
 date: 11-Sep-2015
 categories: tbd
 ---
@@ -11,9 +11,9 @@ categories: tbd
 
 <img class="photo-horiz" src="http://joancrawfordma.tripod.com/sitebuildercontent/sitebuilderpictures/crawfordshildrenmain.jpg" />
 
-<h6 "I was a strict disciplinarian,   perhaps too strict at times, but my God, without discipline what is life?" - Joan Crawford.  Making normal parents look awesome for the last seventy years.  Cheers Joan!</h6>
+"I was a strict disciplinarian,   perhaps too strict at times, but my God, without discipline what is life?" - Joan Crawford.  Making normal parents look awesome for the last seventy years.  Cheers Joan!
 
-<p ** This post was originally published in Practical Parenting Magazine, August 2015**</p>
+** This post was originally published in Practical Parenting Magazine, August 2015**
 
 Before I had my first child I read a squillion parenting books. They were not that useful for the reason that none of them were teaching me how to parent my specific child. The Book Of Peanut would have covered theatrical, emotional, hilarious daughters. I could really have used that book. But the Book Of Peanut would still not have helped me when number two and number three children came along.
 

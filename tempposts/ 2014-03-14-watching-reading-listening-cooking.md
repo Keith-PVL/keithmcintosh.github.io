@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Watching, Reading, Listening, Cooking'
+title: "Watching, Reading, Listening, Cooking"
 date: 14-Mar-2014
 categories: tbd
 ---
@@ -11,17 +11,17 @@ categories: tbd
 
 <img class="photo-horiz" src="/images/2014/03/tumblr_mv6b978SAI1rffxsno1_1280.jpg" />
 
-<p Deauville,   1937 (Boris Lipnitzki).</p>
+Deauville,   1937 (Boris Lipnitzki).
 
-<p <strong Watching**<span :</span></p>
+<strong Watching**<span :</span>
 
-<p <span  House of Cards, with Keith, when we can co-ordinate schedules. About three times a week at the minute. Couch, snacks, together time. The best.</span></p>
+<span  House of Cards, with Keith, when we can co-ordinate schedules. About three times a week at the minute. Couch, snacks, together time. The best.</span>
 
-<p My Kitchen Rules: with myself or -  on Wednesdays and Sundays - with the two big kids, who I've been training up for years to enjoy my cooking shows. It's paying off. They love it!</p>
+My Kitchen Rules: with myself or -  on Wednesdays and Sundays - with the two big kids, who I've been training up for years to enjoy my cooking shows. It's paying off. They love it!
 
-<p **Reading**:</p>
+**Reading**:
 
-<p The Man Without A Face by Masha Gessen (I'm trying to understand what's going on with Russia) and A Cooks Life by Stephanie Alexander.  Also, the beautiful kids book Wonder by RJ Pellagio. Kids and I can't get enough of Wonder. We're reading it morning, after school, bedtime...best book for kids I have read in a long long time.</p>
+The Man Without A Face by Masha Gessen (I'm trying to understand what's going on with Russia) and A Cooks Life by Stephanie Alexander.  Also, the beautiful kids book Wonder by RJ Pellagio. Kids and I can't get enough of Wonder. We're reading it morning, after school, bedtime...best book for kids I have read in a long long time.
 
 **Listening**:
 

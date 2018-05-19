@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Creative, Inspiring Parents'
+title: "Creative, Inspiring Parents"
 date: 23-Sep-2013
 categories: tbd
 ---
@@ -17,9 +17,9 @@ The results were gorgeous, and the duo have developed a system.
 
 <img class="photo-horiz" src="/images/2013/09/ku-xlarge-1-249x300.jpg" />
 
-<p  Mica begins the drawing and then her daughter takes the image wherever her pre-preschoolers heart desires.</p>
+ Mica begins the drawing and then her daughter takes the image wherever her pre-preschoolers heart desires.
 
-<p <img class="photo-horiz" src="/images/2013/09/ku-xlarge-225x300.jpg" /></p>
+<img class="photo-horiz" src="/images/2013/09/ku-xlarge-225x300.jpg" />
 
 I'm inspired.
 

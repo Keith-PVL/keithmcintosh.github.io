@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Some Stern Bedtime Parenting and An Unfortunate Decomposing Lizard'
+title: "Some Stern Bedtime Parenting and An Unfortunate Decomposing Lizard"
 date: 09-Jun-2014
 categories: tbd
 ---

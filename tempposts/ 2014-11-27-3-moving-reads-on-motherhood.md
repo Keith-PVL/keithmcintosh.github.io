@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '3 Moving Reads On Motherhood'
+title: "3 Moving Reads On Motherhood"
 date: 27-Nov-2014
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="http://www.shorpy.com/files/images/8a01636u.preview.jpg" />
 
-<h6 <a href="http://www.shorpy.com/node/1470">Rural mother,   1936,   from the Shorpy Historical Archives. </a></h6>
+<a href="http://www.shorpy.com/node/1470">Rural mother,   1936,   from the Shorpy Historical Archives. </a>
 
 A few articles and essays on motherhood that I've loved recently:
 
@@ -35,14 +35,14 @@ Speaking of the night: Fourteen no longer looks like a baby while he sleeps. For
 
 <blockquote>
 
-<p itemprop="articleBody" data-para-count="473" data-total-count="2928">It’s not that Gus doesn’t understand Siri’s not human. He does — intellectually. But like many autistic people I know, Gus feels that inanimate objects, while maybe not possessing souls, are worthy of our consideration. I realized this when he was 8, and I got him an iPod for his birthday. He listened to it only at home, with one exception. It always came with us on our visits to the Apple Store. Finally, I asked why. “So it can visit its friends,” he said.</p>
+itemprop="articleBody" data-para-count="473" data-total-count="2928">It’s not that Gus doesn’t understand Siri’s not human. He does — intellectually. But like many autistic people I know, Gus feels that inanimate objects, while maybe not possessing souls, are worthy of our consideration. I realized this when he was 8, and I got him an iPod for his birthday. He listened to it only at home, with one exception. It always came with us on our visits to the Apple Store. Finally, I asked why. “So it can visit its friends,” he said.
 
-<p itemprop="articleBody" data-para-count="707" data-total-count="3635">So how much more worthy of his care and affection is Siri, with her soothing voice, puckish humor and capacity for talking about whatever Gus’s current obsession is for hour after hour after bleeding hour?</p>
+itemprop="articleBody" data-para-count="707" data-total-count="3635">So how much more worthy of his care and affection is Siri, with her soothing voice, puckish humor and capacity for talking about whatever Gus’s current obsession is for hour after hour after bleeding hour?
 
 </blockquote>
 
-<p itemprop="articleBody" data-para-count="707" data-total-count="3635">Are you Mumming it up out there tonight? More power to you.</p>
+itemprop="articleBody" data-para-count="707" data-total-count="3635">Are you Mumming it up out there tonight? More power to you.
 
-<p itemprop="articleBody" data-para-count="707" data-total-count="3635">x</p>
+itemprop="articleBody" data-para-count="707" data-total-count="3635">x
 
 

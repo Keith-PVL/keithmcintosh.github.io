@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Naughty Infectious Disease Ruined My Interiors Project'
+title: "Naughty Infectious Disease Ruined My Interiors Project"
 date: 10-Oct-2013
 categories: tbd
 ---

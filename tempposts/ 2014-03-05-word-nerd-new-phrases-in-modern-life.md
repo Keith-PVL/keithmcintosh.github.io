@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Word Nerd: New Phrases in Modern Life'
+title: "Word Nerd: New Phrases in Modern Life"
 date: 05-Mar-2014
 categories: tbd
 ---

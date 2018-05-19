@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Great Stuff to Watch Read and Listen To This Weekend'
+title: "Great Stuff to Watch Read and Listen To This Weekend"
 date: 07-Oct-2014
 categories: tbd
 ---

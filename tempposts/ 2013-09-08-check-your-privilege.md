@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Check Your Privilege'
+title: "Check Your Privilege"
 date: 08-Sep-2013
 categories: tbd
 ---

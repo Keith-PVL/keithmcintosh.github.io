@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Far From The Madding Crowd'
+title: "Far From The Madding Crowd"
 date: 21-Mar-2015
 categories: tbd
 ---

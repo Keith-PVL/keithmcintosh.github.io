@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Magical Moments In Everyday Life'
+title: "Magical Moments In Everyday Life"
 date: 22-Mar-2014
 categories: tbd
 ---
@@ -9,9 +9,9 @@ categories: tbd
 
 ## 22nd March 2014
 
-<p <img class="photo-horiz" src="/images/2014/03/world-war-ii-women-at-work-in-color-8.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/03/world-war-ii-women-at-work-in-color-8.jpg" />
 
-<p Women employed as roundhouse wipers having lunch,   Chicago &amp; North Western Railroad,   Clinton,   Iowa. Marcella Hart is at left, Mrs. <a href="Women employed as roundhouse wipers having lunch, Chicago &amp; North Western Railroad, Clinton, Iowa. Marcella Hart is at left, Mrs. Elibia Siematter at right. April 1943">Elibia Siematter at right. April 1943</a></p>
+Women employed as roundhouse wipers having lunch,   Chicago &amp; North Western Railroad,   Clinton,   Iowa. Marcella Hart is at left, Mrs. <a href="Women employed as roundhouse wipers having lunch, Chicago &amp; North Western Railroad, Clinton, Iowa. Marcella Hart is at left, Mrs. Elibia Siematter at right. April 1943">Elibia Siematter at right. April 1943</a>
 
  
 

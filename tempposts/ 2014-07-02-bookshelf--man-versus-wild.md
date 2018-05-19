@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bookshelf : Man Versus Wild'
+title: "Bookshelf : Man Versus Wild"
 date: 02-Jul-2014
 categories: tbd
 ---
@@ -25,15 +25,15 @@ and he really gets his teeth into the terrifying powers of a massive storm at se
 
 A great present for outdoorsy types, this book.
 
-<p <img class="photo-horiz" src="/images/2014/07/The-Perfect-Storm-1-1024x576.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/07/The-Perfect-Storm-1-1024x576.jpg" />
 
 <h5 (From the 2000 film of the book)</h5>
 
  
 
-<p **Touching The Void** by Joe Simpson describes a terrifying climbing trip gone wrong in Peru. At 21, 000 feet, Simpson fell off an ice ledge and broke his leg. His partner Simon Yates was forced to cut the rope he dangled from, just moments before he too would have died. Over the next three days Simpson struggled down to Base Camp - frostbitten, starving, dragging his leg - and his detailed memories of the journey are compelling and beautifully expressed.</p>
+**Touching The Void** by Joe Simpson describes a terrifying climbing trip gone wrong in Peru. At 21, 000 feet, Simpson fell off an ice ledge and broke his leg. His partner Simon Yates was forced to cut the rope he dangled from, just moments before he too would have died. Over the next three days Simpson struggled down to Base Camp - frostbitten, starving, dragging his leg - and his detailed memories of the journey are compelling and beautifully expressed.
 
-<p <img class="photo-horiz" src="/images/2014/07/Peop_Pers_14simpson-mountaineer.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/07/Peop_Pers_14simpson-mountaineer.jpg" />
 
 <h5 <a href="http://barrylewisphotography.com/pm/pages/imagegroup.public.image.php?igId=57&amp;pos=14">Joe Simpson by Barry Lewis</a></h5>
 

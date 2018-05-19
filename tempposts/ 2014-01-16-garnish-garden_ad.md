@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'garnish-garden_ad'
+title: "garnish-garden_ad"
 date: 16-Jan-2014
 categories: tbd
 ---

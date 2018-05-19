@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Sweet Still Moments of Marriage'
+title: "The Sweet Still Moments of Marriage"
 date: 23-Feb-2015
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="http://41.media.tumblr.com/07e677c8698726ccee1d019c997085d1/tumblr_njvze7Gaxm1rffxsno1_1280.jpg" />
 
-<h6 <a href="http://mimbeau.tumblr.com/tagged/vintage">Fred Van Schagen,   Paris, 1954</a></h6>
+<a href="http://mimbeau.tumblr.com/tagged/vintage">Fred Van Schagen,   Paris, 1954</a>
 
  
 

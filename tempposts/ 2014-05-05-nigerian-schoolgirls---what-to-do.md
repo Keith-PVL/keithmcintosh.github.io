@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nigerian schoolgirls - what to do?'
+title: "Nigerian schoolgirls - what to do?"
 date: 05-May-2014
 categories: tbd
 ---

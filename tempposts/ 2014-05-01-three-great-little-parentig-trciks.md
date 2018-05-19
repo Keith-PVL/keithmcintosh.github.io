@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Three great little parentig trciks'
+title: "Three great little parentig trciks"
 date: 01-May-2014
 categories: tbd
 ---

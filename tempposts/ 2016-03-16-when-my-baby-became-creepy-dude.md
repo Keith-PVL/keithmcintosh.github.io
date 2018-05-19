@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'When My Baby Became Creepy Dude'
+title: "When My Baby Became Creepy Dude"
 date: 16-Mar-2016
 categories: tbd
 ---
@@ -9,7 +9,7 @@ categories: tbd
 
 ## 16th March 2016
 
-<p **This post was first published in Practical Parenting Magazine,   March 2016**</p>
+**This post was first published in Practical Parenting Magazine,   March 2016**
 
 <img class="photo-horiz" src="https://s-media-cache-ak0.pinimg.com/564x/0a/b2/99/0ab299fc95ea53f15de6d416632ad32e.jpg" />
 

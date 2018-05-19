@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'notes on mysogyny'
+title: "notes on mysogyny"
 date: 16-Sep-2013
 categories: tbd
 ---

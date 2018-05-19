@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'bookshelf - awesome naturfe'
+title: "bookshelf - awesome naturfe"
 date: 02-Jul-2014
 categories: tbd
 ---
@@ -21,7 +21,7 @@ A great present for outdoorsy types, this book.
 
 **Touching The Void** by Joe Simpson describes a terrifying climbing trip gone wrong in Peru. At 21, 000 feet, he  fell into a crevasse and his partner Simon Yates was forced to cut the rope he dangled from, just moments before he too would have died. Over the next three days Simpson struggled down to Base Camp - frostbitten, starving, and with a broken leg. His detailed memories of the journey are compelling and beautifully expressed.
 
-<p <img class="photo-horiz" src="/images/2014/07/Peop_Pers_14simpson-mountaineer.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/07/Peop_Pers_14simpson-mountaineer.jpg" />
 
 <h5 <a href="http://barrylewisphotography.com/pm/pages/imagegroup.public.image.php?igId=57&amp;pos=14">Joe Simpson by Barry Lewis</a></h5>
 

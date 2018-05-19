@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hive Mind- The Family Dinner Table'
+title: "Hive Mind- The Family Dinner Table"
 date: 07-May-2014
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'On Social Class and Sharing The Bathwater'
+title: "On Social Class and Sharing The Bathwater"
 date: 20-Jun-2013
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Post-Fact Universe'
+title: "Post-Fact Universe"
 date: 23-Nov-2016
 categories: tbd
 ---
@@ -53,9 +53,9 @@ Youg joe biden was a stone cold fox. That’s a fact.
 
 <div data-scribe="component:tweet">
 
-<p dir="ltr" lang="en">
+dir="ltr" lang="en">
 
-</p>
+
 
 </blockquote>
 

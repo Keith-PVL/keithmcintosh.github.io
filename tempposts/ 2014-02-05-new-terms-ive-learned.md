@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Terms I've Learned'
+title: "New Terms I've Learned"
 date: 05-Feb-2014
 categories: tbd
 ---

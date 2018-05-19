@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tribal Instincts'
+title: "Tribal Instincts"
 date: 12-Nov-2015
 categories: tbd
 ---

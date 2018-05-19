@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mama - Dispatches From The Frontline Of Love (A Book Review & Giveaway)'
+title: "Mama - Dispatches From The Frontline Of Love (A Book Review & Giveaway)"
 date: 17-Sep-2014
 categories: tbd
 ---
@@ -11,11 +11,11 @@ categories: tbd
 
 
 
-<p align="center">**Recently I reviewed Antonella Gambotto-Burke's book '****Mama – Dispatches From The Frontline Of Love' for ****<a href="http://mamabake.com/">Mamabake</a>. It's a great read. Gambotto-Burke picks through the terrain of modern motherhood with her trademark  honesty and passion.  **</p>
+align="center">**Recently I reviewed Antonella Gambotto-Burke's book '****Mama – Dispatches From The Frontline Of Love' for ****<a href="http://mamabake.com/">Mamabake</a>. It's a great read. Gambotto-Burke picks through the terrain of modern motherhood with her trademark  honesty and passion.  **
 
-<p align="center"><img class="photo-horiz" src="http://images0.aystatic.com/events/65536/99395_home_hero.jpg?1396940652" /></p>
+align="center"><img class="photo-horiz" src="http://images0.aystatic.com/events/65536/99395_home_hero.jpg?1396940652" />
 
-<p align="center">**I'm going to give away my review copy - if you'd like it,   leave a comment below.**</p>
+align="center">**I'm going to give away my review copy - if you'd like it,   leave a comment below.**
 
 
 

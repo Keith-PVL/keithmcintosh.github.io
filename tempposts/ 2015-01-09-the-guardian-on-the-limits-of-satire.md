@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Guardian on The Limits Of Satire'
+title: "The Guardian on The Limits Of Satire"
 date: 09-Jan-2015
 categories: tbd
 ---

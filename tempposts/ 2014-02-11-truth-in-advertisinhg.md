@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'truth in advertisinhg'
+title: "truth in advertisinhg"
 date: 11-Feb-2014
 categories: tbd
 ---

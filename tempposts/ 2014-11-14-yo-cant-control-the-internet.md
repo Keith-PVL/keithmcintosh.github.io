@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'yo cant control the internet'
+title: "yo cant control the internet"
 date: 14-Nov-2014
 categories: tbd
 ---

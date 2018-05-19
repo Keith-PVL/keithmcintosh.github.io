@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Lifetime Wee (Or: The Myth of The Mummy Wars)'
+title: "The Lifetime Wee (Or: The Myth of The Mummy Wars)"
 date: 12-Nov-2014
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="http://3.bp.blogspot.com/-x9guZVRfEB8/T2PNz0UoGkI/AAAAAAAAijg/hiqfQzn1M2M/s1600/Seeberger+brothers.+5761760692_d4a39ea0f7_b.jpeg" />
 
-<h6 Image: Seeburger Brothers</h6>
+Image: Seeburger Brothers
 
 One of my kids invented the idea of the 'Lifetime Wee' once. They decided that there was a set amount of wee each person did in a lifetime,   and every time you went to the toilet,   you just let out a little bit of it,   or a lot, as the case may be.
 

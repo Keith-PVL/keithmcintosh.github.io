@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Walking, Eating Tour Of Hobart Town With Gourmania'
+title: "A Walking, Eating Tour Of Hobart Town With Gourmania"
 date: 10-Dec-2014
 categories: tbd
 ---
@@ -9,13 +9,13 @@ categories: tbd
 
 ## 10th December 2014
 
-<p **Disclosure: I attended this walking tour as a guest of Gourmania,   but all opinions are my own. **</p>
+**Disclosure: I attended this walking tour as a guest of Gourmania,   but all opinions are my own. **
 
-<p If you are a food-lover,   as I am, and a mother, as I am, and currently on an extended stay with the family in Tasmania, as I am, then you will understand the joy I felt in my heart when I trotted off recently to join a child-free food safari of downtown Hobart.</p>
+If you are a food-lover,   as I am, and a mother, as I am, and currently on an extended stay with the family in Tasmania, as I am, then you will understand the joy I felt in my heart when I trotted off recently to join a child-free food safari of downtown Hobart.
 
-<p Freeeeeeee!</p>
+Freeeeeeee!
 
-<p This is Mary McNeill.</p>
+This is Mary McNeill.
 
 <img class="photo-horiz" src="/images/2014/12/DSC_1567-e1418206248289-576x1024.jpg" />
 
@@ -45,7 +45,7 @@ Not to worry: walk it off: both the awkwardness, and the pastry/sushi combo! Pas
 
 Revived, we head up to  Spice World, a Hobart institution where we sniff some lovely evocative boxes and eat a good cinnamon scroll - not too sweet; perfect.
 
-<p <img class="photo-horiz" src="/images/2014/12/DSC_1575-1024x576.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/12/DSC_1575-1024x576.jpg" />
 
 It's hard to keep up with Mary at times. There is a real sense of energy around the Hobart food scene - restaurants and specialty stores opening and thriving.  'Best poached eggs in Hobart!' Mary throws off as we pass Betsey. 'Fabulous whiskey, ' she advises as we pass the Lark Distillery. I'm trying to remember where we are, to take notes, but I'm full of wine and butter, the sun is shining, and I just let it all wash over me.  I couldn't be much happier.
 
@@ -53,7 +53,7 @@ Time for a bite at the Brunswick St Hotel, which started life as a sly grog shop
 
 Next, we're treated to a cheese (and honey) tasting session at the Bruny Island Cheese shop which occupies a sweet corner of the historic sandstone Salamanca Arts Centre. (No Matthew Evans sighting, but they do stock his Fat Pig ham.)
 
-<p <img class="photo-horiz" src="/images/2014/12/DSC_1592-e1418206424408-576x1024.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/12/DSC_1592-e1418206424408-576x1024.jpg" />
 
 Last stop: Smolt in Salamanca Square  for Earl Grey ice cream and  a final story from Mary: this restaurant and bakery is where the French Antarctic Mission stock up on their Ciabatta bread every year. To finish, an exquisite pair of hand-made chocolates from the Cats Tongue chocolatier in Huonville.
 

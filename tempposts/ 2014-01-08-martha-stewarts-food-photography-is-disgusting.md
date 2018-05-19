@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Martha Stewart's Food Photography Is Disgusting'
+title: "Martha Stewart's Food Photography Is Disgusting"
 date: 08-Jan-2014
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'books i've loved this year'
+title: "books i've loved this year"
 date: 11-Dec-2013
 categories: tbd
 ---

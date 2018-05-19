@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lena Dunham on Death, Feminism and Woody Allen'
+title: "Lena Dunham on Death, Feminism and Woody Allen"
 date: 27-Mar-2014
 categories: tbd
 ---

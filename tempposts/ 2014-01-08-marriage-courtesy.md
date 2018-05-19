@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Marriage, Courtesy'
+title: "Marriage, Courtesy"
 date: 08-Jan-2014
 categories: tbd
 ---

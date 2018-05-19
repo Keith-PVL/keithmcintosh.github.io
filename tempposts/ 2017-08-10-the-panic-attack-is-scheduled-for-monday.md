@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Panic Attack Is Scheduled For Monday'
+title: "The Panic Attack Is Scheduled For Monday"
 date: 10-Aug-2017
 categories: tbd
 ---
@@ -9,7 +9,7 @@ categories: tbd
 
 ## 10th August 2017
 
-<h6><img class="photo-horiz" src="http://images.complex.com/complex/image/upload/c_limit,  w_680/fl_lossy,pg_1,q_auto/ylthkedslhkincfylgcc.jpg" />                           Parisian street in 1936 by Maynard Owen Williams for National Geographic</h6>
+<img class="photo-horiz" src="http://images.complex.com/complex/image/upload/c_limit,  w_680/fl_lossy,pg_1,q_auto/ylthkedslhkincfylgcc.jpg" />                           Parisian street in 1936 by Maynard Owen Williams for National Geographic
 
  
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Lazy Renovator Talks Knobs'
+title: "A Lazy Renovator Talks Knobs"
 date: 27-Sep-2013
 categories: tbd
 ---

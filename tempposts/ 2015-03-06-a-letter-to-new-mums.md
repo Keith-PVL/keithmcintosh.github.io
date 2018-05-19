@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Letter To New Mums'
+title: "A Letter To New Mums"
 date: 06-Mar-2015
 categories: tbd
 ---
@@ -11,9 +11,9 @@ categories: tbd
 
 <img class="photo-horiz" src="https://s-media-cache-ak0.pinimg.com/736x/90/0c/1b/900c1b17503909442d7cb8d896e0a97c.jpg" />
 
-<p Johnsons Baby Oil Powder ad,   1947</p>
+Johnsons Baby Oil Powder ad,   1947
 
-<p **This post was first published in Practical Parenting Magazine, January 2015**</p>
+**This post was first published in Practical Parenting Magazine, January 2015**
 
 Dear Mums,
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Groimg Is Bullshit'
+title: "Groimg Is Bullshit"
 date: 20-Feb-2014
 categories: tbd
 ---
@@ -15,9 +15,9 @@ categories: tbd
 
 <img class="photo-horiz" src="/images/2014/02/SHORPY_5a28197u.preview.jpg" />
 
-<p September 15,   1961. "Helena Rubinstein, 655 Fifth Avenue, New York. Class in session.</p>
+September 15,   1961. "Helena Rubinstein, 655 Fifth Avenue, New York. Class in session.
 
-<p <a href="http://www.shorpy.com/node/16811">Large-format acetate negative by Gottscho-Schleisner.</a></p>
+<a href="http://www.shorpy.com/node/16811">Large-format acetate negative by Gottscho-Schleisner.</a>
 
 Have you ever heard the old phrase 'Makeup is an apology for your actual face?'
 

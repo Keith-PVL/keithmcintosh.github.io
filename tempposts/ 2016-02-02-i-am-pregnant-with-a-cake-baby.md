@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'I Am Pregnant With A Cake Baby'
+title: "I Am Pregnant With A Cake Baby"
 date: 02-Feb-2016
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="https://s-media-cache-ak0.pinimg.com/564x/99/e9/df/99e9dfc1a5289e0cb55329bd8052af8d.jpg" />
 
-<p Back on the school run.</p>
+Back on the school run.
 
 Friends and comrades,   it's been a long time since I have graced this space with my pointless ramblings,   ill-constructed arguments,   knee-jerk opinions and bum jokes.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'It's Wednesday, And Nobody is Vomiting Hooray!'
+title: "It's Wednesday, And Nobody is Vomiting Hooray!"
 date: 23-Jul-2014
 categories: tbd
 ---
@@ -13,7 +13,7 @@ categories: tbd
 
 
 
-<h6 Actress Constance Collier models my  hairstyle and facial expression.</h6>
+Actress Constance Collier models my  hairstyle and facial expression.
 
 <div This morning I was a bit stressed and shitty,   harrumphing about the place trying to get all five of us out the door. Later I came across something I wrote a while ago about my Wednesdays. Reading over it this morning,   I was transported back to a period of family sickness (ah, the Autumn Plague of 2013, when three children were vectors of disease from three different institution. Tough days. Tough, stinky days...)
 

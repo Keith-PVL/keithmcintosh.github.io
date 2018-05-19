@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Eggplants Are Stuffed, The Chaos Glitters'
+title: "The Eggplants Are Stuffed, The Chaos Glitters"
 date: 02-Jun-2014
 categories: tbd
 ---

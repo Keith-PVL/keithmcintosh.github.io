@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Romantoc Parenting Vs Classical Parenting'
+title: "Romantoc Parenting Vs Classical Parenting"
 date: 23-Feb-2015
 categories: tbd
 ---

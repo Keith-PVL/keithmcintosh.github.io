@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Quality Of Mercy'
+title: "The Quality Of Mercy"
 date: 29-Apr-2015
 categories: tbd
 ---
@@ -9,9 +9,9 @@ categories: tbd
 
 ## 29th April 2015
 
-<p <img class="photo-horiz" src="http://resources0.news.com.au/images/2015/02/01/1227204/319280-b8184cda-a9c8-11e4-b4a3-9d4f296075c1.jpg" /></p>
+<img class="photo-horiz" src="http://resources0.news.com.au/images/2015/02/01/1227204/319280-b8184cda-a9c8-11e4-b4a3-9d4f296075c1.jpg" />
 
-<p (image via news.com.au)</p>
+(image via news.com.au)
 
 Like so many of you,   I am incredibly saddened today by the deaths of Andrew Chan and Myuran Sukumaran.
 

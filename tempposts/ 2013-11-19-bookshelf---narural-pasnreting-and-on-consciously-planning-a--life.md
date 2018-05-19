@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bookshelf - narural pasnreting and on consciously planning a  life'
+title: "Bookshelf - narural pasnreting and on consciously planning a  life"
 date: 19-Nov-2013
 categories: tbd
 ---

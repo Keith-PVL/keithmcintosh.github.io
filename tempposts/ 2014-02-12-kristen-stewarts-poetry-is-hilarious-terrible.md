@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kristen Stewarts Poetry Is Hilarious, Terrible'
+title: "Kristen Stewarts Poetry Is Hilarious, Terrible"
 date: 12-Feb-2014
 categories: tbd
 ---

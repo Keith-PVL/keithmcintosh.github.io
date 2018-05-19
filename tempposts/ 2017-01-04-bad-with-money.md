@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bad With Money'
+title: "Bad With Money"
 date: 04-Jan-2017
 categories: tbd
 ---

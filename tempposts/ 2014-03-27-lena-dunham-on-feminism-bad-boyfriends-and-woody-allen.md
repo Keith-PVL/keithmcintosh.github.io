@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lena Dunham on Feminism, Bad Boyfriends and Woody Allen'
+title: "Lena Dunham on Feminism, Bad Boyfriends and Woody Allen"
 date: 27-Mar-2014
 categories: tbd
 ---
@@ -9,11 +9,11 @@ categories: tbd
 
 ## 27th March 2014
 
-<p <img class="photo-horiz" src="/images/2014/03/jemima-1.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/03/jemima-1.jpg" />
 
  
 
-<p <a href="http://www.theglow.com/jemima-kirke/?i#3">Jemima Kirke and baby Rafaela. </a></p>
+<a href="http://www.theglow.com/jemima-kirke/?i#3">Jemima Kirke and baby Rafaela. </a>
 
 Are you a fan of the HBO series Girls? I am. I find it occasionally hit-and-miss,   and I enjoy this lack of polish; this rough,   unfinished charm. More than the show itself,   I am a huge fan of its creator Lena Dunham. She was recently interviewed by comic Mark Maron on his long-running podcast WTF, and Dunham is candid, courteous and thoughtful as she discusses her relationship history and her fascinating childhood (she grew up as a New York art scene kid, with two artist parents). She's particularly interesting on Woody Allen.
 

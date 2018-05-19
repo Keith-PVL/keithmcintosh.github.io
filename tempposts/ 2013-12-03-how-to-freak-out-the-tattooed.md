@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'How To Freak Out The Tattooed'
+title: "How To Freak Out The Tattooed"
 date: 03-Dec-2013
 categories: tbd
 ---
@@ -23,18 +23,18 @@ But there's also a rising concern about the safety of tattoo inks, which have be
 
 Listen to the <a href="http://www.abc.net.au/radionational/programs/backgroundbriefing/epidemic-of-ink-v2/5053424">full podcast here</a>. And if you're still thinking about getting ink; here are some ideas: ( all f<a href="http://worst-tattoo-ever.tumblr.com/">rom this Tumblr, </a>where I spent the best ten minutes of my day):
 
-<p This one is for my dear friend Lucy. (I think we should do this ourselves at your 40th weekend Lu. Let's discuss. )</p>
+This one is for my dear friend Lucy. (I think we should do this ourselves at your 40th weekend Lu. Let's discuss. )
 
 <img class="photo-horiz" src="/images/2013/12/tumblr_m8gi54zKee1ryz3qbo1_250.png" />
 
-<p And these next few will surely pass the test of time, for when Grandma's still got it,and Grandpa's just an old scamp!</p>
+And these next few will surely pass the test of time, for when Grandma's still got it,and Grandpa's just an old scamp!
 
-<p <img class="photo-horiz" src="/images/2013/12/tumblr_m8gazhz8O41ryz3qbo1_250.png" /></p>
+<img class="photo-horiz" src="/images/2013/12/tumblr_m8gazhz8O41ryz3qbo1_250.png" />
 
-<p <img class="photo-horiz" src="/images/2013/12/tumblr_m9e2aeLNS01ryz3qbo1_250-224x300.jpg" /></p>
+<img class="photo-horiz" src="/images/2013/12/tumblr_m9e2aeLNS01ryz3qbo1_250-224x300.jpg" />
 
-<p <img class="photo-horiz" src="/images/2013/12/tumblr_m7eg0kOn8Y1qkhd6oo1_250.jpg" /></p>
+<img class="photo-horiz" src="/images/2013/12/tumblr_m7eg0kOn8Y1qkhd6oo1_250.jpg" />
 
-<p <img class="photo-horiz" src="/images/2013/12/tumblr_m842wik5aq1ryz3qbo1_250.png" /></p>
+<img class="photo-horiz" src="/images/2013/12/tumblr_m842wik5aq1ryz3qbo1_250.png" />
 
-<p <img class="photo-horiz" src="/images/2013/12/tumblr_mfwdnveMha1ryz3qbo1_1280-300x202.png" /></p>
+<img class="photo-horiz" src="/images/2013/12/tumblr_mfwdnveMha1ryz3qbo1_1280-300x202.png" />

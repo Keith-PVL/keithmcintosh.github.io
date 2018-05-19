@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Relationship Tips: What Long-Lasting Couples Do'
+title: "Relationship Tips: What Long-Lasting Couples Do"
 date: 11-Mar-2015
 categories: tbd
 ---

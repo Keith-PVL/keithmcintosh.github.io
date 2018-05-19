@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'House Of Quiche and Horrors'
+title: "House Of Quiche and Horrors"
 date: 13-Oct-2017
 categories: tbd
 ---

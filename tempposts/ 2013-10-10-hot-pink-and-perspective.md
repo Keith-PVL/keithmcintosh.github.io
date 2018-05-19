@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hot Pink and Perspective'
+title: "Hot Pink and Perspective"
 date: 10-Oct-2013
 categories: tbd
 ---

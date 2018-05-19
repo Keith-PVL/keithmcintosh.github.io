@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Resilience Sucks'
+title: "Resilience Sucks"
 date: 27-Mar-2017
 categories: tbd
 ---

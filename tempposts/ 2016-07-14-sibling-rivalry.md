@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sibling Rivalry'
+title: "Sibling Rivalry"
 date: 14-Jul-2016
 categories: tbd
 ---
@@ -9,7 +9,7 @@ categories: tbd
 
 ## 14th July 2016
 
-<p This post was first published in Practical Parenting Magazine,   June 2016 (but the children were playing Forceful Club only yesterday. The battle over kissing the dead-bee continues.They are SUCH WEIRDOS.  I blame their father)</p>
+This post was first published in Practical Parenting Magazine,   June 2016 (but the children were playing Forceful Club only yesterday. The battle over kissing the dead-bee continues.They are SUCH WEIRDOS.  I blame their father)
 
 <img class="photo-horiz" src="http://i.dailymail.co.uk/i/pix/2013/08/27/article-2402398-1B78EA4B000005DC-912_634x456.jpg" />
 

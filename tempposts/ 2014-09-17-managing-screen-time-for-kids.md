@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Managing Screen Time For Kids'
+title: "Managing Screen Time For Kids"
 date: 17-Sep-2014
 categories: tbd
 ---

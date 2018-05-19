@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pushbacks and Perspecktifs'
+title: "Pushbacks and Perspecktifs"
 date: 01-May-2014
 categories: tbd
 ---

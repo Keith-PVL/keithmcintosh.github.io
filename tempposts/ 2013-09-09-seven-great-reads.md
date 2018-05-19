@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'seven great reads'
+title: "seven great reads"
 date: 09-Sep-2013
 categories: tbd
 ---

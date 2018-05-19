@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Light Bladder Leakage'
+title: "Light Bladder Leakage"
 date: 20-Jun-2017
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="http://2.bp.blogspot.com/-aekrS3Kvcjw/T_s-FGwJ2GI/AAAAAAAAEyU/f7RXIsGmTd4/s640/lifepicnic6.jpg" />
 
-<h6>P<a href="http://time.com/photography/life/">icknicking In America by Leanord McComb</a>e for Life)</h6>
+P<a href="http://time.com/photography/life/">icknicking In America by Leanord McComb</a>e for Life)
 
 
 

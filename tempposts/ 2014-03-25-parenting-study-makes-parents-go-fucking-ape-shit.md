@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Parenting Study Makes Parents Go Fucking Ape-Shit'
+title: "Parenting Study Makes Parents Go Fucking Ape-Shit"
 date: 25-Mar-2014
 categories: tbd
 ---

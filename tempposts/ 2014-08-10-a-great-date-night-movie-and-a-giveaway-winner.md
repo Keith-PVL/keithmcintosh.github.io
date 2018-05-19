@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Great Date Night Movie (and a giveaway winner)'
+title: "A Great Date Night Movie (and a giveaway winner)"
 date: 10-Aug-2014
 categories: tbd
 ---

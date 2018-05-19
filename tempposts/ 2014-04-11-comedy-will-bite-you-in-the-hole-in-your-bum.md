@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Comedy Will Bite You In The Hole In Your Bum'
+title: "Comedy Will Bite You In The Hole In Your Bum"
 date: 11-Apr-2014
 categories: tbd
 ---

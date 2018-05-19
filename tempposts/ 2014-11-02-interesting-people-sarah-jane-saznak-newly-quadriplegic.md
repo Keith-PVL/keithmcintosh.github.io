@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Interesting People: Sarah-Jane Saznak, Newly Quadriplegic'
+title: "Interesting People: Sarah-Jane Saznak, Newly Quadriplegic"
 date: 02-Nov-2014
 categories: tbd
 ---

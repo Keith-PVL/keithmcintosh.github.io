@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bookshelf - Sex, Scientology and Terrorism (Narrative Non Fiction)'
+title: "Bookshelf - Sex, Scientology and Terrorism (Narrative Non Fiction)"
 date: 08-Aug-2014
 categories: tbd
 ---

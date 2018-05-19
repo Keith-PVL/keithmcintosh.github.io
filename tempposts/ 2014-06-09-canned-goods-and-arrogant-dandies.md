@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Canned Goods and Arrogant Dandies'
+title: "Canned Goods and Arrogant Dandies"
 date: 09-Jun-2014
 categories: tbd
 ---
@@ -17,10 +17,10 @@ Times like this a lady needs to resort to canned goods and escape to the sixteen
 
 <blockquote>
 
-<p He was the epitome of a man of fashion. His beaver hat was set over black locks carefully brushed into a semblance of disorder; his cravat of starched muslin supported his chin in a series of beautiful folds; his driving-coat of drab cloth bore no less than fifteen capes, and a double row of silver buttons.</p>
+He was the epitome of a man of fashion. His beaver hat was set over black locks carefully brushed into a semblance of disorder; his cravat of starched muslin supported his chin in a series of beautiful folds; his driving-coat of drab cloth bore no less than fifteen capes, and a double row of silver buttons.
 
 </blockquote>
 
-<p Ding dong!  May your public holiday Monday be unfolding as loosely as the washing that has engulfed my couch, and may your spines go not a -travelling.</p>
+Ding dong!  May your public holiday Monday be unfolding as loosely as the washing that has engulfed my couch, and may your spines go not a -travelling.
 
 x

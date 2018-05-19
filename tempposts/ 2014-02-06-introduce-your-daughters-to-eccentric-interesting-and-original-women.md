@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Introduce Your Daughters to Eccentric, Interesting and Original Women'
+title: "Introduce Your Daughters to Eccentric, Interesting and Original Women"
 date: 06-Feb-2014
 categories: tbd
 ---
@@ -9,9 +9,9 @@ categories: tbd
 
 ## 6th February 2014
 
-<p  <img class="photo-horiz" src="/images/2014/02/tumblr_m3qlbkIHvA1qb8vpuo1_500.jpg" /></p>
+ <img class="photo-horiz" src="/images/2014/02/tumblr_m3qlbkIHvA1qb8vpuo1_500.jpg" />
 
-<p Recess,   1974 by Vsevolod Tarasevich</p>
+Recess,   1974 by Vsevolod Tarasevich
 
  
 

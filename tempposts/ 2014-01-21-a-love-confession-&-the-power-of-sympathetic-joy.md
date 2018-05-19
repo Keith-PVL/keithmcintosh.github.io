@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Love Confession & The Power Of Sympathetic Joy'
+title: "A Love Confession & The Power Of Sympathetic Joy"
 date: 21-Jan-2014
 categories: tbd
 ---

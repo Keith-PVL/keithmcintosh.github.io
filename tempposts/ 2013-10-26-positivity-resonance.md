@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'positivity resonance'
+title: "positivity resonance"
 date: 26-Oct-2013
 categories: tbd
 ---

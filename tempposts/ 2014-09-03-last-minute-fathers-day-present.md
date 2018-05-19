@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Last Minute Fathers Day Present!'
+title: "Last Minute Fathers Day Present!"
 date: 03-Sep-2014
 categories: tbd
 ---
@@ -21,7 +21,7 @@ Exapmaple quote fo that great redhead..
 
 This book is funny, smart and an absolute classic of the adventure genre. Heyerdahl and his gang are the original and the best beardie-weirdies.
 
-<p <img class="photo-horiz" src="http://theoceanvoyager.com/wp-content/uploads/2013/04/Thor+Heyerdahl+i+Kon-Tiki+1950.jpg" /></p>
+<img class="photo-horiz" src="http://theoceanvoyager.com/wp-content/uploads/2013/04/Thor+Heyerdahl+i+Kon-Tiki+1950.jpg" />
 
 Such a great Fathers Day present, if you haven't picked anything up yet.
 

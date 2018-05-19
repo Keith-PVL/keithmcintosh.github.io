@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nerd Genetics and Game Night'
+title: "Nerd Genetics and Game Night"
 date: 18-Feb-2014
 categories: tbd
 ---

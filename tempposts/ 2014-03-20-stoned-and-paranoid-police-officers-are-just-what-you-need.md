@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Stoned And Paranoid Police Officers Are Just What You Need'
+title: "Stoned And Paranoid Police Officers Are Just What You Need"
 date: 20-Mar-2014
 categories: tbd
 ---

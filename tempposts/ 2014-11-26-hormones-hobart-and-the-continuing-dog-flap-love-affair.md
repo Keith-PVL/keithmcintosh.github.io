@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hormones, Hobart and The Continuing Dog-Flap Love Affair'
+title: "Hormones, Hobart and The Continuing Dog-Flap Love Affair"
 date: 26-Nov-2014
 categories: tbd
 ---

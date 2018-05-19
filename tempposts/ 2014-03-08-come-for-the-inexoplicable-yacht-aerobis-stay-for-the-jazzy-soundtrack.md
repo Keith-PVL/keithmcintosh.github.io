@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Come for the Inexoplicable Yacht Aerobis Stay for the Jazzy Soundtrack'
+title: "Come for the Inexoplicable Yacht Aerobis Stay for the Jazzy Soundtrack"
 date: 08-Mar-2014
 categories: tbd
 ---

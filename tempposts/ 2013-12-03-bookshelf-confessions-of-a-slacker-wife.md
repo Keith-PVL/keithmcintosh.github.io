@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bookshelf: Confessions Of A Slacker Wife'
+title: "Bookshelf: Confessions Of A Slacker Wife"
 date: 03-Dec-2013
 categories: tbd
 ---

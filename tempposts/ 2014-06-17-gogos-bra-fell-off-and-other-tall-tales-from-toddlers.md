@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''Gogo's Bra Fell Off' And Other Tall Tales from Toddlers'
+title: "'Gogo's Bra Fell Off' And Other Tall Tales from Toddlers"
 date: 17-Jun-2014
 categories: tbd
 ---
@@ -9,11 +9,11 @@ categories: tbd
 
 ## 17th June 2014
 
-<p <img class="photo-horiz" src="/images/2014/06/lucilleball.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/06/lucilleball.jpg" />
 
-<p  Lucille Ball and Desi Arnaz with their daughter,   Lucie, in swimming pool at their home in Palm Springs. Kodachrome by Charlotte Brooks for the Look magazine assignment "The Real Lucy." <a href="http://www.shorpy.com/node/17414">August 1952.</a></p>
+ Lucille Ball and Desi Arnaz with their daughter,   Lucie, in swimming pool at their home in Palm Springs. Kodachrome by Charlotte Brooks for the Look magazine assignment "The Real Lucy." <a href="http://www.shorpy.com/node/17414">August 1952.</a>
 
-<p **This post was originally published in Practical Parenting Magazine, May 2014**</p>
+**This post was originally published in Practical Parenting Magazine, May 2014**
 
 I live with a two-year-old (I call her Pudding when I write about her). Pudding often ropes me into her imaginary games. ‘Come inna my room Mama,’ she demanded recently, thrusting a plastic bowl into my hands. ‘Here your dwum! Bang it!’ I was confused, but did as I was told. Pudding put on her ‘dancing’ hat. ‘Now sing!’ she shouted.  ‘There was a wild colonial boy, Jack Doolan was his name,’  I began obediently. (Why? I don’t know why. I was on the spot. ) Pudding cavorted about the room happily for a verse or so, and then she plucked the bowl from my hands. ‘Now get out,’ she said. Alrighty then. I returned to the washing-up.
 

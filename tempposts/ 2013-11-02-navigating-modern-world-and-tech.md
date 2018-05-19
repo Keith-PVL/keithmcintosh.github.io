@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Navigating modern world and tech'
+title: "Navigating modern world and tech"
 date: 02-Nov-2013
 categories: tbd
 ---

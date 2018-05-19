@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ordinary Joys (Life In The Beautiful Bubble)'
+title: "Ordinary Joys (Life In The Beautiful Bubble)"
 date: 03-Sep-2014
 categories: tbd
 ---

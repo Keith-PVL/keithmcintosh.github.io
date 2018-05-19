@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'I've Heard Of 'Hair Pie' But This Is Ridiculous'
+title: "I've Heard Of 'Hair Pie' But This Is Ridiculous"
 date: 21-Nov-2013
 categories: tbd
 ---

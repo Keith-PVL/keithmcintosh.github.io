@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Swinging Bubes and Low-Hanging Fruit: The Ways Kidsd Can ShameTheir Mothers In The Supermaret'
+title: "Swinging Bubes and Low-Hanging Fruit: The Ways Kidsd Can ShameTheir Mothers In The Supermaret"
 date: 15-Oct-2014
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="http://media-cache-ak0.pinimg.com/736x/e1/db/14/e1db14973a4709f8ce18db6418c93825.jpg" />
 
-<h6 Vintage ad from Pinterest</h6>
+Vintage ad from Pinterest
 
 Recently my homies at Mamabake asked their Facebook group how their kids had embarresed them in the supermarket. Some of the answers were absoulte gold.
 

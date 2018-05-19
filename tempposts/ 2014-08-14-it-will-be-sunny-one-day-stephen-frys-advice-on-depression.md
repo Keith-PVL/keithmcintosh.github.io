@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'It Will Be Sunny One Day: Stephen Fry's Advice On Depression'
+title: "It Will Be Sunny One Day: Stephen Fry's Advice On Depression"
 date: 14-Aug-2014
 categories: tbd
 ---

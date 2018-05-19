@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adventures In Exercise (Part 2): Of Farts And Fan Fiction'
+title: "Adventures In Exercise (Part 2): Of Farts And Fan Fiction"
 date: 02-Mar-2014
 categories: tbd
 ---
@@ -9,9 +9,9 @@ categories: tbd
 
 ## 2nd March 2014
 
-<p **This post originally appeared in Practical Parenting Magazine,   February 2014**</p>
+**This post originally appeared in Practical Parenting Magazine,   February 2014**
 
-<p Recently I shared <a href="http://mogantosh.com/adventures-in-exercise-part-1/">my Pilates experiences</a><span  with you. </span> Today,   we're off to the yoga studio for some more core-strengthening,  shame and humiliation. But first: a little Prancercise, extra camel toe at no added cost.  Why ever not?</p>
+Recently I shared <a href="http://mogantosh.com/adventures-in-exercise-part-1/">my Pilates experiences</a><span  with you. </span> Today,   we're off to the yoga studio for some more core-strengthening,  shame and humiliation. But first: a little Prancercise, extra camel toe at no added cost.  Why ever not?
 
 https://www.youtube.com/watch?v=o-50GjySwew
 

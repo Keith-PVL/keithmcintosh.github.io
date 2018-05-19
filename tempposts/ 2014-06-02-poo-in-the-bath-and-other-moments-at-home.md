@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Poo In The Bath and Other Moments At Home'
+title: "Poo In The Bath and Other Moments At Home"
 date: 02-Jun-2014
 categories: tbd
 ---
@@ -21,8 +21,8 @@ Georgie set off a video that played 'poo, poo, poo, poo, poo'. This is the curre
 
 3. Two-year-old Pudding experiences every emotion with full-bodied commitment. Last week, on the way home from Nanna and Pop's house, she was wracked with heartbroken sobs because she realised that she had forgotten to reply 'Don't forget your toilet paper' to Pop's 'see ya later, alligator.'
 
-<h6>*this is not a euphemism for the white-wine-vinegar vinegar douche I give my lady garden every Saturday night. I promise never to be coy when I do get around to a full tutorial on this.</h6>
+*this is not a euphemism for the white-wine-vinegar vinegar douche I give my lady garden every Saturday night. I promise never to be coy when I do get around to a full tutorial on this.
 
-<h6></h6>
+
 
  

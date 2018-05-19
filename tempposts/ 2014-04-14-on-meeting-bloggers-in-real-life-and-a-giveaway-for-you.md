@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'On Meeting Bloggers In Real Life (and a Giveaway For You)'
+title: "On Meeting Bloggers In Real Life (and a Giveaway For You)"
 date: 14-Apr-2014
 categories: tbd
 ---

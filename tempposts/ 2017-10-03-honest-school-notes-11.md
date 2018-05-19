@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Honest School Notes #11'
+title: "Honest School Notes #11"
 date: 03-Oct-2017
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Best Thing Ever To Happen To Bookish Ladies'
+title: "The Best Thing Ever To Happen To Bookish Ladies"
 date: 26-Nov-2013
 categories: tbd
 ---

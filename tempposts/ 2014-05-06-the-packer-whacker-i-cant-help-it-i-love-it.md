@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Packer Whacker: I Can't Help It I Love It'
+title: "The Packer Whacker: I Can't Help It I Love It"
 date: 06-May-2014
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Notes on Life From A Wollongong Cafe'
+title: "Notes on Life From A Wollongong Cafe"
 date: 11-Sep-2014
 categories: tbd
 ---

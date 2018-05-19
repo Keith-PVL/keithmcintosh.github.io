@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Week From Hell'
+title: "The Week From Hell"
 date: 13-Dec-2013
 categories: tbd
 ---
@@ -9,13 +9,13 @@ categories: tbd
 
 ## 13th December 2013
 
-<p This post was originally published in Practical Parenting Magazine,   November 2013.</p>
+This post was originally published in Practical Parenting Magazine,   November 2013.
 
-<p Man, am I glad that winter is over.</p>
+Man, am I glad that winter is over.
 
 <img class="photo-horiz" src="/images/2013/12/article-1164974-0419C704000005DC-301_224x433.jpg" />
 
-<p Barely had time to put my face on.</p>
+Barely had time to put my face on.
 
 Friends, here’s my understatement of the year: I am tired. And by ‘tired’, I mean ‘exhausted-to-the-bone-might-cry-any-second-even-my-hair-hurts’.  You see, my three small children are the joy of my life. But they are, like all kids at school and pre-school and day-care, poxy little bastards. They bring home every bacteria and virus in the neighbourhood and give them to me, like little kittens presenting bloodied mice. This winter has been particularly bad for illness in our house, and this last week has been the worst ever.
 

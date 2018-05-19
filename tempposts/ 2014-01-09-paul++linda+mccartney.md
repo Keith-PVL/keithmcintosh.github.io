@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Paul++Linda+McCartney'
+title: "Paul++Linda+McCartney"
 date: 09-Jan-2014
 categories: tbd
 ---

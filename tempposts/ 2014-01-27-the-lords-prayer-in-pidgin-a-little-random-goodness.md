@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Lords Prayer in Pidgin (A Little Random Goodness)'
+title: "The Lords Prayer in Pidgin (A Little Random Goodness)"
 date: 27-Jan-2014
 categories: tbd
 ---

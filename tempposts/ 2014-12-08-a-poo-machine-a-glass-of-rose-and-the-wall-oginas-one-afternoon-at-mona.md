@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Poo Machine, A Glass of Rose and The Wall O'Gina's: One Afternoon At MONA'
+title: "A Poo Machine, A Glass of Rose and The Wall O'Gina's: One Afternoon At MONA"
 date: 08-Dec-2014
 categories: tbd
 ---

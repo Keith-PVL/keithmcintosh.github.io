@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Keep Calm and Show Compassion #Illridewithyou'
+title: "Keep Calm and Show Compassion #Illridewithyou"
 date: 20-Dec-2014
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10846465_10152982192444015_1481637525114559092_n.jpg?oh=51432cbbb18557e3c651f42bdfa19ad0&amp;oe=5504BB95&amp;__gda__=1429837699_07a06a4bfff5704679bb61269c4343f6" />
 
-<p (photo by John Donegan)</p>
+(photo by John Donegan)
 
 On this awfully sad day,   at the end of a sad week,   it was perhaps not the best day to finally read the last chapters of Seven Little Australians to my biggest Peanut. I cried so much when Judy died, I had to keep wiping my face on my dress, and I kept thinking about all the children - in Pakistan, in Queensland, the three left motherless in Sydney... I'm moved by the outpouring of love in Sydney expressed by that sea of flowers, I love #illridewithyou but I'm heartsick so this week, rocked by the fact  that so much suffering has been enacted on children.
 

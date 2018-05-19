@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Nerd Genetics of Game Night'
+title: "The Nerd Genetics of Game Night"
 date: 19-Feb-2014
 categories: tbd
 ---
@@ -37,7 +37,7 @@ I stopped him. For his own good. And the health of our marriage.
 
 Recently Keith's uncle Rob sent us a photo of a letter in the Melbourne Library collection, written about Keith grandfather Gaius, who was a chess master.
 
-<p <img class="photo-horiz" src="/images/2014/01/unnamed-2.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/01/unnamed-2.jpg" />
 
 The devil himself.
 

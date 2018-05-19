@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bring Back Our Girls'
+title: "Bring Back Our Girls"
 date: 07-May-2014
 categories: tbd
 ---
@@ -29,9 +29,9 @@ What to do with this useless rage?
 
 <img class="photo-horiz" src="/images/2014/05/FIRSTDOGNIGERIA-586x1024.jpg" />
 
-<p  (cartoon from The Gardian.)</p>
+ (cartoon from The Gardian.)
 
-<p Here are the names of the missing girls:</p>
+Here are the names of the missing girls:
 
 <img class="photo-horiz" src="/images/2014/05/Bm1qeNkCEAMG55Z-307x1024.jpg" />
 

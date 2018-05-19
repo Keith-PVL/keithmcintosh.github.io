@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Parenting: Try, Try Again'
+title: "Parenting: Try, Try Again"
 date: 29-Sep-2013
 categories: tbd
 ---

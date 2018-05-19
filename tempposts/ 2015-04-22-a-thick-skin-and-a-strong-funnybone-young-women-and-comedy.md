@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Thick Skin and A Strong Funnybone: Young Women and Comedy'
+title: "A Thick Skin and A Strong Funnybone: Young Women and Comedy"
 date: 22-Apr-2015
 categories: tbd
 ---

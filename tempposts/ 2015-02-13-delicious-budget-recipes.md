@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Delicious Budget Recipes'
+title: "Delicious Budget Recipes"
 date: 13-Feb-2015
 categories: tbd
 ---

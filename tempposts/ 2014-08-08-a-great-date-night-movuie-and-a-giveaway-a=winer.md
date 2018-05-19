@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Great Date Night Movuie (and a giveaway a=winer)'
+title: "A Great Date Night Movuie (and a giveaway a=winer)"
 date: 08-Aug-2014
 categories: tbd
 ---

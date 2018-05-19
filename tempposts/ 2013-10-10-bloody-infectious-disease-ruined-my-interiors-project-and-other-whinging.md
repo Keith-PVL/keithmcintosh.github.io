@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bloody Infectious Disease Ruined My Interiors Project And Other Whinging'
+title: "Bloody Infectious Disease Ruined My Interiors Project And Other Whinging"
 date: 10-Oct-2013
 categories: tbd
 ---

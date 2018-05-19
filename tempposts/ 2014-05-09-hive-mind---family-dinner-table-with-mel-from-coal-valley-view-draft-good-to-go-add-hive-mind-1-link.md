@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hive Mind - Family Dinner Table (with Mel from Coal Valley View) draft good to go, add hive mind 1 link'
+title: "Hive Mind - Family Dinner Table (with Mel from Coal Valley View) draft good to go, add hive mind 1 link"
 date: 09-May-2014
 categories: tbd
 ---
@@ -9,13 +9,13 @@ categories: tbd
 
 ## 9th May 2014
 
-<p  <img class="photo-horiz" src="/images/2014/05/SHORPY_8d27703a.preview.jpg" /></p>
+ <img class="photo-horiz" src="/images/2014/05/SHORPY_8d27703a.preview.jpg" />
 
-<p March 1943. Rochester,   New York. "<a href="http://www.shorpy.com/node/14792">The Babcocks at the dinner table</a>."</p>
+March 1943. Rochester,   New York. "<a href="http://www.shorpy.com/node/14792">The Babcocks at the dinner table</a>."
 
 Yesterday, Ruth from Gourmet Girlfriend took us through the<a href="http://mogantosh.com/hive-mind-the-family-dinner-table/"> family dinner routines</a> at her house. Today, the lovely Mel from Coal Valley View opens the curtain on her idyllic Tasmanian homestead and lets us nosy-parker around a little. Mel has five kids, aged nine, seven, five-year-old twins and a seventeen month old baby. She's a tiny bit busy.
 
-<p <img class="photo-horiz" src="/images/2014/05/IMG_3058.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/05/IMG_3058.jpg" />
 
 **How often do you have dinner together?**
 

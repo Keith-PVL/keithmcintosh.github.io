@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Modern Parenting: All Joy And No Fun?'
+title: "Modern Parenting: All Joy And No Fun?"
 date: 12-Feb-2014
 categories: tbd
 ---
@@ -11,9 +11,9 @@ categories: tbd
 
 <img class="photo-horiz" src="/images/2014/02/50615404.jpg" />
 
-<p Kids calling Santa,   1947, <a href="http://life.time.com/culture/photos-of-kids-on-the-phone-with-santa-christmas-1947/#6">Life Magazine</a></p>
+Kids calling Santa,   1947, <a href="http://life.time.com/culture/photos-of-kids-on-the-phone-with-santa-christmas-1947/#6">Life Magazine</a>
 
-<p A great interview recently on the <a href="http://www.npr.org/programs/fresh-air/">Fresh Air podcast</a> with Jennifer Senior, author of All Joy And No Fun: The Paradox Of Modern Parenthood. 'Have we become a nation of Jeeves,' asks Senior, ' running after after all these little Bertie Woosters?'</p>
+A great interview recently on the <a href="http://www.npr.org/programs/fresh-air/">Fresh Air podcast</a> with Jennifer Senior, author of All Joy And No Fun: The Paradox Of Modern Parenthood. 'Have we become a nation of Jeeves,' asks Senior, ' running after after all these little Bertie Woosters?'
 
 How I laughed, as I fluffed the children's pillow-protectors and polished the little bells they ring when their noses are itchy.
 

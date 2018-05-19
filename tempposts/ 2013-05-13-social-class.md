@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Social Class'
+title: "Social Class"
 date: 13-May-2013
 categories: tbd
 ---

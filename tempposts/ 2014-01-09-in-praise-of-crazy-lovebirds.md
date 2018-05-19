@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'In Praise Of Crazy Lovebirds'
+title: "In Praise Of Crazy Lovebirds"
 date: 09-Jan-2014
 categories: tbd
 ---

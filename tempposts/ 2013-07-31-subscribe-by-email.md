@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Subscribe By Email'
+title: "Subscribe By Email"
 date: 31-Jul-2013
 categories: tbd
 ---

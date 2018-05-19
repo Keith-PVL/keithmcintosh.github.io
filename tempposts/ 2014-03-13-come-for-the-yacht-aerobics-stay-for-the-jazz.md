@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Come for the Yacht Aerobics Stay for the Jazz'
+title: "Come for the Yacht Aerobics Stay for the Jazz"
 date: 13-Mar-2014
 categories: tbd
 ---

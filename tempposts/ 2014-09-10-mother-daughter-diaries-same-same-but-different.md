@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mother Daughter Diaries: Same Same, But Different'
+title: "Mother Daughter Diaries: Same Same, But Different"
 date: 10-Sep-2014
 categories: tbd
 ---

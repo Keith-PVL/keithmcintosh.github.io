@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Morning Rituals: Cocaine, Penis-Cleansing and Capering About The Room'
+title: "Morning Rituals: Cocaine, Penis-Cleansing and Capering About The Room"
 date: 10-Aug-2014
 categories: tbd
 ---

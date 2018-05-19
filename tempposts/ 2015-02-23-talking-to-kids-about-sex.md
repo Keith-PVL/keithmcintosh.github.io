@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Talking to kids about sex'
+title: "Talking to kids about sex"
 date: 23-Feb-2015
 categories: tbd
 ---

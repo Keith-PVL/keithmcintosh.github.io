@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Thoughts On Blogging, Stern Bedtime Parenting and An Unfortunate Decomposing Lizard'
+title: "Thoughts On Blogging, Stern Bedtime Parenting and An Unfortunate Decomposing Lizard"
 date: 13-Jun-2014
 categories: tbd
 ---

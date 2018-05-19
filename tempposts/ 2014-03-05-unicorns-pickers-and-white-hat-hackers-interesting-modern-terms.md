@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Unicorns, Pickers and White-Hat Hackers: Interesting Modern Terms'
+title: "Unicorns, Pickers and White-Hat Hackers: Interesting Modern Terms"
 date: 05-Mar-2014
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Embracing The Chaos'
+title: "Embracing The Chaos"
 date: 07-Sep-2016
 categories: tbd
 ---
@@ -19,7 +19,7 @@ To my long-time readers, thank you for supporting and enjoying these little post
 
 <img class="photo-horiz" src="http://www.gstatic.com/hostedimg/e74e2ef24c179bcf_landing" />
 
-<h6><a href="http://images.google.com/hosted/life/e74e2ef24c179bcf.html">and onto the Next Big Thing: (Julie Wilson, 1958, from the Life Magazine archives) </a></h6>
+<a href="http://images.google.com/hosted/life/e74e2ef24c179bcf.html">and onto the Next Big Thing: (Julie Wilson, 1958, from the Life Magazine archives) </a>
 
  
 

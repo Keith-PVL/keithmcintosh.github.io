@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funny Web Series for Sick-A-Beds'
+title: "Funny Web Series for Sick-A-Beds"
 date: 17-Aug-2014
 categories: tbd
 ---

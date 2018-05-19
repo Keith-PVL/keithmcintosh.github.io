@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Home-Made Laundry Detergent'
+title: "Home-Made Laundry Detergent"
 date: 26-Nov-2013
 categories: tbd
 ---
@@ -9,7 +9,7 @@ categories: tbd
 
 ## 26th November 2013
 
-<p <img class="photo-horiz" src="/images/2013/11/IMG_0213-1024x1024.jpg" /></p>
+<img class="photo-horiz" src="/images/2013/11/IMG_0213-1024x1024.jpg" />
 
 I've been making laundry detergent for years now. Above,   Pudding's friends and constant companions got a much-needed scrub down. Nice to capture the jacaranda in full bloom... Our grey-water drains into the garden,   so I've always bought laundry powder that is phosphate and enzyme free. At some stage I clocked how easy it was to make laundry detergent myself,   and since then I have made it scores of times. Like every aspect of the hand-made life, my commitment comes and goes. When I am feeling past capacity, even the ten minutes required to make laundry liquid myself is a bridge too far. But with three small children, the laundry is a monster that takes constant management.
 

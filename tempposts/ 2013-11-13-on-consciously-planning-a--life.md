@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'on consciously planning a  life'
+title: "on consciously planning a  life"
 date: 13-Nov-2013
 categories: tbd
 ---

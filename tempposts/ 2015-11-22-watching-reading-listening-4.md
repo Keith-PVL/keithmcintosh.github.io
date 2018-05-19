@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Watching, Reading, Listening #4'
+title: "Watching, Reading, Listening #4"
 date: 22-Nov-2015
 categories: tbd
 ---
@@ -35,9 +35,9 @@ Speaking of banging, Rob Delaney from Catastrophe is my new favourite TV-totty. 
 
 
 
-<p lang="en" data-aria-label-part="0">Hey <a dir="ltr" href="https://twitter.com/hashtag/Teens?src=hash" data-query-source="hashtag_click">#Teens</a>: would it be cool if I put a <a dir="ltr" href="https://twitter.com/hashtag/saddle?src=hash" data-query-source="hashtag_click">#saddle</a> on my <a dir="ltr" href="https://twitter.com/hashtag/toilet?src=hash" data-query-source="hashtag_click">#toilet</a>?</p>
+lang="en" data-aria-label-part="0">Hey <a dir="ltr" href="https://twitter.com/hashtag/Teens?src=hash" data-query-source="hashtag_click">#Teens</a>: would it be cool if I put a <a dir="ltr" href="https://twitter.com/hashtag/saddle?src=hash" data-query-source="hashtag_click">#saddle</a> on my <a dir="ltr" href="https://twitter.com/hashtag/toilet?src=hash" data-query-source="hashtag_click">#toilet</a>?
 
-<p lang="en" data-aria-label-part="0">BBC series Catastrophe was so bloody funny, and so sharp on relationships. I loves him, and I loves Sharon Horgan, with whom he co-writes the show. If Please Like Me and Master of None are like an anthropological field trip into Gen Y territory, Catastrophe is more like hanging out with people I recognise. Here's the trailer to Season 1 (Season 2 coming soon I think.)</p>
+lang="en" data-aria-label-part="0">BBC series Catastrophe was so bloody funny, and so sharp on relationships. I loves him, and I loves Sharon Horgan, with whom he co-writes the show. If Please Like Me and Master of None are like an anthropological field trip into Gen Y territory, Catastrophe is more like hanging out with people I recognise. Here's the trailer to Season 1 (Season 2 coming soon I think.)
 
 https://www.youtube.com/watch?v=bfccan1k2_4
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Bitterness Log'
+title: "The Bitterness Log"
 date: 10-Dec-2013
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="/images/2013/12/032eee5c8cb515a8954007348f3a0bfd-1.jpg" />
 
-<p <a href="http://illyadarling.tumblr.com/post/58428233737">(image source)</a></p>
+<a href="http://illyadarling.tumblr.com/post/58428233737">(image source)</a>
 
 A year or two ago,   Keith was quietly suffering from an annoying post-nasal drip. It manifested as a bitter taste in his mouth, and lasted for a few weeks. He didn't talk much about it, a is the way of men, but he did decide to try and gather data on why it might be happening, as is the way of scientists.
 

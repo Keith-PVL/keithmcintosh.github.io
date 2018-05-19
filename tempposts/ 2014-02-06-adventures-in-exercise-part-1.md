@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adventures In Exercise (Part 1)'
+title: "Adventures In Exercise (Part 1)"
 date: 06-Feb-2014
 categories: tbd
 ---
@@ -13,7 +13,7 @@ If I hadn't just written a column on exercise,   I'd have to invent another reas
 
 https://www.youtube.com/watch?v=fRscYVvEFt8
 
-<p This post originally published in Practical Parenting Magazine,   January 2014</p>
+This post originally published in Practical Parenting Magazine,   January 2014
 
 I’ve got what you might call some interesting spinal architecture, after two fusion operations, and one freaky boat accident that resulted in a broken back. A series of rods and screws hold my spine together. It makes for X-rays that can freak people out (but I don’t beep going through the airport machine, thanks for asking) and a history with chronic pain that has gone up and down more than a toddlers mood in the afternoon.
 

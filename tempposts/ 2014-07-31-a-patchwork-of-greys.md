@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Patchwork Of Greys'
+title: "A Patchwork Of Greys"
 date: 31-Jul-2014
 categories: tbd
 ---
@@ -9,11 +9,11 @@ categories: tbd
 
 ## 31st July 2014
 
-<p **This post was first published in Practical Parenting Magazine,   July 2014**</p>
+**This post was first published in Practical Parenting Magazine,   July 2014**
 
-<p <img class="photo-horiz" src="/images/2014/07/01663u.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/07/01663u.jpg" />
 
-<h6 'Comforts of Home': (<a href="http://www.junipergallery.com/node/1415">1861) District of Columbia. Tent life of the 31st Pennsylvania Infantry at Queen's Farm,   vicinity of Fort Slocum.</a></h6>
+'Comforts of Home': (<a href="http://www.junipergallery.com/node/1415">1861) District of Columbia. Tent life of the 31st Pennsylvania Infantry at Queen's Farm,   vicinity of Fort Slocum.</a>
 
 The other morning,   I spent a few hours cleaning and decorating the bedrooms in the house so I could take fancy pictures of them for a house-swapping website. I dusted, decluttered and made beds with care. I swept Lego, loom bands and headless Barbies off the floor and I carefully, lovingly positioned a decorative stone elephant. Then I stood back and admired my work. Usually I shlump about feeling like Alice from the Brady Bunch, but today, I totally felt like a hip young thing. Finger on the pulse of style, etc. This room is gorgeous! I thought. Like, magazine gorgeous! I decided that I would live like this from now on.
 

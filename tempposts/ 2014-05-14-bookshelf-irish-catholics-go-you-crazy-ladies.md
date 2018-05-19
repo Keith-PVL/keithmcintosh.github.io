@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bookshelf: Irish Catholics Go, You Crazy Ladies'
+title: "Bookshelf: Irish Catholics Go, You Crazy Ladies"
 date: 14-May-2014
 categories: tbd
 ---

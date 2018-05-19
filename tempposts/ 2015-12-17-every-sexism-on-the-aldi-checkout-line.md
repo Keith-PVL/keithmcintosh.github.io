@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Every Sexism on The Aldi Checkout Line'
+title: "Every Sexism on The Aldi Checkout Line"
 date: 17-Dec-2015
 categories: tbd
 ---

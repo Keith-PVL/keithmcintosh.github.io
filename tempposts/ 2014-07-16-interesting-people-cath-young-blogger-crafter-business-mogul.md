@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Interesting People: Cath Young (Blogger, Crafter, Business Mogul)'
+title: "Interesting People: Cath Young (Blogger, Crafter, Business Mogul)"
 date: 16-Jul-2014
 categories: tbd
 ---

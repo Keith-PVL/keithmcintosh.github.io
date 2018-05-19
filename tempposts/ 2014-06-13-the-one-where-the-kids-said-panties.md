@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The One Where The Kids Said 'Panties''
+title: "The One Where The Kids Said 'Panties'"
 date: 13-Jun-2014
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Housework and Perspective (or Shaking My Sooty Thing In The Dusthole)'
+title: "Housework and Perspective (or Shaking My Sooty Thing In The Dusthole)"
 date: 24-Oct-2013
 categories: tbd
 ---
@@ -13,7 +13,7 @@ This week,   I spent some time scrubbing <del>compost</del> filth from the insid
 
 I suspect I'm like lots of people in that I love my nest to be sparkly, welcoming and clean, but I'm too lazy to put in the amount of hard work it takes to get it there.  I clean ALL THE TIME. And yet, the house is always mocking me with  dust bunnies and precarious piles and unfolded washing. There's so many interesting things to make and do around the house, but it's so hard to get to the good stuff, what with all the grunt-work you have to wade through first.
 
-<p  <img class="photo-horiz" src="/images/2013/10/4WScDl-300x300.jpg" /></p>
+ <img class="photo-horiz" src="/images/2013/10/4WScDl-300x300.jpg" />
 
 The problem is kids: it takes an hour to repair the damage that a team of children take ten seconds to repeat. The payoff to effort mathematics of housework is very bad.  The thing is, there is no way to 'finish' the housework. It's an insatiable beast. It will never be satisfied.
 
@@ -25,9 +25,9 @@ A typical day for Hannah, unusual only in that she managed a bath, unlike most d
 
 <img class="photo-horiz" src="/images/2013/10/Hannah-cleaning-the-grate.jpg" />
 
-<p <a href="http://writingwomenshistory.blogspot.com.au/2010/06/hannah-cullwicks-stolen-love.html">(image source)</a></p>
+<a href="http://writingwomenshistory.blogspot.com.au/2010/06/hannah-cullwicks-stolen-love.html">(image source)</a>
 
-<p My first thought: God, what a soft, middle class fanny I am. I would not last a second in the nineteenth century.</p>
+My first thought: God, what a soft, middle class fanny I am. I would not last a second in the nineteenth century.
 
 My second thought: Why does 'shook my sooty thing in the dusthole' sound so filthy? God, I am so vulgar. I would not last a second in the nineteenth century.
 

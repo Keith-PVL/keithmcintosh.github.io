@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Inspiration Online'
+title: "Inspiration Online"
 date: 27-May-2014
 categories: tbd
 ---
@@ -9,7 +9,7 @@ categories: tbd
 
 ## 27th May 2014
 
-<p I'm feeling inspired by two creative,   thoughtful mothers today. Amanda from Soulemama posted <a href="http://www.soulemama.com/">these amazing pictures</a> of the house her nine-year old daughter built as a present for her three-year old sister. It made me think about how to encourage my kids to do more making,   and to think about what would make their siblings happy.</p>
+I'm feeling inspired by two creative,   thoughtful mothers today. Amanda from Soulemama posted <a href="http://www.soulemama.com/">these amazing pictures</a> of the house her nine-year old daughter built as a present for her three-year old sister. It made me think about how to encourage my kids to do more making,   and to think about what would make their siblings happy.
 
 Then Kate from Fox's Lane wrote <a href="http://foxslane.blogspot.com.au/2014/05/fire-feast-and-song.html#.U4QF6_mSyos">this gorgeous post </a>about an afternoon spent around a bonfire with her three daughters.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'this weeks post schedule'
+title: "this weeks post schedule"
 date: 24-Feb-2014
 categories: tbd
 ---

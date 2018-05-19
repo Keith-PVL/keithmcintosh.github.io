@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'In Which I Make A Dick Of Myself at The Theatre'
+title: "In Which I Make A Dick Of Myself at The Theatre"
 date: 19-Apr-2015
 categories: tbd
 ---

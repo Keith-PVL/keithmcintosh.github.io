@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sexism in tech'
+title: "Sexism in tech"
 date: 09-Sep-2013
 categories: tbd
 ---

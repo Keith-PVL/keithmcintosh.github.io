@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Recency Buck'
+title: "Recency Buck"
 date: 08-Jun-2014
 categories: tbd
 ---
@@ -17,7 +17,7 @@ This day could only be improved if a chaise dawn by four handsome chestnuts clat
 
 <blockquote>
 
-<p He was the epitome of a man of fashion. His beaver hat was set over black locks carefully brushed into a semblance of disorder; his cravat of starched muslin supported his chin in a series of beautiful folds; his driving-coat of drab cloth bore no less than fifteen capes, and a double row of silver buttons.</p>
+He was the epitome of a man of fashion. His beaver hat was set over black locks carefully brushed into a semblance of disorder; his cravat of starched muslin supported his chin in a series of beautiful folds; his driving-coat of drab cloth bore no less than fifteen capes, and a double row of silver buttons.
 
 </blockquote>
 

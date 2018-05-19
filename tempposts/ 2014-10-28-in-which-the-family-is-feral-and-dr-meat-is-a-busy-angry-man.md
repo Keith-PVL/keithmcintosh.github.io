@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'In Which The Family Is Feral and Dr Meat is a Busy, Angry Man'
+title: "In Which The Family Is Feral and Dr Meat is a Busy, Angry Man"
 date: 28-Oct-2014
 categories: tbd
 ---
@@ -13,7 +13,7 @@ Blog silence brought to you by man-flu,   sore backs,   towering laundry piles, 
 
 Here are K and I dressed as the Ugly Stepsisters for Peanuts book-themed 8th birthday party. I am channeling 'ugly' much more than Keith is and I'm not thrilled about it. I have a monobrow and a square head, whereas Keith just looks like a ritzy party girl who's probably wearing a lacy nylon g under his leopard skinnies, and a cheeky vajazzle under that.
 
-<p <img class="photo-horiz" src="https://scontent-b.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10353554_10152891184016869_7423485305997115724_n.jpg?oh=b1a7d60e4b5624e68639048464f0bfb7&amp;oe=54B30692" /></p>
+<img class="photo-horiz" src="https://scontent-b.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10353554_10152891184016869_7423485305997115724_n.jpg?oh=b1a7d60e4b5624e68639048464f0bfb7&amp;oe=54B30692" />
 
 Pudding's newest imaginary friend is Dr Meat. He's angry. He treats all her stuffed toys for ticks, but he doesn't like Cauliflower, because of how often she says 'poo poo'. I get it! Dr. Meat is a busy man. He can't be dealing with Cauliflowers naughty word bullshit when Peanut Butter, Dodo, Puppy and Olivia Dog just keep getting infested, over and over. Plus Dodo keeps having sleepovers at his office which I'm sure is against some sort of Health Department regulation.
 

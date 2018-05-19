@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bookshelf: A Sweet Look at Crazy Irish Catholics'
+title: "Bookshelf: A Sweet Look at Crazy Irish Catholics"
 date: 15-May-2014
 categories: tbd
 ---
@@ -9,9 +9,9 @@ categories: tbd
 
 ## 15th May 2014
 
-<p <img class="photo-horiz" src="/images/2014/05/152.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/05/152.jpg" />
 
-<p <a href="http://www.etsy.com/people/scottmarx?ref=ls_profile">The Conversation by Scott Muir</a></p>
+<a href="http://www.etsy.com/people/scottmarx?ref=ls_profile">The Conversation by Scott Muir</a>
 
 Recently I loved reading 'Me and Mine',   a memoir of life in 1950's London by Anna May Mangan. It was just a human joy-and-sadness injection, straight to the heart.
 

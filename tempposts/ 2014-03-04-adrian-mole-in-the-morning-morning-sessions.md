@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adrian Mole in the morning morning sessions'
+title: "Adrian Mole in the morning morning sessions"
 date: 04-Mar-2014
 categories: tbd
 ---

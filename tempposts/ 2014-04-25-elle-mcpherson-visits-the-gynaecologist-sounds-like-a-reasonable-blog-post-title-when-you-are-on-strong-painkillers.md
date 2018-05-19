@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Elle McPherson Visits The Gynaecologist Sounds Like A Reasonable Blog Post Title When You Are On Strong Painkillers'
+title: "Elle McPherson Visits The Gynaecologist Sounds Like A Reasonable Blog Post Title When You Are On Strong Painkillers"
 date: 25-Apr-2014
 categories: tbd
 ---

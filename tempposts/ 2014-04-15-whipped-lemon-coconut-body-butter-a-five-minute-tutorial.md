@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Whipped Lemon Coconut Body Butter: A Five-Minute Tutorial'
+title: "Whipped Lemon Coconut Body Butter: A Five-Minute Tutorial"
 date: 15-Apr-2014
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="/images/2014/04/20140415-174434.jpg" />
 
-<p (Seven-year-old presents to you her dirty nails and afternoon pajamas and says 'Hooray for school holidays!')</p>
+(Seven-year-old presents to you her dirty nails and afternoon pajamas and says 'Hooray for school holidays!')
 
 Och aye,   I'm tired of whinging.  Let me pull focus to something creative and lovely instead: a recipe for this beautiful,   simple moisturiser.  I made a batch for all my sisters last Christmas, and since then,  have whipped up a new pot every month or two. It takes only minutes to pull together, and the final result is very pleasing. As in, your old bones might still hurt, but at least they smell nice.
 

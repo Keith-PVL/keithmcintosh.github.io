@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shaking My Sooty Thing In The Dusthole'
+title: "Shaking My Sooty Thing In The Dusthole"
 date: 24-Oct-2013
 categories: tbd
 ---
@@ -17,7 +17,7 @@ I suspect I'm like lots of people in that I love my nest to be sparkly, welcomin
 
  
 
-<p  <img class="photo-horiz" src="/images/2013/10/4WScDl-300x300.jpg" /></p>
+ <img class="photo-horiz" src="/images/2013/10/4WScDl-300x300.jpg" />
 
  
 
@@ -33,9 +33,9 @@ A typical day for Hannah, unusual only in that she managed a bath, unlike most d
 
 <img class="photo-horiz" src="/images/2013/10/Hannah-cleaning-the-grate.jpg" />
 
-<p <a href="http://writingwomenshistory.blogspot.com.au/2010/06/hannah-cullwicks-stolen-love.html">(image source)</a></p>
+<a href="http://writingwomenshistory.blogspot.com.au/2010/06/hannah-cullwicks-stolen-love.html">(image source)</a>
 
-<p First thought: God, what a soft, middle class fanny I am. I would not last a second in the nineteenth century.</p>
+First thought: God, what a soft, middle class fanny I am. I would not last a second in the nineteenth century.
 
 Second thought: Why does 'shook my sooty thing in the dusthole' sound so filthy? God, I am so low-brow. I would not last a second in the nineteenth century.
 

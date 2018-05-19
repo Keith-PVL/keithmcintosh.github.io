@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Poo In The Bath, Secret Lovers and Other Snaphots Of This Moment'
+title: "Poo In The Bath, Secret Lovers and Other Snaphots Of This Moment"
 date: 04-Jun-2014
 categories: tbd
 ---
@@ -25,4 +25,4 @@ How I adore these three fully-formed, individual and interesting humans who live
 
 Vive le children!
 
-<h6>*this is not a euphemism for the white-wine-vinegar vinegar douche I give my lady garden every Saturday night. I promise never to be coy when I do get around to a full tutorial on this.</h6>
+*this is not a euphemism for the white-wine-vinegar vinegar douche I give my lady garden every Saturday night. I promise never to be coy when I do get around to a full tutorial on this.

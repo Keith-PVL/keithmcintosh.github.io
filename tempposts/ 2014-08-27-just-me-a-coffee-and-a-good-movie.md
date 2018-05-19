@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Just Me, A Coffee and A Good Movie'
+title: "Just Me, A Coffee and A Good Movie"
 date: 27-Aug-2014
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'modern motherhood - coaching replaces the playpen'
+title: "modern motherhood - coaching replaces the playpen"
 date: 06-Feb-2014
 categories: tbd
 ---

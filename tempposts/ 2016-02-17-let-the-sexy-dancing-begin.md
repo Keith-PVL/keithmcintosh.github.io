@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Let The Sexy Dancing Begin!'
+title: "Let The Sexy Dancing Begin!"
 date: 17-Feb-2016
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="http://1.bp.blogspot.com/-8mVtw6JLY6I/TYv_TL3_0pI/AAAAAAAAACI/DXuOJ8Uhvik/s1600/schoolgirllibrarian.jpg" />
 
-<h6 Model is reading Mary Wollstonecraft's iconic feminist tome A Vindication Of The Rights Of Women.</h6>
+Model is reading Mary Wollstonecraft's iconic feminist tome A Vindication Of The Rights Of Women.
 
  
 

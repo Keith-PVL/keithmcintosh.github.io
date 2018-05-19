@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Lounge At The Centre Of The Universe'
+title: "The Lounge At The Centre Of The Universe"
 date: 07-Nov-2013
 categories: tbd
 ---
@@ -13,7 +13,7 @@ categories: tbd
 
 <img class="photo-horiz" src="/images/2013/11/pgalleryelephant-family-in-africa-1024x615.jpg" />
 
-<p <a href="http://www.blackandwhitearethecolors.com/2012/08/africa-in-black-and-white/">(image source)</a></p>
+<a href="http://www.blackandwhitearethecolors.com/2012/08/africa-in-black-and-white/">(image source)</a>
 
 In the Big Room of our little house,   we have a big squashy couch that was bought as a wedding present. It was bought with the dream of holding lots of kids,   before they had all finished arriving. I think they have all finished arriving now.
 

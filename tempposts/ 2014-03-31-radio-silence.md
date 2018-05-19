@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Radio Silence'
+title: "Radio Silence"
 date: 31-Mar-2014
 categories: tbd
 ---

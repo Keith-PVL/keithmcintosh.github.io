@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bath Zen: Peace, Despite The Pong'
+title: "Bath Zen: Peace, Despite The Pong"
 date: 12-Mar-2014
 categories: tbd
 ---
@@ -9,9 +9,9 @@ categories: tbd
 
 ## 12th March 2014
 
-<p <img class="photo-horiz" src="/images/2014/03/Marilyn-Monroe-The-Seven-Year-Itch-1955.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/03/Marilyn-Monroe-The-Seven-Year-Itch-1955.jpg" />
 
-<p **Marilyn Monroe from “The Seven Year Itch” (1955 – 20th Century Fox)**</p>
+**Marilyn Monroe from “The Seven Year Itch” (1955 – 20th Century Fox)**
 
 Life with three children under eight can be very busy and very noisy. Sometimes a mum needs a quiet space: a place to retreat,   to collect her thoughts,   and to eat slightly damp sandwiches.
 

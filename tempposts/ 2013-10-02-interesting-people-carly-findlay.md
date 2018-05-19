@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Interesting People: Carly Findlay'
+title: "Interesting People: Carly Findlay"
 date: 02-Oct-2013
 categories: tbd
 ---
@@ -43,7 +43,7 @@ Haha thank you! Five unrelated things: I have a cleaner - she comes once a fortn
 
 Thanks Carly!
 
-<p You can follow Carly's blog <a href="http://carlyfindlay.blogspot.com.au/">here</a>, find her on Facebook <a href="https://www.facebook.com/Tune.into.Radio.Carly">here</a>, on Twitter <a href="https://twitter.com/carlyfindlay">here</a>, or Instagram <a href="http://instagram.com/carlyfindlay">here. </a></p>
+You can follow Carly's blog <a href="http://carlyfindlay.blogspot.com.au/">here</a>, find her on Facebook <a href="https://www.facebook.com/Tune.into.Radio.Carly">here</a>, on Twitter <a href="https://twitter.com/carlyfindlay">here</a>, or Instagram <a href="http://instagram.com/carlyfindlay">here. </a>
 
  
 

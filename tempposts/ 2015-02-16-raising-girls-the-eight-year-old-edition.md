@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Raising Girls: The Eight Year Old Edition'
+title: "Raising Girls: The Eight Year Old Edition"
 date: 16-Feb-2015
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="http://th07.deviantart.net/fs39/PRE/f/2008/349/1/9/Vintage_cute_little_girl_by_MementoMori_stock.jpg" />
 
-<h6 <a href="http://mementomori-stock.deviantart.com/art/Vintage-cute-little-girl-106301503">(photo source)</a></h6>
+<a href="http://mementomori-stock.deviantart.com/art/Vintage-cute-little-girl-106301503">(photo source)</a>
 
 I have an eight-year old daughter,   and I am,   at times, finding parenting a rocky path lately.
 

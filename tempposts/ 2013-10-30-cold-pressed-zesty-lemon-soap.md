@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cold-Pressed Zesty Lemon Soap'
+title: "Cold-Pressed Zesty Lemon Soap"
 date: 30-Oct-2013
 categories: tbd
 ---

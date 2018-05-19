@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Freelee The Banana Girl: A Terrifying Rabbit Hole'
+title: "Freelee The Banana Girl: A Terrifying Rabbit Hole"
 date: 08-Apr-2015
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Go You! (In Which People Are Excellent, Funny, And Take No Crap)'
+title: "Go You! (In Which People Are Excellent, Funny, And Take No Crap)"
 date: 11-Nov-2014
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="http://theamazingpeople.com/wp-content/uploads/2014/08/Winnie-the-Welder-working-in-a-shipyard-in-1943..png" />
 
-<h6 <a href="http://theamazingpeople.com/people/empowering-photos-of-women-making-history/attachment/winnie-the-welder-working-in-a-shipyard-in-1943/">Winnie the Welder,   1943</a></h6>
+<a href="http://theamazingpeople.com/people/empowering-photos-of-women-making-history/attachment/winnie-the-welder-working-in-a-shipyard-in-1943/">Winnie the Welder,   1943</a>
 
 Beautiful and talented Lorde says her spottty teenage skin is <a href="http://www.news.com.au/entertainment/music/lorde-shares-beforeandafter-photoshop-pics-flaws-are-ok/story-e6frfn09-1226869949678">just fine,   thanks. </a>
 

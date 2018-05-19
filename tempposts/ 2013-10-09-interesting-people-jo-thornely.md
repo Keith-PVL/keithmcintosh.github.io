@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Interesting People: Jo Thornely'
+title: "Interesting People: Jo Thornely"
 date: 09-Oct-2013
 categories: tbd
 ---

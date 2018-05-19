@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'on thought experiments:'
+title: "on thought experiments:"
 date: 15-Sep-2013
 categories: tbd
 ---

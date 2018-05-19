@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sex Tips From History: Masters and Johnson'
+title: "Sex Tips From History: Masters and Johnson"
 date: 03-Sep-2014
 categories: tbd
 ---
@@ -15,7 +15,7 @@ There’s a recent HBO series about their life and work called Masters Of Sex (t
 
 Much of the research the pair undertook was through direct observation of thousands of sexual episodes – from masturbation to intercourse. Watching 382 female and 312 male volunteers over nearly a decade, they amassed huge amounts of data that exploded many long-held myths and misconceptions about sexual behaviour. Their methods and findings were astonishing and shocking, set as they were against the prudish conservatism of the 1950’s.
 
-<p <img class="photo-horiz" src="http://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/26/d2605cc3-8a12-5086-a37c-a5282543b4d4/524474ef553fc.preview-620.jpg" /></p>
+<img class="photo-horiz" src="http://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/26/d2605cc3-8a12-5086-a37c-a5282543b4d4/524474ef553fc.preview-620.jpg" />
 
 Masters and Johnson were the first to map a general framework of sex: their ‘four stages’ of intercourse. They observed and described an excitement phase of initial arousal, a plateau phase, orgasm and a resolution phase. They filmed and studied the nature of female orgasm (debunking the Freudian myth of ‘mature’ and ‘immature’ orgasm), examined sexual function in older people, looked - to a limited extent  - at homosexual sexuality, and tried to unpack the nature of sexual dysfunction.
 
@@ -27,7 +27,7 @@ After a time, Masters and Johnson began using themselves as subjects in their re
 
 Virginia Johnson is, for me, the most interesting character in this story. A beautiful and charismatic woman, she is fiercely intelligent and although not a medical doctor, an indispensable partner in Masters research. A woman who made the most of the restrictive time and culture she lived in, and eventually produced a major body of scientific work.
 
-<p <img class="photo-horiz" src="http://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/b5/fb53d289-4657-55b8-ba40-530e2d281895/524474f04efb2.preview-620.jpg" /></p>
+<img class="photo-horiz" src="http://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/b5/fb53d289-4657-55b8-ba40-530e2d281895/524474f04efb2.preview-620.jpg" />
 
 You could not invent the rollicking tale of Masters and Johnson. It's a great read, and if you'd like a little historical sauciness as you do the washing-up, you can listen to an interesting interview with the author Bill Maier on the NPR program Fresh Air <a href="http://www.npr.org/2013/10/04/228906644/pioneering-masters-of-sex-brought-science-to-the-bedroom">here. </a>
 

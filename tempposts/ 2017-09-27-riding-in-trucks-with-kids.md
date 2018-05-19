@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Riding In Trucks With Kids'
+title: "Riding In Trucks With Kids"
 date: 27-Sep-2017
 categories: tbd
 ---

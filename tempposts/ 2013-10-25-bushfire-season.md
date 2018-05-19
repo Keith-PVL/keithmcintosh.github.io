@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bushfire Season'
+title: "Bushfire Season"
 date: 25-Oct-2013
 categories: tbd
 ---
@@ -27,8 +27,8 @@ At times like these I am reminded of that notion said to help explain disaster s
 
 <blockquote>
 
-<p <a href="http://www.smh.com.au/nsw/photo-of-exhausted-firefighters-goes-viral-20131020-2vuz9.html">(image source)</a></p>
+<a href="http://www.smh.com.au/nsw/photo-of-exhausted-firefighters-goes-viral-20131020-2vuz9.html">(image source)</a>
 
-<p I am so proud of Amy, and grateful to all these men and women. Thank you, thank you, thank you.</p>
+I am so proud of Amy, and grateful to all these men and women. Thank you, thank you, thank you.
 
 </blockquote>

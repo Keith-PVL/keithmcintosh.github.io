@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reading Fiction Will Help Children Develop Empathy'
+title: "Reading Fiction Will Help Children Develop Empathy"
 date: 24-Feb-2014
 categories: tbd
 ---
@@ -9,9 +9,9 @@ categories: tbd
 
 ## 24th February 2014
 
-<p <img class="photo-horiz" src="/images/2014/02/IMG_15491-e1393209639122-764x1024.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/02/IMG_15491-e1393209639122-764x1024.jpg" />
 
-<p Pudding stretches for books just beyond her reach. I hope she continues that way.</p>
+Pudding stretches for books just beyond her reach. I hope she continues that way.
 
 Last year there was a<a href="http://www.scientificamerican.com/article/novel-finding-reading-literary-fiction-improves-empathy/"> research finding</a> that generated a bit of buzz. It said that reading fiction to children helped them to detect and understand the emotions of others.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Last Minute Fathers Day Present? The Kon-Tiki Expedition!'
+title: "Last Minute Fathers Day Present? The Kon-Tiki Expedition!"
 date: 04-Sep-2014
 categories: tbd
 ---
@@ -29,7 +29,7 @@ He moved his toes three bars up and went on reading Goethe unperturbed. Outside 
 
 This is such a great read. Funny, smart and an absolute classic of the adventure genre. Heyerdahl and his gang are the original and the best beardie-weirdies. .
 
-<p <img class="photo-horiz" src="http://theoceanvoyager.com/wp-content/uploads/2013/04/Thor+Heyerdahl+i+Kon-Tiki+1950.jpg" /></p>
+<img class="photo-horiz" src="http://theoceanvoyager.com/wp-content/uploads/2013/04/Thor+Heyerdahl+i+Kon-Tiki+1950.jpg" />
 
 Such a great Fathers Day present, if you haven't picked anything up yet, or if you are totes organised for this weekend, a jump-start on Christmas!
 

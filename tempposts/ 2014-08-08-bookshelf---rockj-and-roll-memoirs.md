@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bookshelf - Rockj and Roll Memoirs'
+title: "Bookshelf - Rockj and Roll Memoirs"
 date: 08-Aug-2014
 categories: tbd
 ---

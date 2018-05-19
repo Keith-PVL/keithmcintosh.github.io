@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bottom-Of-The-Fridge Vegetable Soup'
+title: "Bottom-Of-The-Fridge Vegetable Soup"
 date: 18-Nov-2013
 categories: tbd
 ---
@@ -13,7 +13,7 @@ categories: tbd
 
 <img class="photo-horiz" src="/images/2013/09/6ece739840815a1252df9150b2a61b91.jpg" />
 
-<p (6 year-old Natalie Cook at the stove in 1944: <a href="http://wishflowers.tumblr.com/">source</a>)</p>
+(6 year-old Natalie Cook at the stove in 1944: <a href="http://wishflowers.tumblr.com/">source</a>)
 
 My happiest day in the kitchen is when my fortnightly vege box arrives,    full of beautiful seasonal fruit and veg with recipes to match. I get a ten minute catch-up with my gorgeous friend Mindy, who never fails to make me laugh, and then the kids unpack the box with me, snacking as they go.  I spend some delicious time planning the upcoming menu, deciding on what's going to go off first, and writing up the meals on my kitchen blackboard.
 

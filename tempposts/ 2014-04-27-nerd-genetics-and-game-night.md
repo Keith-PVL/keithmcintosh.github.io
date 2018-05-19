@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nerd Genetics And Game Night'
+title: "Nerd Genetics And Game Night"
 date: 27-Apr-2014
 categories: tbd
 ---
@@ -9,11 +9,11 @@ categories: tbd
 
 ## 27th April 2014
 
-<p <img class="photo-horiz" src="/images/2014/04/unnamed-2.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/04/unnamed-2.jpg" />
 
-<p This letter is probably written by Australian chess grand-master Cecil Purdy,   and describes playing against Keith's philosopher grandfather Gauius. From the Melbourne Library archives.</p>
+This letter is probably written by Australian chess grand-master Cecil Purdy,   and describes playing against Keith's philosopher grandfather Gauius. From the Melbourne Library archives.
 
-<p **This post was first published in Practical Parenting Magazine, March 2014**</p>
+**This post was first published in Practical Parenting Magazine, March 2014**
 
  Friends, I’ve come to realise that it is only a matter of time before I am outsmarted, outwitted and out -classed by the card sharks in my house. It appears my husband Keith has been enacting a secret plan to raise the children into high-level game nerds, and recently, he took his education program to a new level of geek genius. Last week he taught seven year old Peanut and five year old T-Bone how to make an Excel spreadsheet of their Monopoly moves so they could understand the game statistically, and strategise accordingly.
 

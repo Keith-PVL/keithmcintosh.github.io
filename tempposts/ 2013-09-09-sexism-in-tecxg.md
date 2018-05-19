@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sexism in tecxg'
+title: "Sexism in tecxg"
 date: 09-Sep-2013
 categories: tbd
 ---

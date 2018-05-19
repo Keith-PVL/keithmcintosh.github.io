@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dinner Table Dreams'
+title: "Dinner Table Dreams"
 date: 25-May-2014
 categories: tbd
 ---
@@ -9,9 +9,9 @@ categories: tbd
 
 ## 25th May 2014
 
-<p Have you had a good weekend? We've been out in the garden,   out on the river,   pottering about. Keith is home from a trip away, the weather has been glorious and and life feels sweet.  Tonight, we all watched The Voice and then my seven year old and I gave Babooshka our best shot in a no-holds-barred, take-no-prisoners, hold-the-power-note  sing-off.  Even when the five year old climbed on the couch-stage and pretended to be a zombie eating our brains we did not break the fourth wall. Because we are **professional** **cheeseburgers**. It was the best way to end a gorgeous weekend.  I hope things are well for you too.</p>
+Have you had a good weekend? We've been out in the garden,   out on the river,   pottering about. Keith is home from a trip away, the weather has been glorious and and life feels sweet.  Tonight, we all watched The Voice and then my seven year old and I gave Babooshka our best shot in a no-holds-barred, take-no-prisoners, hold-the-power-note  sing-off.  Even when the five year old climbed on the couch-stage and pretended to be a zombie eating our brains we did not break the fourth wall. Because we are **professional** **cheeseburgers**. It was the best way to end a gorgeous weekend.  I hope things are well for you too.
 
-<p **This following post was originally published in Practical Parenting Magazine, April 2014**</p>
+**This following post was originally published in Practical Parenting Magazine, April 2014**
 
 I have a dream. At times it feels like a hopeless fantasy that I cling to like a toddler hugs a stinky bear, but it’s my dream, and I’m very attached to it. It’s the dream of Family Dinner.
 

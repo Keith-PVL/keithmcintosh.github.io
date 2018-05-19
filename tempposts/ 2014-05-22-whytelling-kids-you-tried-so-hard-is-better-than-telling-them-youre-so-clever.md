@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WhyTelling Kids 'You Tried So Hard' Is Better Than Telling Them 'You're So Clever''
+title: "WhyTelling Kids 'You Tried So Hard' Is Better Than Telling Them 'You're So Clever'"
 date: 22-May-2014
 categories: tbd
 ---
@@ -11,9 +11,9 @@ categories: tbd
 
 <img class="photo-horiz" src="/images/2014/05/SHORPY_5a41797u.preview.jpg" />
 
-<p Washington,   D.C.,   circa 1940. "Ernest Kendall,   teacher of U.S. Capitol pages." Note old-school schoolboy mischief.</p>
+Washington,   D.C.,   circa 1940. "Ernest Kendall,   teacher of U.S. Capitol pages." Note old-school schoolboy mischief.
 
-<p <a href="http://www.shorpy.com/node/16749">Photo by Theodor Horydczak.</a></p>
+<a href="http://www.shorpy.com/node/16749">Photo by Theodor Horydczak.</a>
 
 You know how every once in a while a piece of parenting advice filters its way through all the white noise and settles into an important space in your brain? Then you find yourself thinking about it? And then applying it to your life?
 

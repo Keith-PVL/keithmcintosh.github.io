@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'If It's Not One Thing, It's Your Mother'
+title: "If It's Not One Thing, It's Your Mother"
 date: 30-Aug-2013
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="/images/2013/08/Sex-Education-Picture.jpg" />
 
-<p (<a href="http://blog.lib.umn.edu/puot0002/politicsofsex/2011/04/diablog-8-sex-ed-images.html">image source</a>)</p>
+(<a href="http://blog.lib.umn.edu/puot0002/politicsofsex/2011/04/diablog-8-sex-ed-images.html">image source</a>)
 
 Disclaimer: not my clever title. It's the title of a funny,   funny book by Julia Sweeney that I picked up at the library this week.
 

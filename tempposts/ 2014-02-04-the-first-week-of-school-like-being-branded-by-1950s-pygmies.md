@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The First Week Of School: Like Being Branded By 1950's Pygmies'
+title: "The First Week Of School: Like Being Branded By 1950's Pygmies"
 date: 04-Feb-2014
 categories: tbd
 ---

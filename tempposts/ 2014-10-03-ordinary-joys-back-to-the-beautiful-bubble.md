@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ordinary Joys (Back To The Beautiful Bubble)'
+title: "Ordinary Joys (Back To The Beautiful Bubble)"
 date: 03-Oct-2014
 categories: tbd
 ---
@@ -27,4 +27,4 @@ Maybe not.
 
 I like this poem by William Martin:
 
-<p ** <img class="photo-horiz" src="http://4.bp.blogspot.com/-fV8pRjAcQBI/UtwfrMAyXgI/AAAAAAAAO0g/pEZj4pEDVdM/s1600/484817_10152116263200490_402132175_n.jpg" />**</p>
+** <img class="photo-horiz" src="http://4.bp.blogspot.com/-fV8pRjAcQBI/UtwfrMAyXgI/AAAAAAAAO0g/pEZj4pEDVdM/s1600/484817_10152116263200490_402132175_n.jpg" />**

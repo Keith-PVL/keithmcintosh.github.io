@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Mouths Of Babes'
+title: "The Mouths Of Babes"
 date: 29-Oct-2013
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="/images/2013/10/tumblr_ls95upfnyo1qam69ro1_500_large.jpg" />
 
-<p <a href="http://roseetjules.wordpress.com/tag/vintage/">(image source)</a></p>
+<a href="http://roseetjules.wordpress.com/tag/vintage/">(image source)</a>
 
 This week:
 

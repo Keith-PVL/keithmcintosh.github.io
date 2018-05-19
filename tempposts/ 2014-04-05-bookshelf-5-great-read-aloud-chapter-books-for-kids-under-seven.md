@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bookshelf: 5 Great Read-Aloud Chapter Books For Kids Under Seven'
+title: "Bookshelf: 5 Great Read-Aloud Chapter Books For Kids Under Seven"
 date: 05-Apr-2014
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="/images/2014/04/stein.jpg" />
 
-<p Fred Stein,   **Children Reading Newspaper**, Paris, 1936.</p>
+Fred Stein,   **Children Reading Newspaper**, Paris, 1936.
 
 Research shows that reading aloud to kids from birth supports their language development and literacy skills. It also helps foster a love of reading, which is, in my opinion, a great gift, and can also be a factor in future academic success.
 

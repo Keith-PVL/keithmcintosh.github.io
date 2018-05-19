@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sex Tips From The Past: Sexual Positions, For Mediaevalists or Modern Multi-Taskers'
+title: "Sex Tips From The Past: Sexual Positions, For Mediaevalists or Modern Multi-Taskers"
 date: 21-Aug-2014
 categories: tbd
 ---
@@ -41,17 +41,17 @@ Missing, in my opinion, the common positions 'Wait, Did You Hear That Noise?', '
 
 But, prego, allora,  if you have a busy week ahead, here are some brilliant ways to multi-task getting on the job with, um,  getting on with the job. (Cartoons found <a href="http://www.break.com/article/funny-kama-sutra-cartoon-positions-2611554">here</a>.)
 
-<p The Yardwork Position</p>
+The Yardwork Position
 
-<p <img class="photo-horiz" src="http://media1.break.com/dnet/media/555/611/2611555/a4ac5f12-03c7-4f53-8bf0-cff3c8db67d1.jpg" /></p>
+<img class="photo-horiz" src="http://media1.break.com/dnet/media/555/611/2611555/a4ac5f12-03c7-4f53-8bf0-cff3c8db67d1.jpg" />
 
-<p The Good Food Mood</p>
+The Good Food Mood
 
 <img class="photo-horiz" src="http://media1.break.com/dnet/media/557/611/2611557/0b8d4f70-ce41-4f59-8961-e7bdb4f58ee6.jpg" />
 
  
 
-<p And finally, one I'd like to send out to my dear friend <a href="http://shellity.blogspot.com.au/">Shelley</a>: The Doing Your Taxes</p>
+And finally, one I'd like to send out to my dear friend <a href="http://shellity.blogspot.com.au/">Shelley</a>: The Doing Your Taxes
 
 <img class="photo-horiz" src="http://media1.break.com/dnet/media/562/611/2611562/bb82e9d4-e495-468b-aba1-206091f71e93.jpg" />
 

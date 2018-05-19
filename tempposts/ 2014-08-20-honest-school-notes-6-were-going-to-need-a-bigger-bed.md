@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Honest School Notes #6 (We're Going to Need A Bigger Bed)'
+title: "Honest School Notes #6 (We're Going to Need A Bigger Bed)"
 date: 20-Aug-2014
 categories: tbd
 ---

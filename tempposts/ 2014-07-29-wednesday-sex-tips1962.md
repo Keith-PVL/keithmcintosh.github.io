@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wednesday Sex Tips:1962'
+title: "Wednesday Sex Tips:1962"
 date: 29-Jul-2014
 categories: tbd
 ---

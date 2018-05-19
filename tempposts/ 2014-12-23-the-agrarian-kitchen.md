@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Agrarian Kitchen'
+title: "The Agrarian Kitchen"
 date: 23-Dec-2014
 categories: tbd
 ---
@@ -9,7 +9,7 @@ categories: tbd
 
 ## 23rd December 2014
 
-<p **Disclosure: I visited the Agrarian Kitchen as a guest of Rodney and Severine,   but all opinions are my own.**</p>
+**Disclosure: I visited the Agrarian Kitchen as a guest of Rodney and Severine,   but all opinions are my own.**
 
 Be prepared: visiting the  Agrarian Kitchen might involve a stabbing, painful case of the Life Envies. If you love kitchen gardens - this is the garden you would have in our dreams. If you love cookbooks - this is the cookbook collection you would have. And if you like to cook, this is the kitchen you would spend your days in.
 

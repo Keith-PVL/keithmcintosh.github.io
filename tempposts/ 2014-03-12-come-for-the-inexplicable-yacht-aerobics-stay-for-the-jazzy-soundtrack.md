@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Come for the Inexplicable Yacht Aerobics Stay for the Jazzy Soundtrack'
+title: "Come for the Inexplicable Yacht Aerobics Stay for the Jazzy Soundtrack"
 date: 12-Mar-2014
 categories: tbd
 ---

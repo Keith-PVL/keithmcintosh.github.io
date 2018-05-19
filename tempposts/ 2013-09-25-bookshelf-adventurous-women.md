@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bookshelf: adventurous women'
+title: "Bookshelf: adventurous women"
 date: 25-Sep-2013
 categories: tbd
 ---

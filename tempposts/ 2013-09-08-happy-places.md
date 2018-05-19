@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Happy Places'
+title: "Happy Places"
 date: 08-Sep-2013
 categories: tbd
 ---
@@ -17,7 +17,7 @@ I'll tell you anyway.
 
 First and foremost: Antibiotics! What ho modern medicine huzzah!  We've been sick for what feels like months,   to greater and lesser degrees of snot and vomit,    but this last week things took a turn for the wurst when the K-Dog's flu spiralled suddenly into pneumonia. He's recovering now,   but it slammed him down like a boss, and frightened the cheese out of me. Four of the five of us are on antibiotics now, the big guns,  and I am keen to begin repairing our immune systems, fattening up my poor depleted crew, and getting to the bottom of the stinky washing basket.
 
-<p <img class="photo-horiz" src="/images/2013/09/BSvOPmVCMAAjsmQ.jpg" /><a href="https://twitter.com/VintageWTF/status/372618161629036544/photo/1">source</a></p>
+<img class="photo-horiz" src="/images/2013/09/BSvOPmVCMAAjsmQ.jpg" /><a href="https://twitter.com/VintageWTF/status/372618161629036544/photo/1">source</a>
 
 Silver linings: dinner deliveries  from loving friends and best-mums-in-world. If you don't need help, you don't get the chance to realise how lovely your people are. Well, hey, thanks, influenza!
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'From Blog To Cookbook: Tori Haschka from Eatori'
+title: "From Blog To Cookbook: Tori Haschka from Eatori"
 date: 28-May-2014
 categories: tbd
 ---

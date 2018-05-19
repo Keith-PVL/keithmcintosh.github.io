@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Come for the Yacht Aerobics Stay for the Jazzy Soundtrack'
+title: "Come for the Yacht Aerobics Stay for the Jazzy Soundtrack"
 date: 13-Mar-2014
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'On Wednesday'
+title: "On Wednesday"
 date: 23-Jul-2014
 categories: tbd
 ---
@@ -13,7 +13,7 @@ categories: tbd
 
 
 
-<h6 Actress Constance Collier models my  hairstyle and facial expression.</h6>
+Actress Constance Collier models my  hairstyle and facial expression.
 
 <div I wrote the passage below a couple of years ago. It talks (whinges? complains? bah humbug semantics!)  about my Wednesday writing day.
 

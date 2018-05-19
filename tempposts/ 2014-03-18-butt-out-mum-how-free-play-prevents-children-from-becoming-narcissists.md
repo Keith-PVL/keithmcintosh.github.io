@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Butt Out, Mum: How Free Play Prevents Children From Becoming Narcissists'
+title: "Butt Out, Mum: How Free Play Prevents Children From Becoming Narcissists"
 date: 18-Mar-2014
 categories: tbd
 ---
@@ -9,21 +9,21 @@ categories: tbd
 
 ## 18th March 2014
 
-<p <img class="photo-horiz" src="/images/2014/03/color012.sJPG_950_2000_0_75_0_50_50.jpg" />
+<img class="photo-horiz" src="/images/2014/03/color012.sJPG_950_2000_0_75_0_50_50.jpg" />
 
-<a href="http://extras.denverpost.com/archive/captured.html">Photographs At the Vermont state fair. Rutland,   Vermont,   September 1941. Reproduction from color slide. Photo by Jack Delano. Prints and Division,   Library of Congr</a>ess</p>
+<a href="http://extras.denverpost.com/archive/captured.html">Photographs At the Vermont state fair. Rutland,   Vermont,   September 1941. Reproduction from color slide. Photo by Jack Delano. Prints and Division,   Library of Congr</a>ess
 
-<p <span As is the way with little girls,  there were a few rumblings in the Year 2 friendship circle recently.  I had this brilliant idea that since one of our circle of mums is a child psychologist, it would be a really great and lovely notion to have a session with the girls; gently chaired by this kindly mum, where they played a few 'conflict-resolution' and 'trust' games...work-shopped some strategies on dealing with friendship. Talked it through! Hugged it out! I</span> am hesitant to say that i may even have used the phrase 'so that they are all on the same page'.</p>
+<span As is the way with little girls,  there were a few rumblings in the Year 2 friendship circle recently.  I had this brilliant idea that since one of our circle of mums is a child psychologist, it would be a really great and lovely notion to have a session with the girls; gently chaired by this kindly mum, where they played a few 'conflict-resolution' and 'trust' games...work-shopped some strategies on dealing with friendship. Talked it through! Hugged it out! I</span> am hesitant to say that i may even have used the phrase 'so that they are all on the same page'.
 
-<p I sent off the group email, with my usual Labradoodle enthusiasm, and then Keith happened to walk in. Listen to this wonderful idea I just had! I said, and then I watched his face assume the slightly pained look I am sadly familiar with. Gently, he pointed out that it was perhaps important for children to figure these things out in the anarchic tumble of the playground, without the structured 'process' of my nurturing educational  workshop. That in fact the rough justice of the schoolyard was probably important to help knock the edges off.</p>
+I sent off the group email, with my usual Labradoodle enthusiasm, and then Keith happened to walk in. Listen to this wonderful idea I just had! I said, and then I watched his face assume the slightly pained look I am sadly familiar with. Gently, he pointed out that it was perhaps important for children to figure these things out in the anarchic tumble of the playground, without the structured 'process' of my nurturing educational  workshop. That in fact the rough justice of the schoolyard was probably important to help knock the edges off.
 
-<p He may or may not have used the phrase 'helicopter parent'. This seemed unfair until I reflected that calling in a professional psychology team at the first sign of perfectly natural emotional growth in a bunch of seven year old's was possibly an overreaction. Oopsy! Chalk that one up to another parenting lesson for me!</p>
+He may or may not have used the phrase 'helicopter parent'. This seemed unfair until I reflected that calling in a professional psychology team at the first sign of perfectly natural emotional growth in a bunch of seven year old's was possibly an overreaction. Oopsy! Chalk that one up to another parenting lesson for me!
 
-<p I thought about it again today, when I read this <a href="http://www.dailymail.co.uk/sciencetech/article-2582334/Mollycoddled-kids-grow-narcissists-Psychologist-warns-growth-play-dates-supervised-adults-creating-generation-children-empathise.html">very interesting piece</a> on the importance of free, unsupervised play. Empathy is born from the developing understanding of life as lived by other people, says Dr Peter Gray, and the growing popularity of 'play dates', where adults are quick to step in and solve problems,  stops children from figuring out how to negotiate and figure things out for themselves.</p>
+I thought about it again today, when I read this <a href="http://www.dailymail.co.uk/sciencetech/article-2582334/Mollycoddled-kids-grow-narcissists-Psychologist-warns-growth-play-dates-supervised-adults-creating-generation-children-empathise.html">very interesting piece</a> on the importance of free, unsupervised play. Empathy is born from the developing understanding of life as lived by other people, says Dr Peter Gray, and the growing popularity of 'play dates', where adults are quick to step in and solve problems,  stops children from figuring out how to negotiate and figure things out for themselves.
 
 <blockquote>
 
-<p ‘By definition, free play is an activity that any player is free to quit at any time. Children know that. Their very strong drive to play leads them to behave in ways that reduces the chance that the others will quit, and that means paying attention to the others’ needs and wishes,’ he said.</p>
+‘By definition, free play is an activity that any player is free to quit at any time. Children know that. Their very strong drive to play leads them to behave in ways that reduces the chance that the others will quit, and that means paying attention to the others’ needs and wishes,’ he said.
 
 ‘To play with other children you must please them as well as yourself, and that means that you have to get into the others’ heads and figure out what they like and don’t like.
 

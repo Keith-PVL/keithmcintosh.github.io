@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Modern Parenting: A Guide To Subcultures'
+title: "Modern Parenting: A Guide To Subcultures"
 date: 16-Sep-2013
 categories: tbd
 ---
@@ -17,7 +17,7 @@ It's a big-batch cooking community for parents,   and it's a fabulous world of f
 
 <img class="photo-horiz" src="/images/2013/09/tumblr_liecgfgj831qegy8do1_500-228x300.jpg" />
 
-<p (<a href="http://vintagegal.tumblr.com/post/9988559073">image source</a>)</p>
+(<a href="http://vintagegal.tumblr.com/post/9988559073">image source</a>)
 
 So you are a human with genitals and you've decided to replicate yourself? Well, congratulations! Not only is the reproduction process fun, at the end you get to keep an actual adorable baby.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'An Explanation For That Dress That Broke The Internet'
+title: "An Explanation For That Dress That Broke The Internet"
 date: 27-Feb-2015
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'on being a pemanent patient'
+title: "on being a pemanent patient"
 date: 28-Oct-2013
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Keep Calm and Show Compassion'
+title: "Keep Calm and Show Compassion"
 date: 20-Dec-2014
 categories: tbd
 ---
@@ -11,7 +11,7 @@ categories: tbd
 
 <img class="photo-horiz" src="https://booknvolume.files.wordpress.com/2014/11/compassion_2.jpg" />
 
-<p On this awfully sad day,   at the end of a sad week,   it was perhaps not the best moment to finally read the last chapters of Seven Little Australians to my biggest Peanut. I cried so much when Judy died, I had to keep wiping my face on my dress, and I kept thinking about all the children - in Pakistan, in Queensland, the three left motherless in Sydney... I'm moved by the outpouring of love in Sydney expressed by that sea of flowers, I love #illridewithyou but I'm heartsick so this week, rocked by the fact  that so much suffering has been enacted on children.</p>
+On this awfully sad day,   at the end of a sad week,   it was perhaps not the best moment to finally read the last chapters of Seven Little Australians to my biggest Peanut. I cried so much when Judy died, I had to keep wiping my face on my dress, and I kept thinking about all the children - in Pakistan, in Queensland, the three left motherless in Sydney... I'm moved by the outpouring of love in Sydney expressed by that sea of flowers, I love #illridewithyou but I'm heartsick so this week, rocked by the fact  that so much suffering has been enacted on children.
 
 It was a good day to come across a TED Radio Hour special on compassion, and particularly these words from Krista Tippet, host of the podcast <a href="http://onbeing.org/">'On Meaning'.</a>
 

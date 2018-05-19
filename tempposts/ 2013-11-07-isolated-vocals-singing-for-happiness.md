@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'isolated vocals; SINGING FOR HAPPINESS'
+title: "isolated vocals; SINGING FOR HAPPINESS"
 date: 07-Nov-2013
 categories: tbd
 ---

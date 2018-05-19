@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Miranda Kerr, Bearded, Finds Pleasure 'AloneAnd Together''
+title: "Miranda Kerr, Bearded, Finds Pleasure 'AloneAnd Together'"
 date: 07-Apr-2014
 categories: tbd
 ---

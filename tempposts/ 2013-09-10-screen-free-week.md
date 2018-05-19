@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Screen Free Week'
+title: "Screen Free Week"
 date: 10-Sep-2013
 categories: tbd
 ---
@@ -9,7 +9,7 @@ categories: tbd
 
 ## 10th September 2013
 
-<p This post originally appeared in Practical Parenting Magazine,   July 2013</p>
+This post originally appeared in Practical Parenting Magazine,   July 2013
 
 <img class="photo-horiz" src="/images/2013/09/tumblr_m5mobiIXiP1qa60tro1_500.jpg" />
 

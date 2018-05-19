@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Don't Nipple-Cripple A Lady When She's Down'
+title: "Don't Nipple-Cripple A Lady When She's Down"
 date: 08-Oct-2013
 categories: tbd
 ---
@@ -37,6 +37,6 @@ Single mums: my deepest respect to  you.  You for President!
 
 But K: Come home quickly. We really need you around here.
 
-<p  <img class="photo-horiz" src="/images/2013/10/1gorgeouscouple-238x300.jpg" /></p>
+ <img class="photo-horiz" src="/images/2013/10/1gorgeouscouple-238x300.jpg" />
 
  

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Letter To My Car'
+title: "Letter To My Car"
 date: 05-Feb-2016
 categories: tbd
 ---
@@ -11,11 +11,11 @@ categories: tbd
 
 <img class="photo-horiz" src="http://envisioningtheamericandream.files.wordpress.com/2012/10/car-chrysler-forward-58-swscan07644-copy-copy.jpg?w=400&amp;h=350" />
 
-<h6 Jump in,   kids! Time to go to BiLo again! #blessed!</h6>
+Jump in,   kids! Time to go to BiLo again! #blessed!
 
  
 
-<p This column was originally published in Practical Parenting Magazine,   January 2016</p>
+This column was originally published in Practical Parenting Magazine,   January 2016
 
 Dear Car,
 

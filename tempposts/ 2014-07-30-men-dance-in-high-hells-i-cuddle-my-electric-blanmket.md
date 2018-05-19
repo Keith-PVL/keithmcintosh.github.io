@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Men Dance In High Hells, I cuddle My Electric Blanmket'
+title: "Men Dance In High Hells, I cuddle My Electric Blanmket"
 date: 30-Jul-2014
 categories: tbd
 ---

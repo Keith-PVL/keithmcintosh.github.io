@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helping Kids Wh Struggle At School'
+title: "Helping Kids Wh Struggle At School"
 date: 27-Feb-2014
 categories: tbd
 ---

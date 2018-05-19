@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Sunday Night Thought Experiment'
+title: "A Sunday Night Thought Experiment"
 date: 16-Sep-2013
 categories: tbd
 ---

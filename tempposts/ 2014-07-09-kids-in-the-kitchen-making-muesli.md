@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kids in The Kitchen: Making Muesli'
+title: "Kids in The Kitchen: Making Muesli"
 date: 09-Jul-2014
 categories: tbd
 ---
@@ -9,7 +9,7 @@ categories: tbd
 
 ## 9th July 2014
 
-<p <img class="photo-horiz" src="/images/2014/05/IMG_1896-1024x1024.jpg" /></p>
+<img class="photo-horiz" src="/images/2014/05/IMG_1896-1024x1024.jpg" />
 
 Muesli (or granola) is such a great thing to make with the kids. It's all tipping stuff out of jars,   mixing and measuring, getting hands sticky. Excellent fun. Hard to bugger up. And although the cleanup can be epic,   the payoff is delicious. A weeks worth of yummy whole-food satisfaction.
 

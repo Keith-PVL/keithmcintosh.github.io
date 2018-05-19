@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The 'Lovely and Powerful Grief' Of Leaving A Relationship'
+title: "The 'Lovely and Powerful Grief' Of Leaving A Relationship"
 date: 12-Apr-2015
 categories: tbd
 ---

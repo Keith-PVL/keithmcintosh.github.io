@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sex Tips From The Past: Hair Like Heady Wine in 1936'
+title: "Sex Tips From The Past: Hair Like Heady Wine in 1936"
 date: 15-Oct-2014
 categories: tbd
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mayday! Mayday! The Monkeys Have Destroyed The Lab!'
+title: "Mayday! Mayday! The Monkeys Have Destroyed The Lab!"
 date: 16-Oct-2013
 categories: tbd
 ---
@@ -9,9 +9,9 @@ categories: tbd
 
 ## 16th October 2013
 
-<p This post was first published in Practical Parenting Magazine,   September 2013. I wish I could say that this last school holidays went better than usual,   but what with the lonely tears and the shouting and the measles, I fear that would be a terrible lie.</p>
+This post was first published in Practical Parenting Magazine,   September 2013. I wish I could say that this last school holidays went better than usual,   but what with the lonely tears and the shouting and the measles, I fear that would be a terrible lie.
 
-<p <img class="photo-horiz" src="/images/2013/10/6885b3eda18d7746dcd979a491ebc2ef.jpg" /></p>
+<img class="photo-horiz" src="/images/2013/10/6885b3eda18d7746dcd979a491ebc2ef.jpg" />
 
 Deep breath! The school holidays are upon me like a young Labrador, and I confess, I am not good at school holidays. I start off with the best of intentions; full of enthusiasm and plans for outings and craft and fun, and finish up shriek-weeping ‘Please, I am not a slave! And this is not a hotel!’ Basically I start as Justine Clarke and end as Roseanne Barr. It’s not a pretty transformation, but in my defense it is hard to stay warm, unruffled and nurturing when you have slipped on a piece of discarded toast and ended with Lego wedged painfully in a personal body area.
 

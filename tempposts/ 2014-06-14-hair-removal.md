@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'hair removal'
+title: "hair removal"
 date: 14-Jun-2014
 categories: tbd
 ---

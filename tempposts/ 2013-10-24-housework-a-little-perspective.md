@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Housework: A Little Perspective'
+title: "Housework: A Little Perspective"
 date: 24-Oct-2013
 categories: tbd
 ---
@@ -21,9 +21,9 @@ A typical day for Hannah, unusual only in that she managed a bath, unlike most d
 
 <img class="photo-horiz" src="/images/2013/10/Hannah-cleaning-the-grate.jpg" />
 
-<p <a href="http://writingwomenshistory.blogspot.com.au/2010/06/hannah-cullwicks-stolen-love.html">(image source)</a></p>
+<a href="http://writingwomenshistory.blogspot.com.au/2010/06/hannah-cullwicks-stolen-love.html">(image source)</a>
 
-<p First thought: God, what a soft, middle class fanny I am. I would not last a second in the nineteenth century.</p>
+First thought: God, what a soft, middle class fanny I am. I would not last a second in the nineteenth century.
 
 Second thought: Why does 'shook my sooty thing in the dusthole' sound so filthy? God, I am so low-brow. I would not last a second in the nineteenth century.
 

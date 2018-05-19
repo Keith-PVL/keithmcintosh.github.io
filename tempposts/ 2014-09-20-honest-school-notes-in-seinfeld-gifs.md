@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'honest school notes in seinfeld gifs'
+title: "honest school notes in seinfeld gifs"
 date: 20-Sep-2014
 categories: tbd
 ---

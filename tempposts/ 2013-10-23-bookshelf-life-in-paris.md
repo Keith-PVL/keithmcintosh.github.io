@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bookshelf: life In Paris'
+title: "Bookshelf: life In Paris"
 date: 23-Oct-2013
 categories: tbd
 ---

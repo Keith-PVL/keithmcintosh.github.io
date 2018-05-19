@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'One Woman Is Ashamed One Doctor Is Slightly Bizarre And One Dictionary Needs a Little Scrub Down'
+title: "One Woman Is Ashamed One Doctor Is Slightly Bizarre And One Dictionary Needs a Little Scrub Down"
 date: 18-Oct-2013
 categories: tbd
 ---

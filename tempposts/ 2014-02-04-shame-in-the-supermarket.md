@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'shame in the supermarket'
+title: "shame in the supermarket"
 date: 04-Feb-2014
 categories: tbd
 ---
