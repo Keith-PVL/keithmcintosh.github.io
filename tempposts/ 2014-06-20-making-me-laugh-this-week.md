@@ -11,7 +11,7 @@ categories: tbd
 
 This comments section <a href="http://theconcourse.deadspin.com/rainbow-cake-recipe-inspires-comment-apocalypse-1592575661/+Jessica?utm_content=buffer533f8&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer">made me laugh. </a>
 
-Celebrities reading their mean tweets <a href="https://www.youtube.com/watch?v=imW392e6XR0&amp;feature=kp">made me laugh. </a>
+Celebrities reading their mean tweets <a href="<iframe src='https://www.youtube.com/embed/imW392e6XR0' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>&amp;feature=kp">made me laugh. </a>
 
 Mrs Woog <a href="http://www.woogsworld.com/2014/06/wear-gym-clothes-public.html">made me laugh</a>.
 

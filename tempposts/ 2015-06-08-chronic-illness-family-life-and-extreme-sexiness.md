@@ -59,6 +59,6 @@ Finally, my apologies but the bit in the  title about Extreme Sexiness is a lie
 
 I do feel bad about not putting out for you though. You want sexy, here's Rod Stewart. Don't say I never gave you nothing.
 
-https://www.youtube.com/watch?v=IZr6AE-u2UM
+<iframe src='https://www.youtube.com/embed/IZr6AE-u2UM' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
  

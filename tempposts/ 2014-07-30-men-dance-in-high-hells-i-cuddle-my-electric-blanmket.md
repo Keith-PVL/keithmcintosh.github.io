@@ -9,7 +9,7 @@ categories: tbd
 
 ## 30th July 2014
 
-https://www.youtube.com/watch?v=kc17H68IKMs
+<iframe src='https://www.youtube.com/embed/kc17H68IKMs' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 aunty flo.
 

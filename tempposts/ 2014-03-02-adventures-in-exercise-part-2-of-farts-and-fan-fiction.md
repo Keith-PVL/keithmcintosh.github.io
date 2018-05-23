@@ -13,7 +13,7 @@ categories: tbd
 
 Recently I shared <a href="http://mogantosh.com/adventures-in-exercise-part-1/">my Pilates experiences</a><span  with you. </span> Today,   we're off to the yoga studio for some more core-strengthening,  shame and humiliation. But first: a little Prancercise, extra camel toe at no added cost.  Why ever not?
 
-https://www.youtube.com/watch?v=o-50GjySwew
+<iframe src='https://www.youtube.com/embed/o-50GjySwew' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 Last month, I started telling you all about my adventures in exercise. Like many mums, I’ve struggled to keep fit after having babies, and in particular, back pain is a problem for me.  Last time, we talked Pilates. I’m sorry to remind you of how I lowered the tone of this magazine by describing how Pilates did not particularly help to strengthen my core muscles, but my constant struggles not to fart in class ensured that my sphincter could snap a pencil.
 

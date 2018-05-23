@@ -33,8 +33,8 @@ This<a href="http://jezebel.com/awesome-woman-scares-groper-so-badly-he-craps-hi
 
 The Frozen soundtrack is on high rotation here.  Like at this dads house (I adore this guy):
 
-https://www.youtube.com/watch?v=Fu9ntXkkzwE
+<iframe src='https://www.youtube.com/embed/Fu9ntXkkzwE' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 We're still around the piano a lot.  This week Keith and I have been learning the haunting Split Enz classic  'I hope I never'. So lovely. But I have Laverne and Shirley firmly in my sights: I feel like we might have to sing this number every day before school. Best possible way to start the day, yes?
 
-https://www.youtube.com/watch?v=bJzF8_df1R8
+<iframe src='https://www.youtube.com/embed/bJzF8_df1R8' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>

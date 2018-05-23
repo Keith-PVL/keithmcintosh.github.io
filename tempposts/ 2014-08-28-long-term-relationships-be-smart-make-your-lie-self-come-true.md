@@ -11,7 +11,7 @@ categories: tbd
 
 Dan Savage on the price of admission.
 
-https://www.youtube.com/watch?v=r1tCAXVsClw#t=181
+<iframe src='https://www.youtube.com/embed/r1tCAXVsClw' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>#t=181
 
 link to his podcast as well.
 

@@ -19,8 +19,8 @@ James Blunt <a href="http://www.take40.com/news/44113/james-blunt-tweets-hilario
 
 Adam Hills takes on the Westboro Baptist Chutrch.
 
-https://www.youtube.com/watch?v=60ETdhgLA8U
+<iframe src='https://www.youtube.com/embed/60ETdhgLA8U' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 And as the mum of two daughters, I say Yay to Tay Tay. This is the current go-to family dance party tune.
 
-https://www.youtube.com/watch?v=nfWlot6h_JM
+<iframe src='https://www.youtube.com/embed/nfWlot6h_JM' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>

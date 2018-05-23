@@ -13,9 +13,9 @@ If you are stuck in bed,    sick,  sore or recovering from surgery, chances ar
 
 I have this ongoing web-series list that I sometimes update, and I  like to send it to sick  friends. I don't think I've ever posted it here, though, so here we go: short shows, funny and offbeat, suitable for all illnesses including man-flu and homicidal PMT. (It's a thing! Science says it'<a href="http://jezebel.com/pms-bitchiness-is-real-and-it-is-spectacular-1621115726">s a real thing!)</a>
 
-<a href="https://www.youtube.com/watch?v=6V_DsL1x1uY">Drunk Histories </a>- actors get shitfaced, re-enact scenes from history.
+<a href="<iframe src='https://www.youtube.com/embed/6V_DsL1x1uY' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>">Drunk Histories </a>- actors get shitfaced, re-enact scenes from history.
 
-<a href="https://www.youtube.com/watch?v=XPpsI8mWKmg">This is one of Amy Schumers best</a>, but everything she does makes me laugh until I wee.
+<a href="<iframe src='https://www.youtube.com/embed/XPpsI8mWKmg' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>">This is one of Amy Schumers best</a>, but everything she does makes me laugh until I wee.
 
 <a href="http://vimeo.com/channels/highmaintenance/videos">High Maintenance:</a> a pot dealer makes his daily rounds, reviewed by one critic as 'Girls, but hazier'.
 
@@ -29,9 +29,9 @@ I have this ongoing web-series list that I sometimes update, and I  like to sen
 
 <a href="http://www.youtube.com/user/7minutesinheaven">7 Minutes In Heaven</a>: comedians share a short, awkward and outrageous moment in a closet with Mike O'Brien, ending always with his attempt to make out with them. His pash with Ellen Degeneres is a particular highlight.
 
-<a href="https://www.youtube.com/watch?v=8UZJRR8OHhY">The Katering Show</a>: The journey of a food intolerant and an intolerable foodie - Australian, really funny.
+<a href="<iframe src='https://www.youtube.com/embed/8UZJRR8OHhY' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>">The Katering Show</a>: The journey of a food intolerant and an intolerable foodie - Australian, really funny.
 
-<a href="https://www.youtube.com/watch?v=ZkwLs6vxLik">Celebrities read mean tweets. </a>
+<a href="<iframe src='https://www.youtube.com/embed/ZkwLs6vxLik' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>">Celebrities read mean tweets. </a>
 
 <span Know any more? Let me know and I'll add them to my list. And if you're not well, I hope you feel better soon. It sucks to be sick. It bites the weiner, as Shakespeare said.</span>
 
@@ -39,7 +39,7 @@ Finally, one of my all-time faves. Dirty Jamie Oliver's going to whack it into y
 
 
 
-https://www.youtube.com/watch?v=ZiEjs7deHL4
+<iframe src='https://www.youtube.com/embed/ZiEjs7deHL4' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 
 

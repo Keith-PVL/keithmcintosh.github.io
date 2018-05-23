@@ -11,4 +11,4 @@ categories: tbd
 
 Remember: two minutes in heaven is better than one minute in heaven.
 
-https://www.youtube.com/watch?v=AqZcYPEszN8
+<iframe src='https://www.youtube.com/embed/AqZcYPEszN8' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>

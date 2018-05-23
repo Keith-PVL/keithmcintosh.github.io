@@ -19,7 +19,7 @@ Back to historical sexytimes.
 
 German philosopher, theologian, alchemist and astronomer Albertus Magnus, also known as Albert the Great and Albert of Cologne....Cologne...not that one needs an excuse, but what better a time to insert the Old Spice Man?
 
-https://www.youtube.com/watch?v=owGykVbfgUE
+<iframe src='https://www.youtube.com/embed/owGykVbfgUE' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 And hello again. Magnus died in 1280 AD, but before that he ranked five sexual positions from 'most acceptable' to 'least acceptable' as follows:
 

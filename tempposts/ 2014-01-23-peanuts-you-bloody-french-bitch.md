@@ -39,11 +39,11 @@ Did I mention I'm excited?
 
 A weekend of this:
 
-https://www.youtube.com/watch?v=mMVUyxiUzPA
+<iframe src='https://www.youtube.com/embed/mMVUyxiUzPA' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 and then home to this.
 
-https://www.youtube.com/watch?v=Df2rijKGQBw
+<iframe src='https://www.youtube.com/embed/Df2rijKGQBw' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 Lucky me!
 

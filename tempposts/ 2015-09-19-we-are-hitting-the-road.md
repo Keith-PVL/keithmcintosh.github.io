@@ -13,19 +13,17 @@ categories: tbd
 
  
 
-https://www.youtube.com/watch?v=
-
+<iframe src='https://www.youtube.com/embed/
 parrot
+&nb' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>sp;
 
- 
-
-https://www.youtube.com/watch?v=EmnSm_d2ll4
+<iframe src='https://www.youtube.com/embed/EmnSm_d2ll4' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
  
 
 dance mashup
 
-https://www.youtube.com/watch?v=2ToZBopL1q0
+<iframe src='https://www.youtube.com/embed/2ToZBopL1q0' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
  
 

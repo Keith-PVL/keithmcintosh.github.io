@@ -17,6 +17,6 @@ It was a good day. Good for the spirit. I sometimes need to make myself press 'p
 
 Lovely to take a little time-out. Let's call it day-release from the madness of motherhood.
 
-https://www.youtube.com/watch?v=h6H8pAKKkgQ
+<iframe src='https://www.youtube.com/embed/h6H8pAKKkgQ' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
  

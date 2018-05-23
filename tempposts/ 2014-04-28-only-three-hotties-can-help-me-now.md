@@ -29,6 +29,6 @@ Second: a fiery glance from Christopher Plummer.
 
 Finally, the last straw. The big guns:  if sax solos, red crotch-roses and Rod Stewart  loosening his oversized bow tie won't help me, nothing will;  and ps- if this is not the best three minutes of your day, I don't think we have anything in common any more.
 
-https://www.youtube.com/watch?v=IZr6AE-u2UM
+<iframe src='https://www.youtube.com/embed/IZr6AE-u2UM' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 (Christopher Plummer dedicated to my mother in law Liz, and Rod to my darling friend <a href="http://swissingaround.blogspot.ch/">Sally</a>.)

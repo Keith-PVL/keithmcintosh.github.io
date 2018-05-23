@@ -13,7 +13,7 @@ Benjamin Franklin advised people contemplating wedded life to “keep your eyes 
 
 Personla Hygenei For Yound Men
 
-https://www.youtube.com/watch?v=2inGX2L9PEI
+<iframe src='https://www.youtube.com/embed/2inGX2L9PEI' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 Readers,   take note that athletics,   an abundant outdoor life, wholesome companions, lots of good fun, constant occupation and determination will help a boy who has acquired the habit of masturbation ("self-abuse") to overcome it and repair any harm it may have done.  It is a selfish, , childish, stupid habit.
 
@@ -23,7 +23,7 @@ Finally, the father is shown on his hands and knees,  wildly bouncing a baby on
 
 And of course: one for the young ladies:
 
-https://www.youtube.com/watch?v=3VCYi65KwWI
+<iframe src='https://www.youtube.com/embed/3VCYi65KwWI' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
  
 

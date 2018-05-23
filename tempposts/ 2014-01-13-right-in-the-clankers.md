@@ -21,6 +21,6 @@ I'm buckling in for a busy week ahead here at Ranch Mogantosh. We've got school 
 
 I wish you all a week full of busy good times, some fine belly laughs and if at all possible, the charms of a two-year old telling knock-knock jokes. (Hint- don't answer the door. The answer is always 'Poo! HAHAHAH!)
 
-<a href="https://www.youtube.com/watch?v=lUbg5fg9SdU">https://www.youtube.com/watch?v=lUbg5fg9SdU</a>
+<a href="<iframe src='https://www.youtube.com/embed/lUbg5fg9SdU' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>"><iframe src='https://www.youtube.com/embed/lUbg5fg9SdU' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe></a>
 
-<a href="https://www.youtube.com/watch?v=Fxpl14TUwRY">https://www.youtube.com/watch?v=Fxpl14TUwRY</a>
+<a href="<iframe src='https://www.youtube.com/embed/Fxpl14TUwRY' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>"><iframe src='https://www.youtube.com/embed/Fxpl14TUwRY' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe></a>

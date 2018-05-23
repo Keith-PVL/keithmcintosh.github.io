@@ -11,7 +11,7 @@ categories: tbd
 
 Helpful advice from a 1920's health film on heath,   hygiene and all matters sec-shual. First,   a film for the young men.
 
-https://www.youtube.com/watch?v=2inGX2L9PEI
+<iframe src='https://www.youtube.com/embed/2inGX2L9PEI' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 Readers, take note that athletics, an abundant outdoor life, wholesome companions, lots of good fun, constant occupation and determination will help a boy who has acquired the habit of masturbation ("self-abuse") to overcome it and repair any harm it may have done.  It is a selfish, childish, stupid habit.
 
@@ -19,7 +19,7 @@ Also, pimples do NOT indicate sex disease. Phew! A victory for scientific discov
 
 Next, a film for the young ladies:
 
-https://www.youtube.com/watch?v=3VCYi65KwWI
+<iframe src='https://www.youtube.com/embed/3VCYi65KwWI' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 I watched this clip as I did  calisthenics in my palm-filled courtyard. Constipation? What constipation? But I'm bummed - the lady of today needs brains, fidelity and sound training to be a fit mother, this tells us. Once again, my Arts degree proves useless. But all was well by the end, when I was overjoyed to meet again with the syphilitic children who can't catch a ball.
 

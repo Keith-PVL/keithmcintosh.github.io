@@ -23,7 +23,7 @@ I'm also loving Edmund White's 'Inside a Pearl: My Years In Paris' ; 'Life Below
 
 **Watching:** Things have been quite fraught around here, to be honest. My father-in-law is very sick, Keith is stressed and sad and busy. I was so buggered after he left last week  that I watched Sex and The City 2, just to see if the movie was as bad as I remembered, and it was, of course, WORSE, even, unbelievably, comically bad. Then, later, I found myself watching Sex and The City 1, just to see the progression of shame. So weirdly reminiscent of some pre financial-crisis, gone-forever time, I told my Wagon Wheel.
 
-Also, I went down a delightful rabbit hole of <a href="https://www.youtube.com/watch?v=Xs3DzydSKu8" target="_blank">Tate Studio </a>vids on Youtube, and some Vogue<a href="https://www.youtube.com/watch?v=W511rtnnlZM" target="_blank"> 73 Questions </a>(Sarah Jessica's house is gorgeous, Iggy Azalea is a weird fembot). The kids and I have been enjoying watching Catalyst archives while we eat our horses dinners.
+Also, I went down a delightful rabbit hole of <a href="<iframe src='https://www.youtube.com/embed/Xs3DzydSKu8' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>" target="_blank">Tate Studio </a>vids on Youtube, and some Vogue<a href="<iframe src='https://www.youtube.com/embed/W511rtnnlZM' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>" target="_blank"> 73 Questions </a>(Sarah Jessica's house is gorgeous, Iggy Azalea is a weird fembot). The kids and I have been enjoying watching Catalyst archives while we eat our horses dinners.
 
 I watched Marley and Me with the girls - beware! Don't try this before bedtime! The last twenty minutes are tragic. I didn't see it coming (I'm sharp like that) and it took me forever to calm them down enough to go to bed.  FYI - when you have two daughters sobbing on either side of you, don't say  'It's really OK! All dogs die! Everything dies!' It does not help the situation.
 
@@ -45,7 +45,7 @@ Also, wee.
 
 Honestly, this guy captures the tone so perfectly! God this made me laugh.
 
-https://www.youtube.com/watch?v=PFMwPCOUPas
+<iframe src='https://www.youtube.com/embed/PFMwPCOUPas' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 **Writing:** Not much. The Mumming has been intensive.
 

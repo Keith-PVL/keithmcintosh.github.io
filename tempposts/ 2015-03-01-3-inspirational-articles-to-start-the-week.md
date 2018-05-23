@@ -17,7 +17,7 @@ Australia's oldest man <a href="http://www.telegraph.co.uk/news/worldnews/austra
 
 This Tasmanian woman recycles Bratz dolls into proper little people. She is adorable,   and the dolls are too.
 
-https://www.youtube.com/watch?v=lG-7e1vaB18,
+<iframe src='https://www.youtube.com/embed/lG-7e1vaB18' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>,
 
 Finally, a week in Florida's sexiest retirement village, where folks may be old, but they sure are bold. Keith is off to Florida for work soon. I shall get him to pick up some brochures for our retirement files.
 
@@ -53,7 +53,7 @@ Australia's oldest man <a href="http://www.telegraph.co.uk/news/worldnews/austra
 
 This Tasmanian woman recycles Bratz dolls into proper little people. She is adorable, and the dolls are too.
 
-https://www.youtube.com/watch?v=lG-7e1vaB18,
+<iframe src='https://www.youtube.com/embed/lG-7e1vaB18' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>,
 
 Finally, <a href="http://www.buzzfeed.com/likethebreadorthedressing/seven-days-and-nights-in-the-worlds-largest-rowdiest-retirem#.ye0Az4wRl">a week in Florida's sexiest retirement village</a>, where 100, 000 people live in a sort of rebublican-tinged utopian wonderland, all owned by a reclusive billionaire called The Deveoper. Folks may be old at The Villages , but they sure are bold. Keith is off to Florida for work soon, and so I shall get him to pick up some brochures for our retirement files. Me, I like the Mamma Mia brunches where the ladies get together to have a dance, and as for Keith, I think he could really get into the hyper-competitive Pickleball league, a cross between Ping Pong and tennis.
 
@@ -85,7 +85,7 @@ Australia's oldest man <a href="http://www.telegraph.co.uk/news/worldnews/austra
 
 This Tasmanian woman recycles Bratz dolls into proper little people. She is adorable, and the dolls are too.
 
-https://www.youtube.com/watch?v=lG-7e1vaB18,
+<iframe src='https://www.youtube.com/embed/lG-7e1vaB18' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>,
 
 Finally, <a href="http://www.buzzfeed.com/likethebreadorthedressing/seven-days-and-nights-in-the-worlds-largest-rowdiest-retirem#.ye0Az4wRl">a week in Florida's sexiest retirement village</a>, where 100, 000 people live in a sort of rebublican-tinged utopian wonderland, all owned by a reclusive billionaire called The Deveoper. Folks may be old at The Villages , but they sure are bold. Keith is off to Florida for work soon, and so I shall get him to pick up some brochures for our retirement files. Me, I like the Mamma Mia brunches where the ladies get together to have a dance, and as for Keith, I think he could really get into the hyper-competitive Pickleball league, a cross between Ping Pong and tennis.
 
@@ -117,7 +117,7 @@ Australia's oldest man <a href="http://www.telegraph.co.uk/news/worldnews/austra
 
 This Tasmanian woman recycles Bratz dolls into proper little people. She is adorable, and the dolls are too.
 
-https://www.youtube.com/watch?v=lG-7e1vaB18,
+<iframe src='https://www.youtube.com/embed/lG-7e1vaB18' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>,
 
 Finally, <a href="http://www.buzzfeed.com/likethebreadorthedressing/seven-days-and-nights-in-the-worlds-largest-rowdiest-retirem#.ye0Az4wRl">a week in Florida's sexiest retirement village</a>, where 100, 000 people live in a sort of rebublican-tinged utopian wonderland, all owned by a reclusive billionaire called The Deveoper. Folks may be old at The Villages , but they sure are bold. Keith is off to Florida for work soon, and so I shall get him to pick up some brochures for our retirement files. Me, I like the Mamma Mia brunches where the ladies get together to have a dance, and as for Keith, I think he could really get into the hyper-competitive Pickleball league, a cross between Ping Pong and tennis.
 

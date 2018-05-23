@@ -17,7 +17,7 @@ I recorded Episode 5 with Jo a few months ago. It's about the Bhagwan Shri Rajne
 
 The Bhagwans right-hand woman was Sheila, who you might remember from her classic burn on 60 Minutes' Mike Willesee: 'good luck to you and your pimps.'
 
-https://www.youtube.com/watch?v=9ib8MdHT61k
+<iframe src='https://www.youtube.com/embed/9ib8MdHT61k' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 The jokes, they write themselves.
 

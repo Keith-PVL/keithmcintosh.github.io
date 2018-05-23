@@ -11,7 +11,7 @@ categories: tbd
 
 If I hadn't just written a column on exercise,   I'd have to invent another reason to post this aerobics video. Comedy, athletics and spangled unitards. Gold stars all round!
 
-https://www.youtube.com/watch?v=fRscYVvEFt8
+<iframe src='https://www.youtube.com/embed/fRscYVvEFt8' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 This post originally published in Practical Parenting Magazine, January 2014
 

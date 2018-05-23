@@ -13,7 +13,7 @@ categories: tbd
 
 Some twenty-something (ahem) years ago,   my sister did a course at catering college. Amongst other tricks,   she learnt the French technique for proper  onion-chopping. It's called a 'brunois' and it looks like this:
 
-https://www.youtube.com/watch?v=zjZqknqj8aE
+<iframe src='https://www.youtube.com/embed/zjZqknqj8aE' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 Thank you, internet. So helpful. Anyway, Sam taught it to me and ever since, I've been dicing my onions real professional like. But that brunois lesson was the last time I had any training from a proper chef, other than the one-sided cooking-show relationships I have with Manu and Pete and Colin and George.
 

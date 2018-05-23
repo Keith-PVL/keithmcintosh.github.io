@@ -15,7 +15,7 @@ Now call me crazy (me and Anne Heche) but I think internet porn is a scourge. Na
 
 I do however like the written word, and I have an extensive library. Amongst my collections, I have gathered some fabulous marriage manuals from the past. And according to the modern-day philosophers from the Flight Of The Conchords, Wednesday is the optimum night for making the freaky beast with two backs.
 
-https://www.youtube.com/watch?v=mhN93rFZuJs
+<iframe src='https://www.youtube.com/embed/mhN93rFZuJs' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 To that end I have decided to bring you a selection of old-timey sex advice here every Wednesday.
 

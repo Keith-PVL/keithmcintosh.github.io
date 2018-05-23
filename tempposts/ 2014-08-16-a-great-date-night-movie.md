@@ -15,11 +15,11 @@ This was such a lovely date night movie. Louis-Dreyfus is so endearing to watch,
 
 Here is Louis-Dreyfus as the Veep.
 
-https://www.youtube.com/watch?v=myxMEwyilqo
+<iframe src='https://www.youtube.com/embed/myxMEwyilqo' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 And here as Elaine,  dancing.
 
-<a href="http://www.npr.org/2012/05/03/151927775/julia-louis-dreyfus-from-seinfeld-to-veep">https://www.youtube.com/watch?v=DY_DF2Af3LM</a>
+<a href="http://www.npr.org/2012/05/03/151927775/julia-louis-dreyfus-from-seinfeld-to-veep"><iframe src='https://www.youtube.com/embed/DY_DF2Af3LM' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe></a>
 
 <a href="http://www.npr.org/2012/05/03/151927775/julia-louis-dreyfus-from-seinfeld-to-veep">And here</a> in an excellent Fresh Air interview.
 

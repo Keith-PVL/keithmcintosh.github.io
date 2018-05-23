@@ -19,4 +19,4 @@ In general, I am practicing the art of not complaining. (So far, so good.)
 
 My hope for you is that every morning this week begins as sweetly as it does for this pig eating a cookie.  Have a good one, comrades. That's an order.
 
-https://www.youtube.com/watch?v=6zbsUtQL4nY
+<iframe src='https://www.youtube.com/embed/6zbsUtQL4nY' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>

@@ -15,7 +15,7 @@ I missed last weeks Sex Fom The Past post. It was such a busy week,   and I was 
 
 German philosopher, theologian, alchemist and astroner Albertus Magnus (also known as Albert the Great and Albert of Cologne – which seems like the perfect time to insert Old Spice Man – pause –
 
-https://www.youtube.com/watch?v=owGykVbfgUE
+<iframe src='https://www.youtube.com/embed/owGykVbfgUE' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 And hello again. Magnus died in 1280 AD, but before that he ranked five sexual positions from 'most acceptable' to 'least acceptable' as follows:
 

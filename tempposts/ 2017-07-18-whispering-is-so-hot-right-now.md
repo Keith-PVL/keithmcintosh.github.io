@@ -13,7 +13,7 @@ categories: tbd
 
 Whispering is so hot right now. Even Freelee the Banana Girl,   notorious Australian rage-vegan YouTuber, has replaced her ‘meat is murder’ videos with ones where she talks softly about perms while brushing her hair.
 
-https://www.youtube.com/watch?v=HOBGazBqXlk&amp;t=115s
+<iframe src='https://www.youtube.com/embed/HOBGazBqXlk' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>&amp;t=115s
 
 It’s called ASMR, or Autonomic Sensory Meridian Response, and it’s one of the fastest growing trends on the internet.  Sometimes called ‘brain massage’, ASMR is the term coined in 2010 for the tingling, pleasurable sensation that ASMR practitioners or ‘ASMRtists’ can induce in a listeners body through such ‘sound triggers’ as whispering, tapping, and brushing.  ASMR is also induced with scenarios of nurturing, non-sexual ‘personal care’, so the ASMRTist may talk directly to camera in role-plays of haircuts and doctor visits. Narration is whispered, paper is scrunched, water is poured and microphones are brushed and tapped with different objects. Meanwhile, devotees (sometimes called ‘tingleheads’) slump smiling in their headphones, bones turned to jelly, and ASMRtists rake in the big bucks.
 
@@ -21,7 +21,7 @@ Truly, it sounds nuttier than a box of Magnums. But there is an undeniable physi
 
 ASMR is thought to be related to synaesthesia (which can cause people to experience otherwise unrelated secondary sensations to sensory stimuli) and to ’chills’, or ‘frisson’, the name given to the physical sensation sometimes experienced when listening to music. A great example: Lady Gaga’s rendition of the Us National Anthem at the 2016 Superbowl.
 
-https://www.youtube.com/watch?v=zv2f5r5O0-c
+<iframe src='https://www.youtube.com/embed/zv2f5r5O0-c' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 The popularity of ASMR is undeniable. There are 127, 000 subscribers to the ASMR sub-Reddit, 19 million results on a Google search and more than 7 million results on YouTube. Many people use the videos to sleep, with most searches occurring at about 10.30pm, across different time zones, according to Google Trends, and ASMRtists like Heather Feather and ASMR Darling (who called herself an ‘internet brain masseuse’ have huge follower numbers. 28 year old ‘Maria’, who runs ‘Gentle Whispering’ – the biggest ASMR channel on YouTube – has nearly 1 million subscribers.
 
@@ -29,11 +29,11 @@ So why does the ASMR response occur? Is it related to dopamine? To serotonin? To
 
 It is charmingly strange, this is certain. ASMR video titles include ‘Little Bat Yawning and Flapping It’s Wings’ to ‘Ear Massage with Reading Classic Slovak Short Story’ to ‘Eating a Whole Rotisserie Chicken’. One of the most beloved tropes of the ASMR scene is the painter Bob Ross, whose 80’s cult-classic TV show, which featured his distinctive gentle voice and the notably loud scraping of his paintbrush on canvas, has an undeniably soporific quality.
 
-https://www.youtube.com/watch?v=lLWEXRAnQd0
+<iframe src='https://www.youtube.com/embed/lLWEXRAnQd0' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 Freelee the Banana Girl for ten years styled herself as a YouTube provocateur, exhorting her many subscribers to ‘Carb the F$%k Up’ and landing herself in the Supreme Court over defamation at one stage (the case was settled out of court). She has long known how to gain pageviews (and paydays) on the platform, and her move to ASMRtist indicates that there is money to be made.  W Magazine recently posted a celebrity ASMR series, in which Cara Delevigne swore, sotte voce, and Kate Hudson fondled sequins and snipped fabrics with a giant pair of scissors.
 
-<a href="https://www.youtube.com/watch?v=Vgs-h53tg8U">https://www.youtube.com/watch?v=Vgs-h53tg8U</a>
+<a href="<iframe src='https://www.youtube.com/embed/Vgs-h53tg8U' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>"><iframe src='https://www.youtube.com/embed/Vgs-h53tg8U' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe></a>
 
 Brands too, are taking note of the commercial potential of ASMR. It’s been used to sell beer and chocolate, and recently KFC recently hired actor George Hamilton to whisper about pocket squares and crunch on fried chicken, conflating in listeners minds the ‘comfort’ of fried food and relaxation. At least, this was the aim of the marketing wonks at KFC. Whether it sold more chicken, it’s hard to know.
 

@@ -13,7 +13,7 @@ I have this ongoing list of web series I keep to send to sicj friends. I don't t
 
  
 
-Drunk Histories - actors get shitfaced,   re-enact scenes from history: : <a href="https://www.youtube.com/watch?v=6V_DsL1x1uY" target="_blank">https://www.youtube.com/watch?<wbr />v=6V_DsL1x1uY</a>
+Drunk Histories - actors get shitfaced,   re-enact scenes from history: : <a href="<iframe src='https://www.youtube.com/embed/6V_DsL1x1uY' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>" target="_blank">https://www.youtube.com/watch?<wbr />v=6V_DsL1x1uY</a>
 
 
 

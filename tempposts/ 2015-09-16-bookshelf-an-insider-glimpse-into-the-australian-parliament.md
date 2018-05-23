@@ -25,7 +25,7 @@ No more from me tonight: I am deep in packing, list-making and deadline-meeting.
 
 ps - and just because it is wonderful....Jason Wood and his genetically modified orgasms, 2008.
 
-https://www.youtube.com/watch?v=5CisHakr5yg
+<iframe src='https://www.youtube.com/embed/5CisHakr5yg' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 pps - Chinese press have taken to calling Malcolm Turrnbull <a href="http://www.news.com.au/finance/work/malcolm-turnbull-nicknamed-sugar-bomb-sweet-dumpling-in-china/story-fn5tas5k-1227530680995">'sugar bomb' and 'sweet dumpling'.</a> (!!)
 

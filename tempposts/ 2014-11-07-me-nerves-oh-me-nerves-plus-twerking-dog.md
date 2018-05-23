@@ -21,15 +21,15 @@ Hark!
 
 Here is a twerking dog!
 
-https://www.youtube.com/watch?v=CyGFWJig0cY
+<iframe src='https://www.youtube.com/embed/CyGFWJig0cY' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 And also! Eighteen awesomely awkward kisses!
 
-https://www.youtube.com/watch?v=vG9xLJSJA48
+<iframe src='https://www.youtube.com/embed/vG9xLJSJA48' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 And finally, Keith and I have gotten really into the British comedy Peep Show. It just keeps getting funnier. Mark has so much of the Adrian Mole about him, my favourite literary character. We're loving this.
 
-https://www.youtube.com/watch?v=yoZ1EGxPaOE
+<iframe src='https://www.youtube.com/embed/yoZ1EGxPaOE' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 Spinach, roasted beetroot, chorizo and feta for dinner tonight and tomorrow, I am going to the Blue Mountains to spend the night with my old school friends. We will all need a Bex and a lie down after the intensive coversation-and-cackling festival that will ensue.  I can't wait.
 

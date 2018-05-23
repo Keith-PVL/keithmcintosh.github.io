@@ -15,7 +15,7 @@ Did you catch the news? I mean soap opera? I mean Greek tragedy? I mean frat-ho
 
 It reminded me of the classic middle-aged man fight between Colin Firth and Hugh Grant in Bridget Jones' diary. 'Fight! Fight! It's a REAL FIGHT!'
 
-https://www.youtube.com/watch?v=1ozdCJJ6osg
+<iframe src='https://www.youtube.com/embed/1ozdCJJ6osg' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 Comedy aside, I hope even a tiny stink of this ridiculous barney will stick, and in some way have a negative impact on Packer's gambling empire.
 

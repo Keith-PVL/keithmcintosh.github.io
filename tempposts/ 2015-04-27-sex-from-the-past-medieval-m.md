@@ -13,4 +13,4 @@ http://dangerousminds.net/comments/a_handy_guide_to_sex_in_the_middle_ages
 
 Sexual orientation in the Middle Ages:
 
-https://www.youtube.com/watch?v=UqG7LoDx2gU
+<iframe src='https://www.youtube.com/embed/UqG7LoDx2gU' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>

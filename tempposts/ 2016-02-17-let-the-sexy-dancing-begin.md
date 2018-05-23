@@ -31,4 +31,4 @@ I'll be signing Peanut up straight away. She's nine after all, and it's really a
 
 ps - here's what I'd like Peanut to be learning: some hard-core moves of glory. Check out Tom Jones and Janis from 1969, and clock the dancing in the background. Potential spinal injury, sure. But Funkymeter set to 11. Rest in peace Janis, you legend.
 
-https://www.youtube.com/watch?v=wRmRvNx4rCs
+<iframe src='https://www.youtube.com/embed/wRmRvNx4rCs' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>

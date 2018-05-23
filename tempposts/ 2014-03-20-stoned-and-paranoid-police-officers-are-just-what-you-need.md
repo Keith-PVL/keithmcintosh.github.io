@@ -19,7 +19,7 @@ Oh and another thing I have my period.
 
 Tomorrow, the ENT, and a face scan.  But tonight, there is nothing for it but to apply some classic YouTube archival goodness: stoned, paranoid police officers. This will make everything a bit better. It cannot fail.
 
-https://www.youtube.com/watch?v=Ewm9OlQI6fs
+<iframe src='https://www.youtube.com/embed/Ewm9OlQI6fs' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
  
 

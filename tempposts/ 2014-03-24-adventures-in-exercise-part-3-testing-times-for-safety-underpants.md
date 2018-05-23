@@ -11,7 +11,7 @@ categories: tbd
 
 From me to you,   with love: the Victorian Police Cadet skipping team.
 
-https://www.youtube.com/watch?v=r5-sRm5ztn4
+<iframe src='https://www.youtube.com/embed/r5-sRm5ztn4' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 This post was originally published in Practical Parenting Magazine,   March 2014
 

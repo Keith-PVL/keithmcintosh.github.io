@@ -19,7 +19,7 @@ Let the kids play with fire, Tully says. Also, own a pocket-knife, throw a spear
 
 Here's Tully's full Ted talk:
 
-https://www.youtube.com/watch?v=NXhddUqNNjo
+<iframe src='https://www.youtube.com/embed/NXhddUqNNjo' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 I really like this.
 

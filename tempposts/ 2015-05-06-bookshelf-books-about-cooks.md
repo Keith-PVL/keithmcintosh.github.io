@@ -55,7 +55,7 @@ Finally, **My Life In France** is my all-time favourite food memoir, by my favou
 
 To end this post, I'd love to share the last scene of Curb Your Enthusiasm Season 3, where Larry David tries desperately to cover up his chef's Tourette's Syndrome, at the opening night of his restaurant. Possibly the best restaurant scene in television history. (And highly unsafe for work!)
 
-https://www.youtube.com/watch?v=MYmV70_U3oA
+<iframe src='https://www.youtube.com/embed/MYmV70_U3oA' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 Bon appetit! Happy Mothers Day! And if you have any books about cooks to add to this list, leave them in the comments.
 

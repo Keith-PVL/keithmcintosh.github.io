@@ -13,7 +13,7 @@ that beautiful vid from lexi
 
 peanuts you loody french bitech
 
-https://www.youtube.com/watch?v=mMVUyxiUzPA
+<iframe src='https://www.youtube.com/embed/mMVUyxiUzPA' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
  
 
@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=mMVUyxiUzPA
 
 and then home to this.
 
-https://www.youtube.com/watch?v=Df2rijKGQBw
+<iframe src='https://www.youtube.com/embed/Df2rijKGQBw' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
  
 

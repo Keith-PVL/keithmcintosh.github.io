@@ -25,7 +25,7 @@ But now I'm off to the mountains for a couple of days with the family. We're goi
 
 No laptop, no TV, and a switched-off phone. Enough of being a nervous, twitching gnome worrying about stats, composing responses and imagining angry Paleo-philes on the imminent attack, coming after me with their (grass-fed - boom tish!) stakes!   I've had enough heightened online life for this week.  I'm channeling Ann Margret instead. (via <a href="http://dangerousminds.net/">Dangerous Minds</a>). I'm going to straighten my hunched shoulders, look out upon the real world and make sultry suggestions with my eyebrows.
 
-https://www.youtube.com/watch?v=J2iBX_wGbkU
+<iframe src='https://www.youtube.com/embed/J2iBX_wGbkU' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 I wish you a weekend full of love and understanding, whatever you choose to eat.
 

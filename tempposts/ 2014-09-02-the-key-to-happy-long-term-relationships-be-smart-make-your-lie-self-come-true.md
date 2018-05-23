@@ -13,7 +13,7 @@ Are you familiar with the incisive,   hilarious work of Dan Savage? He's a sex-a
 
 It's good.
 
-https://www.youtube.com/watch?v=r1tCAXVsClw#t=181
+<iframe src='https://www.youtube.com/embed/r1tCAXVsClw' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>#t=181
 
 <blockquote>When you think about it, you meet somebody for the first time, and they're not presenting their 'warts-and-all' self to you.They're presenting their idealised selves. They're leading with their best. Right? And then eventually you're farting in front of each other. Eventually you get to see the person who is behind that facade of their best, and they get to see the person who is behind your facade. Your 'lie self'. The lie you presented to them about who you really are.
 

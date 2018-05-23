@@ -73,4 +73,4 @@ Also:
 
 If it all finally, comes to naught, turn to the healing power of music and let Dan teach you how to play the way you feel when your daughter says she hates you. I think we can all take something away from this one.
 
-https://www.youtube.com/watch?v=jtXFjm8vkko
+<iframe src='https://www.youtube.com/embed/jtXFjm8vkko' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>

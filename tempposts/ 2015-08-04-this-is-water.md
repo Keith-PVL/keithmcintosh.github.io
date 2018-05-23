@@ -33,6 +33,6 @@ I watched this moving David Foster Wallace speech while I was away. It describes
 
 More soon. Love to you guys.
 
-https://www.youtube.com/watch?v=LCsvJe3dGVk
+<iframe src='https://www.youtube.com/embed/LCsvJe3dGVk' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
  

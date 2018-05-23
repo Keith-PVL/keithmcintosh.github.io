@@ -39,7 +39,7 @@ lang="en" data-aria-label-part="0">Hey <a dir="ltr" href="https://twitter.com/ha
 
 lang="en" data-aria-label-part="0">BBC series Catastrophe was so bloody funny, and so sharp on relationships. I loves him, and I loves Sharon Horgan, with whom he co-writes the show. If Please Like Me and Master of None are like an anthropological field trip into Gen Y territory, Catastrophe is more like hanging out with people I recognise. Here's the trailer to Season 1 (Season 2 coming soon I think.)
 
-https://www.youtube.com/watch?v=bfccan1k2_4
+<iframe src='https://www.youtube.com/embed/bfccan1k2_4' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>
 
 **Reading**
 
