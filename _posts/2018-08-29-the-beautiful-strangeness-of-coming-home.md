@@ -34,6 +34,5 @@ It's not all fun with wedgies and the underworld; we are all feeling the emotion
 
 If I owe you an email, a phone call and/or a catch up coffee, I promise I'll get to it and I can't wait. I have so much to tell you and so much to catch up on. But first, we have to land this bird. 
 
-<img src="/images/2018/10/jumping-into-the-vidourle.jpg" class="photo-horiz" />
-
+<img src="/images/2018/08/jumping-into-the-vidourle.jpg" class="photo-horiz" />
 
