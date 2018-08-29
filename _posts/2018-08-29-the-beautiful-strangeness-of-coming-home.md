@@ -9,15 +9,13 @@ categories: tbd
 
 ## 18th June 2018
 
-Home Again (With Added Melting Clocks) 
-
-Yesterday I carved out an hour to do some writing in the public library. Toddler reading time was noisy in the corner; dead-eyed mothers watching on as the librarian talks in a painfully high octave. Take it three tones down, lady, I thought, just like the old days. There aren’t any dogs here listening to Incy Wincy Spider. 
+Yesterday I carved out an hour to do some writing in the public library. Toddler reading time was noisy in the corner; dead-eyed mothers watching on as the librarian talked in a painfully high octave. Take it three tones down, lady, I thought, just like the old days. There aren’t any dogs here listening to Incy Wincy Spider. 
 
 It felt amazing to have some time alone to order my thoughts, with, finally, a repaired laptop and –oh frabjous day! – Australian coffee! I need to write and file a magazine piece about our epic National Lampoon road trip, but first, I must just decant my brain a little. It's all out of storage space. I can't quite settle to anything and I'm trapped in a bit of a caps-lock-cortisol-overload WHERE IS THE HOT WATER BOTTLE/SLOW COOKER/SCHOOL SHOES/OLIVE OIL/WHICH SIDE OF THE ROAD AM I ON/WHAT LANGUAGE ARE WE SPEAKING/HOLD ME moment. 
 
-My mental schedule is totally different to the France one, which was replaced in its turn by last month’s road-trip craziness of family life on the move. My brain is staging a rebellion. Where am I? What's my name again? Who's the Prime Minister? (Don't answer that.)
+My current mental schedule is totally different to the France one, which was replaced in its turn by last month’s road-trip craziness of family life on the move. My brain is staging a rebellion. Where am I? What's my name again? Who's the Prime Minister? (Don't answer that.)
 
-Today I dropped the kids at school for their third day back and returned the rental car to the airport. We are all a bit shell-shocked. It's been a couple of months on holiday for them and a couple of months of 24/7 mumming for me. Dragging school uniforms together was hard work - trawling shops for school bits and pieces that are never, ever there in the right size , hunting through crates and boxes and pulling together three sets of close-enough clothes; blue from head to toe. Where are the lunch boxes? Water bottles? Christ on a bicycle, the hats? 
+Today I dropped the kids at school for their third day back and returned the rental car to the airport. We are all a bit shell-shocked. It's been a couple of months on holiday for them and a couple of months of 24/7 mumming for me. Dragging school uniforms together was hard work – trawling shops for school bits and pieces that are never, ever there in the right size, hunting through crates and boxes and pulling together three sets of close-enough clothes; blue from head to toe. Where are the lunch boxes? Water bottles? Christ on a bicycle, the hats? 
 
 Meanwhile our little house is full of crates and boxes from the shed, an unholy mess that, day by day, gets more epic as the clean laundry piles up and the children look through it all for their special, long lost bits and pieces. Keith is giving piano lessons to the kids every night and I’m back to my bath held together with gaffer tape. Back to the trampoline, the rope swing, the miniature donkeys in the paddock, the sounds of the surf and the birds. Back, comrades, to the composting dunny. 
 
