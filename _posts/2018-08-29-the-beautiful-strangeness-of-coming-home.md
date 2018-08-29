@@ -7,7 +7,7 @@ categories: tbd
 
 # The Beautiful Strangeness of Coming Home
 
-## 18th June 2018
+## 29th August 2018
 
 Yesterday I carved out an hour to do some writing in the public library. Toddler reading time was noisy in the corner; dead-eyed mothers watching on as the librarian talked in a painfully high octave. Take it three tones down, lady, I thought, just like the old days. There aren’t any dogs here listening to Incy Wincy Spider. 
 
