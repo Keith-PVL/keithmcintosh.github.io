@@ -17,7 +17,7 @@ This time last year, we were in a little cottage up a snowy mountain with no wif
 
 These ties that bind – family, friends – they are so important and beautiful. But jeez it was relaxing last Christmas when nobody gave two real shits about us... 
 
-This year, because I have a child finishing primary school, the end-of-term madness has been more full on than usual. There have been parties, ceremonies, gifts, cards; all of which required cooking and planning and shopping and wrapping and thinking. 
+This year, because I have a child finishing primary school, the end-of-term madness has been more full on than usual. There have been parties, ceremonies, gifts, cards; all of which required cooking and planning and shopping and wrapping and <i>thinking</i>. 
 
 I am quite sure that in France if we requested the teachers engaged in the intense farewelling we do here, they would flick a cigarette in our faces. 
 
@@ -25,7 +25,7 @@ We adore being part of a small school community. Only 17 kids graduated from my 
 
 All these milestone-celebrating is bonding and gorgeous, and meaningful, but shit the bed, is it a lot of work.  (I had a European teenager in my house for a week during this madness too. Mothers of four: you have my undying respect.) 
 
-<iframe src="https://giphy.com/embed/eBCnpuRGBhQGY" width="480" height="409" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mondays-eBCnpuRGBhQGY">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/eBCnpuRGBhQGY" width="480" height="409" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Of course, when the Mum-work rises up at a time like this, everything else gets sidelined. My writing sits gathering dust, despite my desire to maintain my momentum. There has just been no space for it.  So how much more full on, I wonder, is this end-of-term, Xmas prep, final-parties-for-every-fucking-activity-ever season for parents who are working full time or have even more children than me? How do you keep up? Tell us! Tell us all the secrets, oh wise ones!
 
@@ -34,22 +34,22 @@ When life is intense and busy, it’s emotionally frazzling for me. Some people 
 Of course, it’s in seasons like this that we all start getting sick, so every morning it’s been like dragging the Zombies of Mordor from full to semi-disarray (Ted’s shoes are held together with gaffer tape) and my throat has been sore for a fortnight.   
 Still. I push on, comrades. Because that I who I am. A martyr of the highest order. 
 
-<iframe src="https://giphy.com/embed/x4ODv8lp8bodO" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/x4ODv8lp8bodO">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/x4ODv8lp8bodO" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 However! The term is over, and today was the first day of our summer holiday. We had a swim in the ocean. We played cards. We read on the deck. We rescued the miniature donkeys who escaped their paddock. I performed the traditional I Am Not Your Servant for the Next Six Weeks and Will Now Outline How We Are Going to Share the Housework speech. (So optimistic! Adorable!) 
 
-<iframe src="https://giphy.com/embed/MUBWTo8DZg6He" width="450" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/MUBWTo8DZg6He">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/MUBWTo8DZg6He" width="450" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 I am taking some time tonight to decant my brain onto the page here, because my crazy intense period, that lasted about four weeks, is over, pretty much, and I am really looking forward to getting back to my manuscript.  We’ve already done and dusted one family Xmas last weekend, and we’re off to my in-laws for next week. Other than that, I anticipate lots of late mornings in our immediate future. One child stayed naked for the first 24 hours of the holidays in celebration, and we have many plans for Making Summer Great Again. Mainly, I am really aiming to practice the art of Not Complaining. I’ve been living a bit like this…
 
-<iframe src="https://giphy.com/embed/Kvo77prALFiX6" width="480" height="346" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-90s-people-Kvo77prALFiX6">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/Kvo77prALFiX6" width="480" height="346" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 For 2019, I plan to approach life with a little more gratitude. 
 
-<iframe src="https://giphy.com/embed/nXxOjZrbnbRxS" width="356" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/win-nXxOjZrbnbRxS">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/nXxOjZrbnbRxS" width="356" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Also, I am so very excited to do some hard core spring cleaning and fart-arsing about with a little interiors DIY.  May even do it nude – a friend told me she cleans the bathroom in the nuddy and since then, it’s been coming at me from all angles (as the actress said to the bishop). Apparently, naked cleaning is a thing! Who knew? I usually just get Keith to wear his ivory bodysuit, but I guess I could just…ask…? 
 
-<iframe src="https://giphy.com/embed/26gscNQHswYio5RBu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/adweek-magic-mike-mr-clean-26gscNQHswYio5RBu">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/26gscNQHswYio5RBu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
  Anyhoo, comrades, that’s it from me. I hope you have a wonderful Christmas, and I’ll see you in the New Year!
