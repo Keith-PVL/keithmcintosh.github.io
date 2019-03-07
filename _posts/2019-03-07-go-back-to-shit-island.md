@@ -10,6 +10,7 @@ categories: tbd
 ## 7th March 2019
 
 <img src="/images/20190307/pic1.jpg" class="photo-horiz" />
+Grand Central Station, 1926, photographer unknown.
 
 Long, long ago, in a galaxy far away, when I had full pelvic floor control, a hairless chin and the freedom to eat dirty street kebabs rather than banging out fifteen covers a day, I gained my Masters in Counselling. I worked for a government agency as a trauma counsellor, and I also worked the phones at Lifeline. 
 
