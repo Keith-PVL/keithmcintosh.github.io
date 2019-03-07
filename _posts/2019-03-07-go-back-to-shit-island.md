@@ -16,7 +16,7 @@ Long, long ago, in a galaxy far away, when I had full pelvic floor control, a ha
 
 Now that we’re home from our dilettante wanderings, and all three kids are institutionalised, I’m turning my mind outside of the all-consuming domestic again. I’m writing a lot – I might perhaps share news about all that another time – and I’m also thinking about what I can contribute to my community.  
 
-I’m retraining at Lifeline (my experience as a counsellor is all so old that I must start again lest I counsel callers to use calico poultices for their galloping consumption, or brandish a pigs heart to ward off the evil eye – it’s no longer  ‘best practice’, they say.) 
+I’m retraining at Lifeline (my experience as a counsellor is all so old that I must start again lest I counsel callers to use calico poultices for their galloping consumption, or brandish a pig's heart to ward off the evil eye – it’s no longer  ‘best practice’, they say.) 
 
 Ain’t it hard keeping it so hard core, Gaga asked me? Yes, Gargs, I said.  It is! As my rusty old brain cranks old neurons back into life, memories are sparked. So much psychobabble. Knowledge I haven’t used in a dozen years.  During this training, I’m taking in a tsunami of information about mental illness and domestic violence and anxiety and addiction and social isolation, all taught within the context of different crisis-management models for suicide prevention and other issues. 
 
