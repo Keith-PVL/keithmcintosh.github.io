@@ -9,8 +9,6 @@ categories: tbd
 
 ## 19th October 2019
 
-*This piece was first published by the ABC in 2019. Update: I'm still plugging away at the manuscripts, they are still unsold, and Pillow Tummy remains soft, billowy and delicious.*
-
 <img src="/images/20191019/pic1.jpg" class="photo-horiz" />
 
 There’s a certain hypocrisy inherent in being a parent. Sometimes I shout ‘STOP SHOUTING!’ at my bickering kids, for instance; or I take the form of a buzzkill sugar-Nazi, doling out mealy-mouthed double-squares of chocolate to the children and then necking back the rest of the family-sized block myself in the bathtub. These days, I find myself grappling with a new hypocrisy, in which I frown at my twelve year old texting, before I go and sit in my lovely private toilet to scroll Instagram;  gormless and slacked jawed in that anaesthetizing blue light.

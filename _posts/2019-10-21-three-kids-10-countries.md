@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: 3 Kids, 10 Countries, 3 Weeks (No Anaesthetic)
+title: 3 kids, 10 countries, 3 weeks (no anaesthetic)
 date: 21-Oct-2019
 categories: tbd
 ---
