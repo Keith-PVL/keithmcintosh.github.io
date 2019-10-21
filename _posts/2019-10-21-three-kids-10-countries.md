@@ -5,7 +5,7 @@ date: 21-Oct-2019
 categories: tbd
 ---
 
-# 3 Kids, 10 Countries, 3 Weeks (No Anaesthetic)
+# Three kids, ten countries, three weeks (no anaesthetic)
 
 ## 21st October 2019
 
@@ -13,7 +13,7 @@ After a year in France, my husband Keith and I are taking our three Australian k
 
 Job-portability is the key to the whole thing. We’ll just take our normal work-from-home setup on the road, and Keith, part of a small software company, will scramble all kinds of makeshift offices, from ironing boards to bathrooms. There are no Insta-worthy hotels and restaurants on our itinerary; rather, careful screening of bottom-end-Airbnb reviews (one sample ‘flat smelt weird and toilet contained a large, unflushed poo.’) Is it possible, we wonder, to be tightwad, freewheeling backpackers as well as middle-aged, frazzled parents, and still have a blast on the road? We’ll see.
 
-**France**
+</b>France</b>
 
 At our first stop,  Aix Les Bains, the ‘Riviera of the Alps’, we relax by a beautiful lake with a waterslide that deposits the kids right into the silky, cool water. Holidays, hooray! We do, however have a swimsuit situation. In Europe, men and boys must wear tight trunks instead of baggy shorts, so I buy the nine year old a pair from a budgie-smuggler vending machine. But I have an unsettling encounter with a security guard when I try to walk through the pool area with a cover-up over my swimmers. ‘Take off your dress!’ barks a security guard. Sir! I reply. How very dare you! The adventure is progressing nicely, apart from one thing. Sat Nav.
 
@@ -40,19 +40,19 @@ The backdrop is unbelievably gorgeous as Sal’s Swiss husband Denis cooks racle
 <img src="/images/20191021/rach-leseppi.jpg" class="photo-horiz" />
 
 
-**Germany**
+<b>Germany</b>
 
 Prime destination: Europa Parc, a massive amusement park run with Germanic efficiency, where we have a shrieking great time on the Silver Star rollercoaster (aka the Trouser Soiler) which loops us through the air at incredible heights.
 
 We’re getting into the swing of road-trip life, which is 80% packing and repacking bags. We book accommodation as we go, wash clothes with soap in the sink and eat picnics made of weird foreign-supermarket fare. We shrink family life into a microcosm of itself, splitting tasks into portfolios of specialty and preference. Nobody’s completely happy, of course – I’d rather not manage every meal, and Keith is very much over European drivers, but I’d prefer to cook than eat what Keith might dish up and rather than sit next to me panicking on a German autobahn, Keith would do… almost anything, I expect.
 
-**Austria**
+<b>Austria</b>
 
 Our plans for a city break in Salzburg are scuttled when we see the prices. We widen our net and luck out with Pfarrwerfen, a gem of a town deep in the Austrian Alps, an hour outside the city. It’s no surprise to find that nearby Werfen is featured in the Sound of Music  -  the scenery is jawdropping; every vista a Bob Ross painting.  We twirl on the very meadow where Maria taught Do Re Mi to the children, and visit the Hohenwerfen Castle, which contains a full display of torture implements in its medieval dungeon, including Scolds Bridle, a Spanish Sock and a full-sized rack. Nightmares sorted for the next decade, then. Thanks, Austria!
 
 Grand old-lady Salzburg is wonderful and the schnitzel superb but life on the road is wearing on me a little. The hills are alive with the sound of children armpit-farting. I need a bathtub, a decent coffee, and just a tiny, tiny bit of personal space. My back is sore from the rollercoastering (worth it) but there is no way to skulk off and indulge a black mood on a road trip. It’s all about the togetherness, you see. Dear god. The togetherness.
 
-**Slovenia**
+<b>Slovenia</b>
 
 I navigate us unsteadily into Slovenia until we eventually find our accommodation. Managing shifting languages and currency and geography is tricky.  ‘I try really hard, but sometimes the plan just falls apart,’ I say to Keith. ‘I feel like France Spencer.’ ‘Well, I feel like Betty,’ he replies. 
 
@@ -60,11 +60,11 @@ But then: Ljubliana! It’s love! Slovenia’s beautiful capital is a romantic d
 
 <img src="/images/20191021/mini.jpg" class="photo-horiz" />
 
-**Croatia**
+<b>Croatia</b>
 
 As we pack up yet another Airbnb (getting quick at this) I gaily toss a bottle of olive oil into the food bag and it shatters. Oh Betty. The cat’s done a whoopsie in my beret. We’re heading for inland Croatia (much cheaper than the beaches) to Kotli, on the Istrian Coast. It’s a tiny hamlet of nineteenth century stone ruins with a single, charming restaurant that overlooks the white rocks and aquamarine waters of the Mirna Falls. The house is odd and the wifi doesn’t work, but there is a little swimming pool set in a leafy garden and the children are thrilled. Spaghetti with nothing but tinned tomatoes. Black coffee. Handfuls of crackers.
 
-**Italy**
+<b>Italy</b>
 
 In Verona we stay in a super-cheap apartment in the industrial outskirts of the city where the freeways converge in a spaghetti-tangle. The wifi works here, but only in the bathroom. Keith, unfazed as always, carries in a little table and set up what we call Fonzie’s office. Of course, suddenly everybody needs to poo.
 
@@ -78,7 +78,7 @@ One day, we stop for lunch in an unremarkable-seeming town and have the most del
 
 <img src="/images/20191021/venice.jpg" class="photo-horiz" />
 
-**Monaco**
+<b>Monaco</b>
 
 It’s our last night on the road and we are fancy-free and unbooked. Should we stop on the Italian or the French Riviera, honey? It’s just like we’re George and Amal! Except for the burnt bum (#bidetgate) and the budget.
 
@@ -88,6 +88,6 @@ It’s an easy decision, really, to drive back to our home near Montpellier.  We
 
 <img src="/images/20191021/car.jpg" class="photo-horiz" />
 
-**Australia**
+<b>Australia</b>
 
 Home, to irreverent gags, to superlative coffee, to a leadership spill. I left all my beloved school mums discussing gluten-free baking and the ‘gut brain’ a year ago; and I arrive for coffee this morning to find them discussing the diets of their dogs. It’s like we never left.  ‘Oh, Betty,’ I say to Keith, ‘let’s never go away again.’  ‘You say that now, Frank,’ he replies.
