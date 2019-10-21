@@ -1,11 +1,11 @@
 ﻿---
 layout: post
-title: Go back to Shit Island (On Boundaries)
+title: Go back to Shit Island (On boundaries)
 date: 7-Mar-2019
 categories: tbd
 ---
 
-# Go Back To Shit Island (On Boundaries)
+# Go back to Shit Island (On boundaries)
 
 ## 7th March 2019
 
